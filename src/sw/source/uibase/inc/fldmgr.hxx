@@ -22,8 +22,8 @@
 #include <fldbas.hxx>
 #include <pam.hxx>
 #include <swdllapi.h>
-#include <com/sun/star/uno/Reference.h>
-#include <com/sun/star/uno/Any.h>
+//#include <com/sun/star/uno/Reference.h>
+//#include <com/sun/star/uno/Any.h>
 #include <memory>
 #include <optional>
 #include <utility>

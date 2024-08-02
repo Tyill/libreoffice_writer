@@ -25,7 +25,7 @@
 
 #include <sal/types.h>
 
-#include <com/sun/star/uno/Sequence.h>
+//#include <com/sun/star/uno/Sequence.h>
 #include <o3tl/typed_flags_set.hxx>
 #include <svx/ctredlin.hxx>
 

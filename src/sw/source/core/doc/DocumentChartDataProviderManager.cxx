@@ -25,8 +25,8 @@
 #include <swtable.hxx>
 #include <unochart.hxx>
 #include <ndole.hxx>
-#include <com/sun/star/chart2/XChartDocument.hpp>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/chart2/XChartDocument.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 
 
 using namespace com::sun::star;

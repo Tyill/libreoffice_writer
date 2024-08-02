@@ -19,11 +19,11 @@
 
 #pragma once
 
-#include <com/sun/star/container/NoSuchElementException.hpp>
-#include <com/sun/star/container/XStringKeyMap.hpp>
+//#include <com/sun/star/container/NoSuchElementException.hpp>
+//#include <com/sun/star/container/XStringKeyMap.hpp>
 
-#include <com/sun/star/awt/FontUnderline.hpp>
-#include <com/sun/star/uno/Any.hxx>
+//#include <com/sun/star/awt/FontUnderline.hpp>
+//#include <com/sun/star/uno/Any.hxx>
 
 #include <vector>
 #include <memory>

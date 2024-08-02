@@ -21,7 +21,7 @@
 
 #include <ooo/vba/word/XListGallery.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
-#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
 
 typedef InheritedHelperInterfaceWeakImpl< ooo::vba::word::XListGallery > SwVbaListGallery_BASE;
 

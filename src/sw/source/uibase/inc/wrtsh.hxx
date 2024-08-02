@@ -25,7 +25,7 @@
 #include <IMark.hxx>
 #include "navmgr.hxx"
 #include <optional>
-#include <com/sun/star/embed/EmbedVerbs.hpp>
+//#include <com/sun/star/embed/EmbedVerbs.hpp>
 #include <o3tl/typed_flags_set.hxx>
 #include <svx/swframetypes.hxx>
 #include <vcl/weld.hxx>

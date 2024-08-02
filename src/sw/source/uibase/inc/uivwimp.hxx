@@ -22,8 +22,8 @@
 #include <view.hxx>
 
 #include <sfx2/objsh.hxx>
-#include <com/sun/star/view/XSelectionSupplier.hpp>
-#include <com/sun/star/datatransfer/clipboard/XClipboardListener.hpp>
+//#include <com/sun/star/view/XSelectionSupplier.hpp>
+//#include <com/sun/star/datatransfer/clipboard/XClipboardListener.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <cppuhelper/weakref.hxx>
 #include <unotools/weakref.hxx>

@@ -28,7 +28,7 @@
 #include <calbck.hxx>
 #include <svl/SfxBroadcaster.hxx>
 #include <o3tl/typed_flags_set.hxx>
-#include <com/sun/star/style/TabStop.hpp>
+////#include <com/sun/star/style/TabStop.hpp>
 #include <basegfx/matrix/b2dhommatrix.hxx>
 #include <vcl/outdev.hxx>
 

@@ -42,7 +42,7 @@
 #include <frameformats.hxx>
 
 #include <vector>
-#include <com/sun/star/linguistic2/XProofreadingIterator.hpp>
+//#include <com/sun/star/linguistic2/XProofreadingIterator.hpp>
 #include <osl/diagnose.h>
 
 using namespace ::com::sun::star;

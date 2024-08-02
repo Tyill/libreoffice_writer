@@ -19,7 +19,7 @@
 
 #pragma once
 
-#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
 #include <string>
 #include <dmapper/resourcemodel.hxx>
 

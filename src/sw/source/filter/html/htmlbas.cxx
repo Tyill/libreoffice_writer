@@ -28,10 +28,10 @@
 #include <svtools/htmlout.hxx>
 #include <svtools/htmlkywd.hxx>
 
-#include <com/sun/star/document/XEventsSupplier.hpp>
-#include <com/sun/star/uno/Reference.hxx>
-#include <com/sun/star/script/XLibraryContainer.hpp>
-#include <com/sun/star/container/XNameContainer.hpp>
+//#include <com/sun/star/document/XEventsSupplier.hpp>
+//#include <com/sun/star/uno/Reference.hxx>
+//#include <com/sun/star/script/XLibraryContainer.hpp>
+//#include <com/sun/star/container/XNameContainer.hpp>
 
 #include <fmtfld.hxx>
 

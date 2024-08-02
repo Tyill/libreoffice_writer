@@ -19,11 +19,11 @@
 
 #include <hintids.hxx>
 
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/text/XTextTable.hpp>
-#include <com/sun/star/table/XCellRange.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/text/XTextTable.hpp>
+//#include <com/sun/star/table/XCellRange.hpp>
 #include <comphelper/servicehelper.hxx>
 #include <o3tl/numeric.hxx>
 #include <o3tl/safeint.hxx>

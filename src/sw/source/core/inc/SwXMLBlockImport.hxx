@@ -22,7 +22,7 @@
 #include <xmloff/xmlimp.hxx>
 #include <xmloff/xmlnamespace.hxx>
 #include <xmloff/xmltoken.hxx>
-#include <com/sun/star/xml/sax/FastToken.hpp>
+//#include <com/sun/star/xml/sax/FastToken.hpp>
 #include <sax/fastattribs.hxx>
 
 namespace com::sun::star::xml::sax { class XFastTokenHandler; }

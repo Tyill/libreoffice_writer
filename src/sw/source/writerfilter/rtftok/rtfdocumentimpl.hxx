@@ -15,8 +15,8 @@
 #include <vector>
 #include <optional>
 
-#include <com/sun/star/text/WrapTextMode.hpp>
-#include <com/sun/star/io/WrongFormatException.hpp>
+//#include <com/sun/star/text/WrapTextMode.hpp>
+//#include <com/sun/star/io/WrongFormatException.hpp>
 #include <oox/mathml/importutils.hxx>
 #include <rtl/strbuf.hxx>
 #include <rtl/ustrbuf.hxx>

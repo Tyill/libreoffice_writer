@@ -19,10 +19,10 @@
 
 #pragma once
 
-#include <com/sun/star/accessibility/XAccessibleTable.hpp>
-#include <com/sun/star/accessibility/XAccessibleTableSelection.hpp>
+//#include <com/sun/star/accessibility/XAccessibleTable.hpp>
+//#include <com/sun/star/accessibility/XAccessibleTableSelection.hpp>
 #include <vector>
-#include <com/sun/star/accessibility/XAccessibleSelection.hpp>
+//#include <com/sun/star/accessibility/XAccessibleSelection.hpp>
 
 #include <svl/listener.hxx>
 #include <unotools/weakref.hxx>

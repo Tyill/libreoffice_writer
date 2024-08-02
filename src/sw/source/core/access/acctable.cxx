@@ -21,12 +21,12 @@
 
 #include <algorithm>
 #include <vector>
-#include <com/sun/star/accessibility/AccessibleRole.hpp>
-#include <com/sun/star/accessibility/AccessibleStateType.hpp>
-#include <com/sun/star/accessibility/AccessibleEventId.hpp>
-#include <com/sun/star/accessibility/AccessibleTableModelChange.hpp>
-#include <com/sun/star/accessibility/AccessibleTableModelChangeType.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/accessibility/AccessibleRole.hpp>
+//#include <com/sun/star/accessibility/AccessibleStateType.hpp>
+//#include <com/sun/star/accessibility/AccessibleEventId.hpp>
+//#include <com/sun/star/accessibility/AccessibleTableModelChange.hpp>
+//#include <com/sun/star/accessibility/AccessibleTableModelChangeType.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
 #include <o3tl/safeint.hxx>
 #include <vcl/svapp.hxx>
 #include <frmfmt.hxx>
@@ -40,7 +40,7 @@
 #include <strings.hrc>
 #include "acctable.hxx"
 
-#include <com/sun/star/accessibility/XAccessibleText.hpp>
+//#include <com/sun/star/accessibility/XAccessibleText.hpp>
 
 #include <editeng/brushitem.hxx>
 #include <swatrset.hxx>

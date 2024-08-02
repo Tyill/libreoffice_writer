@@ -24,7 +24,7 @@
 #include <nodeoffset.hxx>
 #include <tox.hxx>
 
-#include <com/sun/star/lang/Locale.hpp>
+//#include <com/sun/star/lang/Locale.hpp>
 #include <optional>
 #include <utility>
 

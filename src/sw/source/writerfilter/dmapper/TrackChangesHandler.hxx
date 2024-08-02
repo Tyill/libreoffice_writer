@@ -9,7 +9,7 @@
 #pragma once
 
 #include "LoggedResources.hxx"
-#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
 #include <dmapper/PropertyMap.hxx>
 
 namespace writerfilter::dmapper

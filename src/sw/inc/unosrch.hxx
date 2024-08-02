@@ -19,8 +19,8 @@
 #ifndef INCLUDED_SW_INC_UNOSRCH_HXX
 #define INCLUDED_SW_INC_UNOSRCH_HXX
 
-#include <com/sun/star/util/XPropertyReplace.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/util/XPropertyReplace.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <rtl/ustring.hxx>
 #include <memory>

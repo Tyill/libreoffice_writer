@@ -20,8 +20,8 @@
 #include <config_features.h>
 
 #include <doc.hxx>
-#include <com/sun/star/script/vba/XVBAEventProcessor.hpp>
-#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/script/vba/XVBAEventProcessor.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
 #include <DocumentFieldsManager.hxx>
 #include <DocumentSettingManager.hxx>
 #include <DocumentDrawModelManager.hxx>
@@ -107,7 +107,7 @@
 */
 #include <docsh.hxx>
 
-#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
 #include <editeng/unoprnms.hxx>
 #include <unotextrange.hxx>
 #include <unoprnms.hxx>

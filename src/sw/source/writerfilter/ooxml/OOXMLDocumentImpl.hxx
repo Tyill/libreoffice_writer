@@ -20,8 +20,8 @@
 
 #include <ooxml/OOXMLDocument.hxx>
 
-#include <com/sun/star/xml/dom/XDocument.hpp>
-#include <com/sun/star/graphic/XGraphicMapper.hpp>
+//#include <com/sun/star/xml/dom/XDocument.hpp>
+//#include <com/sun/star/graphic/XGraphicMapper.hpp>
 
 #include <oox/drawingml/drawingmltypes.hxx>
 #include <oox/drawingml/ThemeFilterBase.hxx>

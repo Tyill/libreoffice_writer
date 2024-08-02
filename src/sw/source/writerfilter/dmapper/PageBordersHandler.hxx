@@ -22,7 +22,7 @@
 
 #include "LoggedResources.hxx"
 
-#include <com/sun/star/table/BorderLine2.hpp>
+//#include <com/sun/star/table/BorderLine2.hpp>
 
 #include <vector>
 

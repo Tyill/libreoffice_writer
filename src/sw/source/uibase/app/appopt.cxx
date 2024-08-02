@@ -20,7 +20,7 @@
 #include <memory>
 #include <cmdid.h>
 
-#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
 
 #include <sal/log.hxx>
 #include <hintids.hxx>

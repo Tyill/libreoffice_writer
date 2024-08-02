@@ -93,8 +93,8 @@
 #include <GraphicSizeCheck.hxx>
 #include <svx/galleryitem.hxx>
 #include <sfx2/devtools/DevelopmentToolChildWindow.hxx>
-#include <com/sun/star/gallery/GalleryItemType.hpp>
-#include <com/sun/star/beans/PropertyValues.hpp>
+//#include <com/sun/star/gallery/GalleryItemType.hpp>
+//#include <com/sun/star/beans/PropertyValues.hpp>
 #include <memory>
 
 

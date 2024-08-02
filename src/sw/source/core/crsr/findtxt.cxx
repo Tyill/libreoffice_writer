@@ -19,8 +19,8 @@
 
 #include <memory>
 
-#include <com/sun/star/util/SearchFlags.hpp>
-#include <com/sun/star/util/SearchResult.hpp>
+//#include <com/sun/star/util/SearchFlags.hpp>
+//#include <com/sun/star/util/SearchResult.hpp>
 #include <comphelper/lok.hxx>
 #include <o3tl/safeint.hxx>
 #include <rtl/ustrbuf.hxx>

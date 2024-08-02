@@ -13,10 +13,10 @@
 #include <optional>
 #include <unordered_map>
 
-#include <com/sun/star/beans/PropertyValue.hpp>
-#include <com/sun/star/text/XTextRange.hpp>
-#include <com/sun/star/uno/Sequence.hxx>
-#include <com/sun/star/xml/dom/XDocument.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/uno/Sequence.hxx>
+//#include <com/sun/star/xml/dom/XDocument.hpp>
 
 #include <rtl/ustrbuf.hxx>
 #include <tools/ref.hxx>

@@ -19,13 +19,13 @@
 
 #include <hintids.hxx>
 
-#include <com/sun/star/i18n/TextConversionOption.hpp>
-#include <com/sun/star/lang/XInitialization.hpp>
-#include <com/sun/star/ui/dialogs/XExecutableDialog.hpp>
-#include <com/sun/star/awt/XWindow.hpp>
-#include <com/sun/star/uno/XComponentContext.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/linguistic2/XThesaurus.hpp>
+//#include <com/sun/star/i18n/TextConversionOption.hpp>
+//#include <com/sun/star/lang/XInitialization.hpp>
+//#include <com/sun/star/ui/dialogs/XExecutableDialog.hpp>
+//#include <com/sun/star/awt/XWindow.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/linguistic2/XThesaurus.hpp>
 
 #include <i18nutil/transliteration.hxx>
 #include <sfx2/objface.hxx>

@@ -20,7 +20,7 @@
 #define INCLUDED_SW_SOURCE_UI_VBA_VBAHEADERFOOTERHELPER_HXX
 
 #include <vbahelper/vbahelper.hxx>
-#include <com/sun/star/text/XText.hpp>
+//#include <com/sun/star/text/XText.hpp>
 
 class HeaderFooterHelper
 {

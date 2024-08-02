@@ -14,8 +14,8 @@
 #include <o3tl/any.hxx>
 #include <o3tl/unreachable.hxx>
 
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/beans/XPropertySetInfo.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertySetInfo.hpp>
 
 namespace sw
 {

@@ -19,7 +19,7 @@
 
 #include <config_wasm_strip.h>
 
-#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
 
 #include <hintids.hxx>
 #include <svx/srchdlg.hxx>

@@ -23,7 +23,7 @@
 #include <o3tl/string_view.hxx>
 #include <osl/diagnose.h>
 #include <editeng/paperinf.hxx>
-#include <com/sun/star/uno/Sequence.hxx>
+//#include <com/sun/star/uno/Sequence.hxx>
 #include <rtl/ustrbuf.hxx>
 #include <tools/UnitConversion.hxx>
 #include <unotools/useroptions.hxx>

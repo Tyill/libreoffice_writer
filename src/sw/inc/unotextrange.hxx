@@ -20,14 +20,14 @@
 #ifndef INCLUDED_SW_INC_UNOTEXTRANGE_HXX
 #define INCLUDED_SW_INC_UNOTEXTRANGE_HXX
 
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/beans/XPropertyState.hpp>
-#include <com/sun/star/container/XIndexAccess.hpp>
-#include <com/sun/star/container/XEnumerationAccess.hpp>
-#include <com/sun/star/container/XContentEnumerationAccess.hpp>
-#include <com/sun/star/text/XTextRange.hpp>
-#include <com/sun/star/text/XRedline.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertyState.hpp>
+//#include <com/sun/star/container/XIndexAccess.hpp>
+//#include <com/sun/star/container/XEnumerationAccess.hpp>
+//#include <com/sun/star/container/XContentEnumerationAccess.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/text/XRedline.hpp>
 
 #include <cppuhelper/implbase.hxx>
 #include <svl/listener.hxx>

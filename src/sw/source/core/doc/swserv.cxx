@@ -19,7 +19,7 @@
 
 #include <sot/exchange.hxx>
 #include <sfx2/linkmgr.hxx>
-#include <com/sun/star/uno/Sequence.h>
+//#include <com/sun/star/uno/Sequence.h>
 #include <doc.hxx>
 #include <IDocumentLinksAdministration.hxx>
 #include <IDocumentLayoutAccess.hxx>

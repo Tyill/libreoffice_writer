@@ -19,17 +19,17 @@
 #pragma once
 
 #include <sal/types.h>
-#include <com/sun/star/beans/NamedValue.hpp>
-#include <com/sun/star/uno/Reference.hxx>
-#include <com/sun/star/io/XInputStream.hpp>
-#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/beans/NamedValue.hpp>
+//#include <com/sun/star/uno/Reference.hxx>
+//#include <com/sun/star/io/XInputStream.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
 #include <dmapper/resourcemodel.hxx>
-#include <com/sun/star/task/XStatusIndicator.hpp>
-#include <com/sun/star/xml/sax/XFastParser.hpp>
-#include <com/sun/star/xml/sax/XFastTokenHandler.hpp>
-#include <com/sun/star/xml/dom/XDocument.hpp>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/drawing/XDrawPage.hpp>
+//#include <com/sun/star/task/XStatusIndicator.hpp>
+//#include <com/sun/star/xml/sax/XFastParser.hpp>
+//#include <com/sun/star/xml/sax/XFastTokenHandler.hpp>
+//#include <com/sun/star/xml/dom/XDocument.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/drawing/XDrawPage.hpp>
 #include <oox/shape/ShapeContextHandler.hxx>
 #include <oox/drawingml/theme.hxx>
 

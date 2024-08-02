@@ -18,7 +18,7 @@
  */
 #include "vbaparagraph.hxx"
 #include "vbarange.hxx"
-#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <utility>
 

@@ -22,8 +22,8 @@
 #include "LoggedResources.hxx"
 #include "PropertyMap.hxx"
 #include "SettingsTable.hxx"
-#include <com/sun/star/lang/XComponent.hpp>
-#include <com/sun/star/style/TabAlign.hpp>
+//#include <com/sun/star/lang/XComponent.hpp>
+//#include <com/sun/star/style/TabAlign.hpp>
 #include <o3tl/deleter.hxx>
 #include <rtl/ref.hxx>
 

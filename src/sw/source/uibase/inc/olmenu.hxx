@@ -18,10 +18,10 @@
  */
 #pragma once
 
-#include <com/sun/star/linguistic2/XDictionary.hpp>
-#include <com/sun/star/linguistic2/XSpellAlternatives.hpp>
-#include <com/sun/star/linguistic2/ProofreadingResult.hpp>
-#include <com/sun/star/uno/Sequence.h>
+//#include <com/sun/star/linguistic2/XDictionary.hpp>
+//#include <com/sun/star/linguistic2/XSpellAlternatives.hpp>
+//#include <com/sun/star/linguistic2/ProofreadingResult.hpp>
+//#include <com/sun/star/uno/Sequence.h>
 
 #include <rtl/ustring.hxx>
 #include <toolkit/awt/vclxmenu.hxx>

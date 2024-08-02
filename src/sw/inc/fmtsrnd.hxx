@@ -20,7 +20,7 @@
 #define INCLUDED_SW_INC_FMTSRND_HXX
 
 #include "swdllapi.h"
-#include <com/sun/star/text/WrapTextMode.hpp>
+//#include <com/sun/star/text/WrapTextMode.hpp>
 #include "hintids.hxx"
 #include "format.hxx"
 #include <svl/eitem.hxx>

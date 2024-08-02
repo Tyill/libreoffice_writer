@@ -20,9 +20,9 @@
 #include <memory>
 #include <string.h>
 
-#include <com/sun/star/i18n/UnicodeType.hpp>
-#include <com/sun/star/i18n/WordType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/UnicodeType.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 
 #include <unotools/charclass.hxx>
 

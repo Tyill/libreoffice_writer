@@ -66,7 +66,7 @@
 #include <frameformats.hxx>
 #include <tools/datetimeutils.hxx>
 #include <tools/globname.hxx>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 #include <o3tl/safeint.hxx>
 #include <osl/diagnose.h>
 

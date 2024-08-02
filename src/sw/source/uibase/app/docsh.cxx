@@ -87,16 +87,16 @@
 #define ShellClass_SwDocShell
 #include <sfx2/msg.hxx>
 #include <swslots.hxx>
-#include <com/sun/star/document/UpdateDocMode.hpp>
+//#include <com/sun/star/document/UpdateDocMode.hpp>
 
-#include <com/sun/star/script/XLibraryContainer.hpp>
-#include <com/sun/star/document/XDocumentProperties.hpp>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
-#include <com/sun/star/sdb/DatabaseContext.hpp>
-#include <com/sun/star/sdb/XDocumentDataSource.hpp>
-#include <com/sun/star/uri/UriReferenceFactory.hpp>
-#include <com/sun/star/uri/VndSunStarPkgUrlReferenceFactory.hpp>
-#include <com/sun/star/frame/XStorable.hpp>
+//#include <com/sun/star/script/XLibraryContainer.hpp>
+//#include <com/sun/star/document/XDocumentProperties.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/sdb/DatabaseContext.hpp>
+//#include <com/sun/star/sdb/XDocumentDataSource.hpp>
+//#include <com/sun/star/uri/UriReferenceFactory.hpp>
+//#include <com/sun/star/uri/VndSunStarPkgUrlReferenceFactory.hpp>
+//#include <com/sun/star/frame/XStorable.hpp>
 #include <ooo/vba/XSinkCaller.hpp>
 
 #include <unotextrange.hxx>

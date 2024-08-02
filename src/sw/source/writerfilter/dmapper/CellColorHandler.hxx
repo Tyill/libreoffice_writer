@@ -23,7 +23,7 @@
 #include <vector>
 #include <docmodel/theme/ThemeColorType.hxx>
 #include <docmodel/color/ComplexColor.hxx>
-#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
 
 namespace writerfilter::dmapper
 {

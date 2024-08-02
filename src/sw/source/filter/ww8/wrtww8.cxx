@@ -20,11 +20,11 @@
 #include <memory>
 #include <iostream>
 
-#include <com/sun/star/embed/ElementModes.hpp>
-#include <com/sun/star/embed/XStorage.hpp>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/packages/XPackageEncryption.hpp>
-#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/embed/ElementModes.hpp>
+//#include <com/sun/star/embed/XStorage.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/packages/XPackageEncryption.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
 #include <unotools/ucbstreamhelper.hxx>
 #include <unotools/streamwrap.hxx>
 #include <unotools/securityoptions.hxx>
@@ -97,8 +97,8 @@
 #include "writerwordglue.hxx"
 #include "ww8attributeoutput.hxx"
 #include <xmloff/odffields.hxx>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
-#include <com/sun/star/document/XDocumentProperties.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/document/XDocumentProperties.hpp>
 #include <dbgoutsw.hxx>
 #include <sfx2/docfile.hxx>
 #include <sfx2/frame.hxx>

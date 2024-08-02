@@ -18,11 +18,11 @@
  */
 #include "vbaheaderfooterhelper.hxx"
 #include "wordvbahelper.hxx"
-#include <com/sun/star/text/XTextRangeCompare.hpp>
-#include <com/sun/star/text/XTextRange.hpp>
-#include <com/sun/star/text/XPageCursor.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/lang/IllegalArgumentException.hpp>
+//#include <com/sun/star/text/XTextRangeCompare.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/text/XPageCursor.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/lang/IllegalArgumentException.hpp>
 
 using namespace ::com::sun::star;
 using namespace ::ooo::vba;

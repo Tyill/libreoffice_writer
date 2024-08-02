@@ -39,10 +39,10 @@
 #include <docmodel/theme/Theme.hxx>
 #include <editeng/unoprnms.hxx>
 #include <editeng/boxitem.hxx>
-#include <com/sun/star/text/XTextRange.hpp>
-#include <com/sun/star/container/XEnumerationAccess.hpp>
-#include <com/sun/star/container/XEnumeration.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/container/XEnumerationAccess.hpp>
+//#include <com/sun/star/container/XEnumeration.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 
 namespace sw
 {

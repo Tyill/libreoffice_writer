@@ -43,15 +43,15 @@
 #include <docsh.hxx>
 #include <swunohelper.hxx>
 
-#include <com/sun/star/beans/SetPropertyTolerantFailed.hpp>
-#include <com/sun/star/beans/GetPropertyTolerantResult.hpp>
-#include <com/sun/star/beans/TolerantPropertySetResultType.hpp>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
-#include <com/sun/star/text/WrapTextMode.hpp>
-#include <com/sun/star/text/TextContentAnchorType.hpp>
+//#include <com/sun/star/beans/SetPropertyTolerantFailed.hpp>
+//#include <com/sun/star/beans/GetPropertyTolerantResult.hpp>
+//#include <com/sun/star/beans/TolerantPropertySetResultType.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
+//#include <com/sun/star/text/WrapTextMode.hpp>
+//#include <com/sun/star/text/TextContentAnchorType.hpp>
 
-#include <com/sun/star/drawing/BitmapMode.hpp>
+//#include <com/sun/star/drawing/BitmapMode.hpp>
 #include <comphelper/propertyvalue.hxx>
 #include <comphelper/sequence.hxx>
 #include <comphelper/servicehelper.hxx>

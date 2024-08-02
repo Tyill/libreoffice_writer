@@ -21,11 +21,11 @@
 #include <vbahelper/vbahelper.hxx>
 #include <sal/log.hxx>
 #include <ooo/vba/word/WdListGalleryType.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
-#include <com/sun/star/style/NumberingType.hpp>
-#include <com/sun/star/container/XIndexReplace.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
+//#include <com/sun/star/style/NumberingType.hpp>
+//#include <com/sun/star/container/XIndexReplace.hpp>
 
 using namespace ::ooo::vba;
 using namespace ::com::sun::star;

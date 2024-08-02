@@ -35,15 +35,15 @@
 #include <comphelper/propertyvalue.hxx>
 #include <cppu/unotype.hxx>
 
-#include <com/sun/star/text/XBookmarksSupplier.hpp>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
-#include <com/sun/star/document/XDocumentProperties.hpp>
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
-#include <com/sun/star/drawing/XControlShape.hpp>
-#include <com/sun/star/form/XFormsSupplier.hpp>
-#include <com/sun/star/frame/XStorable.hpp>
-#include <com/sun/star/document/XRedlinesSupplier.hpp>
-#include <com/sun/star/util/thePathSettings.hpp>
+//#include <com/sun/star/text/XBookmarksSupplier.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/document/XDocumentProperties.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/drawing/XControlShape.hpp>
+//#include <com/sun/star/form/XFormsSupplier.hpp>
+//#include <com/sun/star/frame/XStorable.hpp>
+//#include <com/sun/star/document/XRedlinesSupplier.hpp>
+//#include <com/sun/star/util/thePathSettings.hpp>
 #include <ooo/vba/XControlProvider.hpp>
 #include <ooo/vba/word/WdProtectionType.hpp>
 #include <ooo/vba/word/WdSaveFormat.hpp>

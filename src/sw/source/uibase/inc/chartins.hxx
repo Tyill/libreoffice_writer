@@ -21,7 +21,7 @@
 
 #include <tools/gen.hxx>
 #include <tools/link.hxx>
-#include <com/sun/star/ui/dialogs/DialogClosedEvent.hpp>
+//#include <com/sun/star/ui/dialogs/DialogClosedEvent.hpp>
 
 namespace vcl { class Window; }
 

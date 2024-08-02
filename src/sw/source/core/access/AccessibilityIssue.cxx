@@ -8,7 +8,7 @@
  *
  */
 
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+////#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
 
 #include <comphelper/propertyvalue.hxx>
 #include <comphelper/dispatchcommand.hxx>

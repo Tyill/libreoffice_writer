@@ -22,9 +22,9 @@
 
 #include <sal/config.h>
 #include <cppuhelper/implbase.hxx>
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/util/XJobManager.hpp>
-#include <com/sun/star/frame/XTerminateListener2.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/util/XJobManager.hpp>
+//#include <com/sun/star/frame/XTerminateListener2.hpp>
 #include <o3tl/deleter.hxx>
 #include <osl/mutex.hxx>
 #include <list>

@@ -21,7 +21,7 @@
 
 #include <vbahelper/vbacollectionimpl.hxx>
 #include <ooo/vba/word/XCells.hpp>
-#include <com/sun/star/text/XTextTable.hpp>
+//#include <com/sun/star/text/XTextTable.hpp>
 
 typedef CollTestImplHelper< ooo::vba::word::XCells > SwVbaCells_BASE;
 

@@ -19,9 +19,9 @@
 #ifndef INCLUDED_SW_INC_FMTORNT_HXX
 #define INCLUDED_SW_INC_FMTORNT_HXX
 
-#include <com/sun/star/text/HoriOrientation.hpp>
-#include <com/sun/star/text/VertOrientation.hpp>
-#include <com/sun/star/text/RelOrientation.hpp>
+////#include <com/sun/star/text/HoriOrientation.hpp>
+////#include <com/sun/star/text/VertOrientation.hpp>
+////#include <com/sun/star/text/RelOrientation.hpp>
 #include "swdllapi.h"
 #include "hintids.hxx"
 #include "swtypes.hxx"

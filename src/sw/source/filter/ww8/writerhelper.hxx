@@ -22,7 +22,7 @@
 
 #include <vector>
 #include <map>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 
 #include <sfx2/objsh.hxx>
 #include <svl/itempool.hxx>

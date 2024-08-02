@@ -21,7 +21,7 @@
 
 #include <vbahelper/vbacollectionimpl.hxx>
 #include <ooo/vba/word/XListTemplates.hpp>
-#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
 
 typedef CollTestImplHelper< ooo::vba::word::XListTemplates > SwVbaListTemplates_BASE;
 

@@ -21,8 +21,8 @@
 #include <vector>
 #include "LoggedResources.hxx"
 #include "PropertyMap.hxx"
-#include <com/sun/star/table/BorderLine2.hpp>
-#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/table/BorderLine2.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
 #include <o3tl/enumarray.hxx>
 #include <docmodel/theme/ThemeColorType.hxx>
 #include <docmodel/color/ComplexColor.hxx>

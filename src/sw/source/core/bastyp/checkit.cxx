@@ -19,7 +19,7 @@
 
 #include <checkit.hxx>
 #include <comphelper/processfactory.hxx>
-#include <com/sun/star/i18n/InputSequenceChecker.hpp>
+//#include <com/sun/star/i18n/InputSequenceChecker.hpp>
 
 using namespace ::com::sun::star::uno;
 using namespace ::com::sun::star::i18n;

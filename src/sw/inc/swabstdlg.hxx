@@ -22,8 +22,8 @@
 #include <editeng/svxenum.hxx>
 #include <rtl/ustring.hxx>
 #include <sfx2/sfxdlg.hxx>
-#include <com/sun/star/uno/Reference.h>
-#include <com/sun/star/uno/Sequence.h>
+//#include <com/sun/star/uno/Reference.h>
+//#include <com/sun/star/uno/Sequence.h>
 #include <optional>
 #include "dbmgr.hxx"
 #include <cnttab.hxx>

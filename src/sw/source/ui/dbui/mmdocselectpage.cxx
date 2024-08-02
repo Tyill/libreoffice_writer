@@ -29,8 +29,8 @@
 #include <swabstdlg.hxx>
 #include <mmconfigitem.hxx>
 #include <swuiexp.hxx>
-#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
-#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
+//#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
+//#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
 
 using namespace ::com::sun::star::ui::dialogs;
 using namespace ::com::sun::star;

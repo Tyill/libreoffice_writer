@@ -24,7 +24,7 @@
 #include <tools/datetime.hxx>
 #include <svl/numformat.hxx>
 #include <svl/zforlist.hxx>
-#include <com/sun/star/util/DateTime.hpp>
+//#include <com/sun/star/util/DateTime.hpp>
 #include <doc.hxx>
 #include <fldbas.hxx>
 #include <flddat.hxx>

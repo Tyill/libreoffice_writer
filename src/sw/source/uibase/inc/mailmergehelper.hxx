@@ -19,13 +19,13 @@
 #ifndef INCLUDED_SW_SOURCE_UIBASE_INC_MAILMERGEHELPER_HXX
 #define INCLUDED_SW_SOURCE_UIBASE_INC_MAILMERGEHELPER_HXX
 
-#include <com/sun/star/uno/Sequence.h>
-#include <com/sun/star/mail/XAuthenticator.hpp>
-#include <com/sun/star/mail/XConnectionListener.hpp>
-#include <com/sun/star/uno/XCurrentContext.hpp>
-#include <com/sun/star/mail/XMailMessage.hpp>
-#include <com/sun/star/datatransfer/XTransferable.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/uno/Sequence.h>
+//#include <com/sun/star/mail/XAuthenticator.hpp>
+//#include <com/sun/star/mail/XConnectionListener.hpp>
+//#include <com/sun/star/uno/XCurrentContext.hpp>
+//#include <com/sun/star/mail/XMailMessage.hpp>
+//#include <com/sun/star/datatransfer/XTransferable.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <comphelper/compbase.hxx>
 #include <utility>

@@ -19,11 +19,11 @@
 
 #include <comphelper/sequenceashashmap.hxx>
 
-#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
-#include <com/sun/star/xml/sax/SAXException.hpp>
-#include <com/sun/star/xml/dom/DocumentBuilder.hpp>
-#include <com/sun/star/graphic/GraphicMapper.hpp>
+//#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/xml/sax/SAXException.hpp>
+//#include <com/sun/star/xml/dom/DocumentBuilder.hpp>
+//#include <com/sun/star/graphic/GraphicMapper.hpp>
 #include <ooxml/resourceids.hxx>
 #include <oox/drawingml/theme.hxx>
 #include <oox/shape/ShapeFilterBase.hxx>

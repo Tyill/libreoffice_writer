@@ -47,15 +47,15 @@
 #include <fmtmeta.hxx>
 #include <docsh.hxx>
 
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/lang/NoSupportException.hpp>
-#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
-#include <com/sun/star/rdf/Statement.hpp>
-#include <com/sun/star/rdf/URI.hpp>
-#include <com/sun/star/rdf/URIs.hpp>
-#include <com/sun/star/rdf/XLiteral.hpp>
-#include <com/sun/star/rdf/XRepositorySupplier.hpp>
-#include <com/sun/star/lang/DisposedException.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/lang/NoSupportException.hpp>
+//#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
+//#include <com/sun/star/rdf/Statement.hpp>
+//#include <com/sun/star/rdf/URI.hpp>
+//#include <com/sun/star/rdf/URIs.hpp>
+//#include <com/sun/star/rdf/XLiteral.hpp>
+//#include <com/sun/star/rdf/XRepositorySupplier.hpp>
+//#include <com/sun/star/lang/DisposedException.hpp>
 
 using namespace ::com::sun::star;
 

@@ -18,7 +18,7 @@
  */
 #include "vbaframes.hxx"
 #include "vbaframe.hxx"
-#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <utility>
 

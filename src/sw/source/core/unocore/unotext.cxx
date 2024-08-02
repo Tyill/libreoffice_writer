@@ -22,11 +22,11 @@
 #include <memory>
 #include <set>
 
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
-#include <com/sun/star/text/ControlCharacter.hpp>
-#include <com/sun/star/text/TableColumnSeparator.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
-#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/text/ControlCharacter.hpp>
+//#include <com/sun/star/text/TableColumnSeparator.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
 
 #include <svl/listener.hxx>
 #include <vcl/svapp.hxx>

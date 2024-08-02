@@ -20,7 +20,7 @@
 #define INCLUDED_TOOLS_TIME_HXX
 
 #include <tools/toolsdllapi.h>
-#include <com/sun/star/util/Time.hpp>
+//#include <com/sun/star/util/Time.hpp>
 
 namespace com::sun::star::util { struct DateTime; }
 

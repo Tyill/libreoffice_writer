@@ -7,7 +7,7 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
  */
 #pragma once
-#include <com/sun/star/uno/Reference.h>
+//#include <com/sun/star/uno/Reference.h>
 #include <sal/config.h>
 #include <sal/types.h>
 #include <tools/long.hxx>

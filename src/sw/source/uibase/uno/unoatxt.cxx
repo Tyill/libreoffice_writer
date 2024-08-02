@@ -19,10 +19,10 @@
 
 #include <sal/config.h>
 
-#include <com/sun/star/io/IOException.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
-#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
-#include <com/sun/star/container/ElementExistException.hpp>
+//#include <com/sun/star/io/IOException.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
+//#include <com/sun/star/container/ElementExistException.hpp>
 #include <o3tl/safeint.hxx>
 #include <osl/diagnose.h>
 #include <rtl/character.hxx>

@@ -9,7 +9,7 @@
 
 #pragma once
 
-#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
 #include <i18nlangtag/lang.h>
 #include <memory>
 #include <oox/drawingml/theme.hxx>

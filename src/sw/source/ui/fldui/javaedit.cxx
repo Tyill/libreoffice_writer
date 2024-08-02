@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
+//#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
 #include <svl/urihelper.hxx>
 #include <view.hxx>
 #include <sfx2/docfile.hxx>

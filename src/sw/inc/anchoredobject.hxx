@@ -22,7 +22,7 @@
 #include "swtypes.hxx"
 #include "swrect.hxx"
 #include <svx/svdobj.hxx>
-#include <libxml/xmlwriter.h>
+#include <XmlWriter.hxx>
 
 struct SwPosition;
 class SwFrame;

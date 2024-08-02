@@ -21,10 +21,10 @@
 #include <rtl/ref.hxx>
 #include <svl/listener.hxx>
 #include <svl/style.hxx>
-#include <com/sun/star/style/XStyle.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/beans/XMultiPropertySet.hpp>
-#include <com/sun/star/beans/XMultiPropertyStates.hpp>
+//#include <com/sun/star/style/XStyle.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XMultiPropertySet.hpp>
+//#include <com/sun/star/beans/XMultiPropertyStates.hpp>
 #include <cppuhelper/implbase.hxx>
 #include "coreframestyle.hxx"
 

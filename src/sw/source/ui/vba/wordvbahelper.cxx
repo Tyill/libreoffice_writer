@@ -18,14 +18,14 @@
  */
 #include <docsh.hxx>
 #include "wordvbahelper.hxx"
-#include <com/sun/star/frame/XController.hpp>
-#include <com/sun/star/text/XTextViewCursorSupplier.hpp>
-#include <com/sun/star/table/XCellRange.hpp>
-#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
-#include <com/sun/star/container/XNameAccess.hpp>
-#include <com/sun/star/container/XIndexAccess.hpp>
-#include <com/sun/star/lang/XUnoTunnel.hpp>
-#include <com/sun/star/view/XSelectionSupplier.hpp>
+//#include <com/sun/star/frame/XController.hpp>
+//#include <com/sun/star/text/XTextViewCursorSupplier.hpp>
+//#include <com/sun/star/table/XCellRange.hpp>
+//#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
+//#include <com/sun/star/container/XNameAccess.hpp>
+//#include <com/sun/star/container/XIndexAccess.hpp>
+//#include <com/sun/star/lang/XUnoTunnel.hpp>
+//#include <com/sun/star/view/XSelectionSupplier.hpp>
 #include <unotxdoc.hxx>
 #include <doc.hxx>
 #include <IDocumentLayoutAccess.hxx>

@@ -50,8 +50,8 @@
 #include <unoprnms.hxx>
 #include <docsh.hxx>
 
-#include <com/sun/star/beans/PropertyValues.hpp>
-#include <com/sun/star/uri/UriReferenceFactory.hpp>
+//#include <com/sun/star/beans/PropertyValues.hpp>
+//#include <com/sun/star/uri/UriReferenceFactory.hpp>
 
 using namespace ::com::sun::star::uno;
 using namespace ::com::sun::star::beans;

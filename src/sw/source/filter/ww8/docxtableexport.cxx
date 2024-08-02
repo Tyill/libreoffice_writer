@@ -19,7 +19,7 @@
 
 #include "docxattributeoutput.hxx"
 
-#include <com/sun/star/text/XTextTable.hpp>
+//#include <com/sun/star/text/XTextTable.hpp>
 
 #include <comphelper/sequence.hxx>
 #include <svl/grabbagitem.hxx>

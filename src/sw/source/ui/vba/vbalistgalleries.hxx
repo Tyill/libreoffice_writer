@@ -21,7 +21,7 @@
 
 #include <vbahelper/vbacollectionimpl.hxx>
 #include <ooo/vba/word/XListGalleries.hpp>
-#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
 
 typedef CollTestImplHelper< ooo::vba::word::XListGalleries > SwVbaListGalleries_BASE;
 

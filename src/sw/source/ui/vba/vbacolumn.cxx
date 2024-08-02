@@ -19,9 +19,9 @@
 #include "vbacolumn.hxx"
 #include <utility>
 #include <vbahelper/vbahelper.hxx>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/table/XCellRange.hpp>
-#include <com/sun/star/view/XSelectionSupplier.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/table/XCellRange.hpp>
+//#include <com/sun/star/view/XSelectionSupplier.hpp>
 #include "vbatablehelper.hxx"
 
 using namespace ::ooo::vba;

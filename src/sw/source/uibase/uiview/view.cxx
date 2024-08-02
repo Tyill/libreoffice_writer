@@ -88,13 +88,13 @@
 #include <swdtflvr.hxx>
 #include <prtopt.hxx>
 #include <unotxdoc.hxx>
-#include <com/sun/star/frame/FrameSearchFlag.hpp>
-#include <com/sun/star/frame/XLayoutManager.hpp>
-#include <com/sun/star/scanner/ScannerContext.hpp>
-#include <com/sun/star/scanner/XScannerManager2.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/sdb/XDatabaseContext.hpp>
-#include <com/sun/star/sdb/DatabaseContext.hpp>
+//#include <com/sun/star/frame/FrameSearchFlag.hpp>
+//#include <com/sun/star/frame/XLayoutManager.hpp>
+//#include <com/sun/star/scanner/ScannerContext.hpp>
+//#include <com/sun/star/scanner/XScannerManager2.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/sdb/XDatabaseContext.hpp>
+//#include <com/sun/star/sdb/DatabaseContext.hpp>
 #include <toolkit/helper/vclunohelper.hxx>
 #include <sal/log.hxx>
 
@@ -103,8 +103,8 @@
 #include <annotsh.hxx>
 #include <swruler.hxx>
 #include <svx/theme/ThemeColorChangerCommon.hxx>
-#include <com/sun/star/document/XDocumentProperties.hpp>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/document/XDocumentProperties.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
 
 #include <comphelper/propertyvalue.hxx>
 #include <comphelper/servicehelper.hxx>

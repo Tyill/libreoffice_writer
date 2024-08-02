@@ -17,8 +17,8 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/embed/ElementModes.hpp>
-#include <com/sun/star/embed/XTransactedObject.hpp>
+//#include <com/sun/star/embed/ElementModes.hpp>
+//#include <com/sun/star/embed/XTransactedObject.hpp>
 #include <osl/diagnose.h>
 #include <svl/macitem.hxx>
 #include <svtools/unoevent.hxx>
@@ -26,15 +26,15 @@
 #include <comphelper/diagnose_ex.hxx>
 #include <comphelper/fileformat.h>
 #include <comphelper/processfactory.hxx>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/xml/sax/InputSource.hpp>
-#include <com/sun/star/io/IOException.hpp>
-#include <com/sun/star/xml/sax/FastParser.hpp>
-#include <com/sun/star/xml/sax/FastToken.hpp>
-#include <com/sun/star/xml/sax/Parser.hpp>
-#include <com/sun/star/xml/sax/Writer.hpp>
-#include <com/sun/star/xml/sax/SAXParseException.hpp>
-#include <com/sun/star/document/XStorageBasedDocument.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/xml/sax/InputSource.hpp>
+//#include <com/sun/star/io/IOException.hpp>
+//#include <com/sun/star/xml/sax/FastParser.hpp>
+//#include <com/sun/star/xml/sax/FastToken.hpp>
+//#include <com/sun/star/xml/sax/Parser.hpp>
+//#include <com/sun/star/xml/sax/Writer.hpp>
+//#include <com/sun/star/xml/sax/SAXParseException.hpp>
+//#include <com/sun/star/document/XStorageBasedDocument.hpp>
 #include <doc.hxx>
 #include <docsh.hxx>
 #include <shellio.hxx>

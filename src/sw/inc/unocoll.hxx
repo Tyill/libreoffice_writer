@@ -20,10 +20,10 @@
 #define INCLUDED_SW_INC_UNOCOLL_HXX
 #include <limits.h>
 #include "flyenum.hxx"
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/container/XEnumerationAccess.hpp>
-#include <com/sun/star/container/XNameAccess.hpp>
-#include <com/sun/star/container/XIndexAccess.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/container/XEnumerationAccess.hpp>
+//#include <com/sun/star/container/XNameAccess.hpp>
+//#include <com/sun/star/container/XIndexAccess.hpp>
 #include <cppuhelper/implbase.hxx>
 #include "swdllapi.h"
 

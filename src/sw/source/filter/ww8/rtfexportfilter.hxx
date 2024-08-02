@@ -20,9 +20,9 @@
 #ifndef INCLUDED_SW_SOURCE_FILTER_WW8_RTFEXPORTFILTER_HXX
 #define INCLUDED_SW_SOURCE_FILTER_WW8_RTFEXPORTFILTER_HXX
 
-#include <com/sun/star/document/XFilter.hpp>
-#include <com/sun/star/document/XExporter.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/document/XFilter.hpp>
+//#include <com/sun/star/document/XExporter.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <shellio.hxx>
 

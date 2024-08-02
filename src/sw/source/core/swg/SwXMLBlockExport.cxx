@@ -19,8 +19,8 @@
 
 #include <SwXMLBlockExport.hxx>
 #include <SwXMLTextBlocks.hxx>
-#include <com/sun/star/util/MeasureUnit.hpp>
-#include <com/sun/star/xml/sax/XDocumentHandler.hpp>
+//#include <com/sun/star/util/MeasureUnit.hpp>
+//#include <com/sun/star/xml/sax/XDocumentHandler.hpp>
 #include <xmloff/namespacemap.hxx>
 #include <xmloff/xmlnamespace.hxx>
 #include <o3tl/string_view.hxx>

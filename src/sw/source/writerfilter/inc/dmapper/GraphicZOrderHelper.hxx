@@ -8,7 +8,7 @@
 
 #pragma once
 
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 #include <map>
 
 namespace writerfilter::dmapper

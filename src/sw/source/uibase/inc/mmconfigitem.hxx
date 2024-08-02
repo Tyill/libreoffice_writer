@@ -19,9 +19,9 @@
 #ifndef INCLUDED_SW_SOURCE_UIBASE_INC_MMCONFIGITEM_HXX
 #define INCLUDED_SW_SOURCE_UIBASE_INC_MMCONFIGITEM_HXX
 
-#include <com/sun/star/uno/Sequence.hxx>
-#include <com/sun/star/uno/Reference.hxx>
-#include <com/sun/star/view/XSelectionChangeListener.hpp>
+//#include <com/sun/star/uno/Sequence.hxx>
+//#include <com/sun/star/uno/Reference.hxx>
+//#include <com/sun/star/view/XSelectionChangeListener.hpp>
 #include <memory>
 #include <set>
 #include <vector>

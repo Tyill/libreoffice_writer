@@ -20,7 +20,7 @@
 #ifndef INCLUDED_SW_SOURCE_CORE_ACCESS_ACCHYPERLINK_HXX
 #define INCLUDED_SW_SOURCE_CORE_ACCESS_ACCHYPERLINK_HXX
 
-#include <com/sun/star/accessibility/XAccessibleHyperlink.hpp>
+////#include <com/sun/star/accessibility/XAccessibleHyperlink.hpp>
 #include <rtl/ref.hxx>
 #include <cppuhelper/implbase.hxx>
 #include <svl/listener.hxx>

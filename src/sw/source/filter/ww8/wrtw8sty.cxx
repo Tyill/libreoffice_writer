@@ -21,7 +21,7 @@
 
 #include <memory>
 
-#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
 #include <hintids.hxx>
 #include <editeng/boxitem.hxx>
 #include <editeng/fontitem.hxx>

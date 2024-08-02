@@ -19,7 +19,7 @@
 
 #include <swabstdlg.hxx>
 #include <comphelper/processfactory.hxx>
-#include <com/sun/star/text/DialogFactoryService.hpp>
+//#include <com/sun/star/text/DialogFactoryService.hpp>
 
 SwAbstractDialogFactory* SwAbstractDialogFactory::Create()
 {

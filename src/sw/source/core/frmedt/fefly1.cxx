@@ -26,9 +26,9 @@
 #include <svx/svdouno.hxx>
 #include <tools/globname.hxx>
 #include <sot/exchange.hxx>
-#include <com/sun/star/form/FormButtonType.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/form/FormButtonType.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 #include <comphelper/types.hxx>
 #include <osl/diagnose.h>
 #include <comphelper/scopeguard.hxx>

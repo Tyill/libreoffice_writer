@@ -19,10 +19,10 @@
 
 #include "swdocxreader.hxx"
 
-#include <com/sun/star/document/XFilter.hpp>
-#include <com/sun/star/document/XImporter.hpp>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/document/XFilter.hpp>
+//#include <com/sun/star/document/XImporter.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
 #include <comphelper/processfactory.hxx>
 #include <comphelper/propertysequence.hxx>
 #include <doc.hxx>

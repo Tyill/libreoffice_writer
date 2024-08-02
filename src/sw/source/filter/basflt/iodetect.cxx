@@ -26,8 +26,8 @@
 #include <sfx2/docfilt.hxx>
 #include <sfx2/fcontnr.hxx>
 #include <sfx2/docfile.hxx>
-#include <com/sun/star/ucb/ContentCreationException.hpp>
-#include <com/sun/star/embed/XStorage.hpp>
+//#include <com/sun/star/ucb/ContentCreationException.hpp>
+//#include <com/sun/star/embed/XStorage.hpp>
 #include <unicode/ucsdet.h>
 
 using namespace ::com::sun::star;

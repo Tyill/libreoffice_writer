@@ -21,7 +21,7 @@
 
 #include "accframebase.hxx"
 
-#include <com/sun/star/accessibility/XAccessibleSelection.hpp>
+//#include <com/sun/star/accessibility/XAccessibleSelection.hpp>
 
 class SwFlyFrame;
 

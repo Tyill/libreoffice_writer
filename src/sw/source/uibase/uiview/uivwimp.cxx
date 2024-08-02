@@ -22,8 +22,8 @@
 
 #include <cmdid.h>
 
-#include <com/sun/star/scanner/XScannerManager2.hpp>
-#include <com/sun/star/datatransfer/clipboard/XClipboard.hpp>
+//#include <com/sun/star/scanner/XScannerManager2.hpp>
+//#include <com/sun/star/datatransfer/clipboard/XClipboard.hpp>
 #include <comphelper/propertysequence.hxx>
 #include <comphelper/servicehelper.hxx>
 #include <vcl/weld.hxx>

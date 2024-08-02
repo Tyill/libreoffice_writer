@@ -20,7 +20,7 @@
 #include "TDefTableHandler.hxx"
 #include "PropertyMap.hxx"
 #include "ConversionHelper.hxx"
-#include <com/sun/star/table/BorderLine2.hpp>
+//#include <com/sun/star/table/BorderLine2.hpp>
 #include <o3tl/enumarray.hxx>
 #include <o3tl/enumrange.hxx>
 #include <ooxml/resourceids.hxx>

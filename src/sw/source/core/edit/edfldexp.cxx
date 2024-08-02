@@ -20,7 +20,7 @@
 #include <editsh.hxx>
 #include <dbfld.hxx>
 #include <comphelper/processfactory.hxx>
-#include <com/sun/star/sdb/DatabaseContext.hpp>
+//#include <com/sun/star/sdb/DatabaseContext.hpp>
 #include <doc.hxx>
 #include <IDocumentFieldsAccess.hxx>
 #include <docary.hxx>

@@ -22,7 +22,7 @@
 #include <editeng/txtrange.hxx>
 #include <swtypes.hxx>
 #include <swrect.hxx>
-#include <com/sun/star/text/WrapTextMode.hpp>
+//#include <com/sun/star/text/WrapTextMode.hpp>
 #include <nodeoffset.hxx>
 #include <memory>
 #include <vector>

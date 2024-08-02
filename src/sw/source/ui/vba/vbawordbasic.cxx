@@ -30,8 +30,8 @@
 #include <sal/log.hxx>
 #include <tools/urlobj.hxx>
 
-#include <com/sun/star/text/XTextDocument.hpp>
-#include <com/sun/star/util/thePathSettings.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/util/thePathSettings.hpp>
 #include <ooo/vba/word/XBookmarks.hpp>
 #include <ooo/vba/word/XDocuments.hpp>
 

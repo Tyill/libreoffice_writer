@@ -20,8 +20,8 @@
 #pragma once
 
 #include "acccontext.hxx"
-#include <com/sun/star/accessibility/XAccessibleSelection.hpp>
-#include <com/sun/star/accessibility/XAccessibleExtendedAttributes.hpp>
+//#include <com/sun/star/accessibility/XAccessibleSelection.hpp>
+//#include <com/sun/star/accessibility/XAccessibleExtendedAttributes.hpp>
 #include "accselectionhelper.hxx"
 #include <vcl/window.hxx>
 

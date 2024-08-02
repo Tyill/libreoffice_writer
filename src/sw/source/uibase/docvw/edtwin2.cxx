@@ -55,14 +55,14 @@
 #include <comphelper/lok.hxx>
 #include <authfld.hxx>
 
-#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
 #include <unotextrange.hxx>
 #include <SwStyleNameMapper.hxx>
 #include <unoprnms.hxx>
 #include <editeng/unoprnms.hxx>
 #include <rootfrm.hxx>
 #include <unomap.hxx>
-#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
+//#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
 #include <LibreOfficeKit/LibreOfficeKitEnums.h>
 
 namespace {

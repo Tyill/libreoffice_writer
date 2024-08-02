@@ -24,8 +24,8 @@
 #include <o3tl/safeint.hxx>
 #include <utility>
 #include <vcl/svapp.hxx>
-#include <com/sun/star/text/TextMarkupType.hpp>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/text/TextMarkupType.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
 #include <unotextmarkup.hxx>
 #include <ndtxt.hxx>
 #include <doc.hxx>
@@ -49,8 +49,8 @@
 #include <comphelper/sequence.hxx>
 #include <sal/log.hxx>
 
-#include <com/sun/star/lang/XUnoTunnel.hpp>
-#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/lang/XUnoTunnel.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
 
 using namespace ::com::sun::star;
 

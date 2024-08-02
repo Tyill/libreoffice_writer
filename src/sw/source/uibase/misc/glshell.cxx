@@ -19,8 +19,8 @@
 
 #include <sal/config.h>
 
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/frame/XTitle.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/frame/XTitle.hpp>
 #include <svl/eitem.hxx>
 #include <svl/stritem.hxx>
 #include <sfx2/printer.hxx>

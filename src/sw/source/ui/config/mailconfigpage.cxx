@@ -25,9 +25,9 @@
 #include <vcl/svapp.hxx>
 #include <vcl/weld.hxx>
 #include <comphelper/processfactory.hxx>
-#include <com/sun/star/mail/MailServiceType.hpp>
-#include <com/sun/star/mail/XMailService.hpp>
-#include <com/sun/star/mail/MailServiceProvider.hpp>
+//#include <com/sun/star/mail/MailServiceType.hpp>
+//#include <com/sun/star/mail/XMailService.hpp>
+//#include <com/sun/star/mail/MailServiceProvider.hpp>
 #include <strings.hrc>
 
 using namespace ::com::sun::star;

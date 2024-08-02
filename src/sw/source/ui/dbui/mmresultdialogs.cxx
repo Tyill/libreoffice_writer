@@ -57,10 +57,10 @@
 #include <unotools/tempfile.hxx>
 #include <osl/diagnose.h>
 #include <osl/file.hxx>
-#include <com/sun/star/frame/XStorable.hpp>
-#include <com/sun/star/sdbcx/XColumnsSupplier.hpp>
-#include <com/sun/star/sdb/XColumn.hpp>
-#include <com/sun/star/task/ErrorCodeIOException.hpp>
+//#include <com/sun/star/frame/XStorable.hpp>
+//#include <com/sun/star/sdbcx/XColumnsSupplier.hpp>
+//#include <com/sun/star/sdb/XColumn.hpp>
+//#include <com/sun/star/task/ErrorCodeIOException.hpp>
 #include <dbmgr.hxx>
 #include <swunohelper.hxx>
 #include <shellio.hxx>

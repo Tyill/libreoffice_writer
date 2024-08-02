@@ -20,17 +20,17 @@
 #include <config_features.h>
 #include <config_fuzzers.h>
 
-#include <com/sun/star/util/SearchAlgorithms2.hpp>
+//#include <com/sun/star/util/SearchAlgorithms2.hpp>
 #include <o3tl/any.hxx>
 #include <vcl/graphicfilter.hxx>
-#include <com/sun/star/sdb/DatabaseContext.hpp>
-#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
-#include <com/sun/star/ui/dialogs/XFilePickerControlAccess.hpp>
-#include <com/sun/star/ui/dialogs/ExtendedFilePickerElementIds.hpp>
-#include <com/sun/star/ui/dialogs/ListboxControlActions.hpp>
-#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
-#include <com/sun/star/linguistic2/XProofreadingIterator.hpp>
-#include <com/sun/star/linguistic2/XDictionary.hpp>
+//#include <com/sun/star/sdb/DatabaseContext.hpp>
+//#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
+//#include <com/sun/star/ui/dialogs/XFilePickerControlAccess.hpp>
+//#include <com/sun/star/ui/dialogs/ExtendedFilePickerElementIds.hpp>
+//#include <com/sun/star/ui/dialogs/ListboxControlActions.hpp>
+//#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
+//#include <com/sun/star/linguistic2/XProofreadingIterator.hpp>
+//#include <com/sun/star/linguistic2/XDictionary.hpp>
 #include <comphelper/propertyvalue.hxx>
 #include <officecfg/Office/Common.hxx>
 #include <SwCapObjType.hxx>

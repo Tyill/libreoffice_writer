@@ -18,8 +18,8 @@
  */
 
 #include <vcl/svapp.hxx>
-#include <com/sun/star/accessibility/AccessibleEventId.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/accessibility/AccessibleEventId.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
 #include <cppuhelper/typeprovider.hxx>
 #include <frmfmt.hxx>
 #include <ndnotxt.hxx>
@@ -30,7 +30,7 @@
 #include <fmturl.hxx>
 #include "accnotexthyperlink.hxx"
 #include <unotools/accessiblerelationsethelper.hxx>
-#include <com/sun/star/accessibility/XAccessibleRelationSet.hpp>
+//#include <com/sun/star/accessibility/XAccessibleRelationSet.hpp>
 
 using namespace ::com::sun::star;
 using namespace ::com::sun::star::accessibility;

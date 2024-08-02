@@ -25,7 +25,7 @@
 #include <vcl/svapp.hxx>
 #include <vcl/toolbox.hxx>
 
-#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
 
 #include <strings.hrc>
 #include <mmconfigitem.hxx>

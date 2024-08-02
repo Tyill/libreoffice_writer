@@ -22,21 +22,21 @@
 #include <map>
 #include <vector>
 
-#include <com/sun/star/chart2/data/XDataProvider.hpp>
-#include <com/sun/star/chart2/data/XDataSource.hpp>
-#include <com/sun/star/chart2/data/XDataSequence.hpp>
-#include <com/sun/star/chart2/data/XTextualDataSequence.hpp>
-#include <com/sun/star/chart2/data/XNumericalDataSequence.hpp>
-#include <com/sun/star/chart2/data/XLabeledDataSequence2.hpp>
-#include <com/sun/star/chart2/data/XRangeXMLConversion.hpp>
-#include <com/sun/star/chart2/data/DataSequenceRole.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/util/XCloneable.hpp>
-#include <com/sun/star/lang/XComponent.hpp>
-#include <com/sun/star/lang/XEventListener.hpp>
-#include <com/sun/star/util/XModifiable.hpp>
-#include <com/sun/star/util/XModifyListener.hpp>
+//#include <com/sun/star/chart2/data/XDataProvider.hpp>
+//#include <com/sun/star/chart2/data/XDataSource.hpp>
+//#include <com/sun/star/chart2/data/XDataSequence.hpp>
+//#include <com/sun/star/chart2/data/XTextualDataSequence.hpp>
+//#include <com/sun/star/chart2/data/XNumericalDataSequence.hpp>
+//#include <com/sun/star/chart2/data/XLabeledDataSequence2.hpp>
+//#include <com/sun/star/chart2/data/XRangeXMLConversion.hpp>
+//#include <com/sun/star/chart2/data/DataSequenceRole.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/util/XCloneable.hpp>
+//#include <com/sun/star/lang/XComponent.hpp>
+//#include <com/sun/star/lang/XEventListener.hpp>
+//#include <com/sun/star/util/XModifiable.hpp>
+//#include <com/sun/star/util/XModifyListener.hpp>
 
 #include <comphelper/interfacecontainer4.hxx>
 #include <cppuhelper/implbase.hxx>

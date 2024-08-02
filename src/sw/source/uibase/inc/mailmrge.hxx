@@ -22,8 +22,8 @@
 #include <memory>
 #include <sfx2/basedlgs.hxx>
 
-#include <com/sun/star/uno/Sequence.h>
-#include <com/sun/star/uno/Reference.h>
+//#include <com/sun/star/uno/Sequence.h>
+//#include <com/sun/star/uno/Reference.h>
 
 #include <dbmgr.hxx>
 

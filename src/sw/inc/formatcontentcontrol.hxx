@@ -19,8 +19,8 @@
 
 #pragma once
 
-#include <com/sun/star/text/XTextContent.hpp>
-#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/text/XTextContent.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
 
 #include <cppuhelper/weakref.hxx>
 #include <sal/types.h>

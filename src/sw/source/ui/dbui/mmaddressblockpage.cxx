@@ -32,11 +32,11 @@
 #include <vcl/weld.hxx>
 #include <vcl/transfer.hxx>
 #include <mmconfigitem.hxx>
-#include <com/sun/star/container/XNameAccess.hpp>
-#include <com/sun/star/datatransfer/dnd/XDropTarget.hpp>
-#include <com/sun/star/sdbc/SQLException.hpp>
-#include <com/sun/star/sdbcx/XColumnsSupplier.hpp>
-#include <com/sun/star/sdb/XColumn.hpp>
+//#include <com/sun/star/container/XNameAccess.hpp>
+//#include <com/sun/star/datatransfer/dnd/XDropTarget.hpp>
+//#include <com/sun/star/sdbc/SQLException.hpp>
+//#include <com/sun/star/sdbcx/XColumnsSupplier.hpp>
+//#include <com/sun/star/sdb/XColumn.hpp>
 #include <comphelper/sequence.hxx>
 #include <comphelper/string.hxx>
 #include <comphelper/diagnose_ex.hxx>

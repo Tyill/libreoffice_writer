@@ -21,8 +21,8 @@
 
 #include <sal/config.h>
 
-#include <com/sun/star/beans/PropertyValue.hpp>
-#include <com/sun/star/uno/Sequence.hxx>
+//#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/uno/Sequence.hxx>
 #include <rtl/ustring.hxx>
 #include <ooo/vba/word/WdSaveFormat.hpp>
 

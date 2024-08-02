@@ -21,7 +21,7 @@
 
 #include "swdllapi.h"
 #include <svl/poolitem.hxx>
-#include <com/sun/star/text/RubyAdjust.hpp>
+//#include <com/sun/star/text/RubyAdjust.hpp>
 
 class SwTextRuby;
 

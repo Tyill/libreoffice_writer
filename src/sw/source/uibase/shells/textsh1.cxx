@@ -21,9 +21,9 @@
 
 #include <config_features.h>
 
-#include <com/sun/star/i18n/WordType.hpp>
-#include <com/sun/star/linguistic2/XThesaurus.hpp>
-#include <com/sun/star/text/XContentControlsSupplier.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/linguistic2/XThesaurus.hpp>
+//#include <com/sun/star/text/XContentControlsSupplier.hpp>
 
 #include <hintids.hxx>
 #include <cmdid.h>
@@ -86,13 +86,13 @@
 #include <editeng/acorrcfg.hxx>
 #include <swabstdlg.hxx>
 #include <sfx2/sfxdlg.hxx>
-#include <com/sun/star/container/XNameContainer.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
-#include <com/sun/star/uno/Any.hxx>
-#include <com/sun/star/linguistic2/ProofreadingResult.hpp>
-#include <com/sun/star/linguistic2/XDictionary.hpp>
-#include <com/sun/star/linguistic2/XSpellAlternatives.hpp>
+//#include <com/sun/star/container/XNameContainer.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
+//#include <com/sun/star/uno/Any.hxx>
+//#include <com/sun/star/linguistic2/ProofreadingResult.hpp>
+//#include <com/sun/star/linguistic2/XDictionary.hpp>
+//#include <com/sun/star/linguistic2/XSpellAlternatives.hpp>
 #include <editeng/unolingu.hxx>
 #include <doc.hxx>
 #include <drawdoc.hxx>

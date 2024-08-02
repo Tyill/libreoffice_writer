@@ -20,7 +20,7 @@
 #include "ConversionHelper.hxx"
 #include <ooxml/resourceids.hxx>
 #include <osl/diagnose.h>
-#include <com/sun/star/text/SizeType.hpp>
+//#include <com/sun/star/text/SizeType.hpp>
 #include <comphelper/sequence.hxx>
 
 namespace writerfilter::dmapper {

@@ -26,8 +26,8 @@
 #include "frmfmt.hxx"
 #include <editeng/numitem.hxx>
 #include <editeng/borderline.hxx>
-#include <com/sun/star/drawing/TextVerticalAdjust.hpp>
-#include <com/sun/star/text/HorizontalAdjust.hpp>
+//#include <com/sun/star/drawing/TextVerticalAdjust.hpp>
+//#include <com/sun/star/text/HorizontalAdjust.hpp>
 #include <o3tl/typed_flags_set.hxx>
 
 #include <boost/multi_index_container.hpp>

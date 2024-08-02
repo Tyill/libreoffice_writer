@@ -9,11 +9,11 @@
 
 #include <sal/config.h>
 
-#include <com/sun/star/lang/XComponent.hpp>
-#include <com/sun/star/linguistic2/ProofreadingIterator.hpp>
-#include <com/sun/star/linguistic2/XProofreadingIterator.hpp>
-#include <com/sun/star/uno/Reference.hxx>
-#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/lang/XComponent.hpp>
+//#include <com/sun/star/linguistic2/ProofreadingIterator.hpp>
+//#include <com/sun/star/linguistic2/XProofreadingIterator.hpp>
+//#include <com/sun/star/uno/Reference.hxx>
+//#include <com/sun/star/uno/XComponentContext.hpp>
 #include <vcl/svapp.hxx>
 
 #include <proofreadingiterator.hxx>

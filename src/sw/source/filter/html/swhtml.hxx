@@ -33,9 +33,9 @@
 #include <fltshell.hxx>
 #include <swtypes.hxx>
 #include <txtftn.hxx>
-#include <com/sun/star/drawing/XShape.hpp>
-#include <com/sun/star/form/XFormComponent.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/drawing/XShape.hpp>
+//#include <com/sun/star/form/XFormComponent.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 
 #include <memory>
 #include <utility>

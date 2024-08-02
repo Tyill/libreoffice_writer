@@ -32,8 +32,8 @@
 #include <comphelper/processfactory.hxx>
 #include <unotools/configmgr.hxx>
 #include <sal/log.hxx>
-#include <com/sun/star/i18n/WordType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 #include <fmtpdsc.hxx>
 #include <fmthdft.hxx>
 #include <fmtcntnt.hxx>

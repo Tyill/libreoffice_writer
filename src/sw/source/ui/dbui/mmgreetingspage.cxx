@@ -22,10 +22,10 @@
 #include <mmconfigitem.hxx>
 #include "mmaddressblockpage.hxx"
 #include <dbui.hrc>
-#include <com/sun/star/sdb/XColumn.hpp>
-#include <com/sun/star/sdbc/SQLException.hpp>
-#include <com/sun/star/sdbcx/XColumnsSupplier.hpp>
-#include <com/sun/star/container/XNameAccess.hpp>
+//#include <com/sun/star/sdb/XColumn.hpp>
+//#include <com/sun/star/sdbc/SQLException.hpp>
+//#include <com/sun/star/sdbcx/XColumnsSupplier.hpp>
+//#include <com/sun/star/container/XNameAccess.hpp>
 #include <comphelper/diagnose_ex.hxx>
 #include <swmodule.hxx>
 #include <view.hxx>

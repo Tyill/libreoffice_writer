@@ -18,9 +18,9 @@
  */
 
 #include <memory>
-#include <com/sun/star/embed/XEmbedPersist.hpp>
-#include <com/sun/star/embed/Aspects.hpp>
-#include <com/sun/star/embed/ElementModes.hpp>
+//#include <com/sun/star/embed/XEmbedPersist.hpp>
+//#include <com/sun/star/embed/Aspects.hpp>
+//#include <com/sun/star/embed/ElementModes.hpp>
 #include <sal/log.hxx>
 #include <vcl/graphicfilter.hxx>
 #include <vcl/gdimtf.hxx>

@@ -21,8 +21,8 @@
 
 #include <set>
 #include <cppuhelper/implbase.hxx>
-#include <com/sun/star/uno/XComponentContext.hpp>
-#include <com/sun/star/xml/sax/XFastContextHandler.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/xml/sax/XFastContextHandler.hpp>
 #include <oox/mathml/importutils.hxx>
 #include <rtl/ref.hxx>
 #include "OOXMLParserState.hxx"

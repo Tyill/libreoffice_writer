@@ -26,8 +26,8 @@
 #include <map>
 #include <optional>
 
-#include <com/sun/star/container/XIndexContainer.hpp>
-#include <com/sun/star/form/XForm.hpp>
+//#include <com/sun/star/container/XIndexContainer.hpp>
+//#include <com/sun/star/form/XForm.hpp>
 #include <i18nlangtag/lang.h>
 #include <comphelper/stl_types.hxx>
 #include <o3tl/sorted_vector.hxx>

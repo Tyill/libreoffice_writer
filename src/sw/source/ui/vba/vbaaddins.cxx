@@ -20,8 +20,8 @@
 #include "vbaaddin.hxx"
 #include <unotools/pathoptions.hxx>
 #include <sal/log.hxx>
-#include <com/sun/star/lang/XMultiComponentFactory.hpp>
-#include <com/sun/star/ucb/SimpleFileAccess.hpp>
+//#include <com/sun/star/lang/XMultiComponentFactory.hpp>
+//#include <com/sun/star/ucb/SimpleFileAccess.hpp>
 
 using namespace ::ooo::vba;
 using namespace ::com::sun::star;

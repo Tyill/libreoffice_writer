@@ -26,8 +26,8 @@
 #include <vcl/idle.hxx>
 #include <vcl/weld.hxx>
 #include <vcl/customweld.hxx>
-#include <com/sun/star/frame/XController.hpp>
-#include <com/sun/star/text/XTextCursor.hpp>
+//#include <com/sun/star/frame/XController.hpp>
+//#include <com/sun/star/text/XTextCursor.hpp>
 #include <swdllapi.h>
 #include <rtl/ref.hxx>
 

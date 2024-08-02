@@ -28,9 +28,9 @@
 #include "itrform2.hxx"
 #include "txtpaint.hxx"
 #include <breakit.hxx>
-#include <com/sun/star/i18n/ScriptType.hpp>
-#include <com/sun/star/i18n/WordType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 #include <editeng/langitem.hxx>
 #include <charatr.hxx>
 #include <editeng/fhgtitem.hxx>

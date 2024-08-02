@@ -19,11 +19,11 @@
 
 #pragma once
 
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/view/XPrintSettingsSupplier.hpp>
-#include <com/sun/star/view/XViewSettingsSupplier.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/view/XPrintSettingsSupplier.hpp>
+//#include <com/sun/star/view/XViewSettingsSupplier.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <comphelper/ChainablePropertySet.hxx>
 #include <tools/fldunit.hxx>

@@ -89,7 +89,7 @@
 #include <vcl/cvtgrf.hxx>
 #include <oox/drawingml/drawingmltypes.hxx>
 #include <oox/mathml/imexport.hxx>
-#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
 #include <svl/grabbagitem.hxx>
 #include <frmatr.hxx>
 #include <swtable.hxx>

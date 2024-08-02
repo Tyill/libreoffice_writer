@@ -20,7 +20,7 @@
 #include <officecfg/Office/Common.hxx>
 #include <config_wasm_strip.h>
 
-#include <com/sun/star/accessibility/XAccessible.hpp>
+//#include <com/sun/star/accessibility/XAccessible.hpp>
 #include <sfx2/viewfrm.hxx>
 #include <sfx2/progress.hxx>
 #include <svx/srchdlg.hxx>

@@ -22,8 +22,8 @@
 #include "accportions.hxx"
 #include <osl/diagnose.h>
 #include <rtl/ustring.hxx>
-#include <com/sun/star/i18n/Boundary.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/Boundary.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 #include <txttypes.hxx>
 
 // for portion replacement in Special()

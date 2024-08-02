@@ -17,11 +17,11 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 #include "vbabookmark.hxx"
-#include <com/sun/star/text/XBookmarksSupplier.hpp>
-#include <com/sun/star/text/XTextDocument.hpp>
-#include <com/sun/star/text/XTextContent.hpp>
-#include <com/sun/star/text/XTextRange.hpp>
-#include <com/sun/star/view/XSelectionSupplier.hpp>
+//#include <com/sun/star/text/XBookmarksSupplier.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextContent.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/view/XSelectionSupplier.hpp>
 #include <utility>
 #include "vbarange.hxx"
 

@@ -20,7 +20,7 @@
 #include <sfx2/objsh.hxx>
 #include <sfx2/StylePreviewRenderer.hxx>
 
-#include <com/sun/star/lang/IllegalArgumentException.hpp>
+//#include <com/sun/star/lang/IllegalArgumentException.hpp>
 
 #include <sfx2/doctempl.hxx>
 

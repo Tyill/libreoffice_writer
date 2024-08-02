@@ -22,8 +22,8 @@
 
 #include <memory>
 
-#include <com/sun/star/util/XRefreshable.hpp>
-#include <com/sun/star/container/XUniqueIDAccess.hpp>
+//#include <com/sun/star/util/XRefreshable.hpp>
+//#include <com/sun/star/container/XUniqueIDAccess.hpp>
 
 #include "unocoll.hxx"
 

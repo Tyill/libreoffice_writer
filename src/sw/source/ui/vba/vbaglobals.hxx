@@ -19,7 +19,7 @@
 #ifndef INCLUDED_SW_SOURCE_UI_VBA_VBAGLOBALS_HXX
 #define INCLUDED_SW_SOURCE_UI_VBA_VBAGLOBALS_HXX
 
-#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
 #include <ooo/vba/word/XGlobals.hpp>
 #include <ooo/vba/word/XApplication.hpp>
 #include <ooo/vba/word/XSystem.hpp>

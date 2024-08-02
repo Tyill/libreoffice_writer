@@ -20,10 +20,10 @@
 #pragma once
 
 #include <swdllapi.h>
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/container/XEnumeration.hpp>
-#include <com/sun/star/util/XUpdatable.hpp>
-#include <com/sun/star/text/XDependentTextField.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/container/XEnumeration.hpp>
+//#include <com/sun/star/util/XUpdatable.hpp>
+//#include <com/sun/star/text/XDependentTextField.hpp>
 
 #include <cppuhelper/implbase.hxx>
 

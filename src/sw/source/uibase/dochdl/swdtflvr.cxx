@@ -19,12 +19,12 @@
 
 #include <config_features.h>
 
-#include <com/sun/star/embed/XTransactedObject.hpp>
-#include <com/sun/star/embed/Aspects.hpp>
-#include <com/sun/star/embed/XEmbedObjectClipboardCreator.hpp>
-#include <com/sun/star/embed/NoVisualAreaSizeException.hpp>
-#include <com/sun/star/embed/MSOLEObjectSystemCreator.hpp>
-#include <com/sun/star/text/XPasteListener.hpp>
+//#include <com/sun/star/embed/XTransactedObject.hpp>
+//#include <com/sun/star/embed/Aspects.hpp>
+//#include <com/sun/star/embed/XEmbedObjectClipboardCreator.hpp>
+//#include <com/sun/star/embed/NoVisualAreaSizeException.hpp>
+//#include <com/sun/star/embed/MSOLEObjectSystemCreator.hpp>
+//#include <com/sun/star/text/XPasteListener.hpp>
 
 #include <svtools/embedtransfer.hxx>
 #include <svtools/insdlg.hxx>

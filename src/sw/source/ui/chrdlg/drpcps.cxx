@@ -39,8 +39,8 @@
 #include <svtools/unitconv.hxx>
 #include <vcl/print.hxx>
 #include <vcl/svapp.hxx>
-#include <com/sun/star/i18n/BreakIterator.hpp>
-#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/BreakIterator.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
 #include <comphelper/processfactory.hxx>
 #include <osl/diagnose.h>
 

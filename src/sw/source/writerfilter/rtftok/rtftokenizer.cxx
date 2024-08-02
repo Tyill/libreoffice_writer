@@ -16,8 +16,8 @@
 #include <rtl/character.hxx>
 #include <sal/log.hxx>
 #include "rtfskipdestination.hxx"
-#include <com/sun/star/io/BufferSizeExceededException.hpp>
-#include <com/sun/star/task/XStatusIndicator.hpp>
+//#include <com/sun/star/io/BufferSizeExceededException.hpp>
+//#include <com/sun/star/task/XStatusIndicator.hpp>
 #include <filter/msfilter/rtfutil.hxx>
 
 using namespace com::sun::star;

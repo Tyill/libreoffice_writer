@@ -54,7 +54,7 @@
 #include <IDocumentStylePoolAccess.hxx>
 #include <IDocumentState.hxx>
 
-#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
 #include <wrtsh.hxx>
 
 using namespace ::com::sun::star;

@@ -50,8 +50,8 @@
 #include <usrfld.hxx>
 #include <utility>
 #include <viewsh.hxx>
-#include <com/sun/star/i18n/KParseTokens.hpp>
-#include <com/sun/star/i18n/KParseType.hpp>
+//#include <com/sun/star/i18n/KParseTokens.hpp>
+//#include <com/sun/star/i18n/KParseType.hpp>
 
 using namespace ::com::sun::star;
 

@@ -21,7 +21,7 @@
 
 #include <vcl/wizardmachine.hxx>
 #include <mailmergehelper.hxx>
-#include <com/sun/star/uno/Reference.h>
+//#include <com/sun/star/uno/Reference.h>
 
 class SwMailMergeWizard;
 class SwFrameFormat;

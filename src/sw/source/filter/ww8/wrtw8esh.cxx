@@ -18,13 +18,13 @@
  */
 
 #include <memory>
-#include <com/sun/star/embed/Aspects.hpp>
+//#include <com/sun/star/embed/Aspects.hpp>
 
 #include <hintids.hxx>
 
 #include <officecfg/Office/Common.hxx>
 #include <o3tl/any.hxx>
-#include <com/sun/star/drawing/XShape.hpp>
+//#include <com/sun/star/drawing/XShape.hpp>
 #include <vcl/svapp.hxx>
 #include <sot/storage.hxx>
 #include <svl/itemiter.hxx>
@@ -70,8 +70,8 @@
 #include <poolfmt.hxx>
 #include "ww8par.hxx"
 #include <breakit.hxx>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
 #include "attributeoutputbase.hxx"
 #include "writerhelper.hxx"
 #include "writerwordglue.hxx"
@@ -79,8 +79,8 @@
 #include "escher.hxx"
 #include <ndtxt.hxx>
 #include "WW8FFData.hxx"
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/form/XFormComponent.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/form/XFormComponent.hpp>
 #include <IDocumentStylePoolAccess.hxx>
 #include <oox/ole/olehelper.hxx>
 #include <fmturl.hxx>

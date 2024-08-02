@@ -39,7 +39,7 @@
 #include <uivwimp.hxx>
 #include <avmedia/mediaplayer.hxx>
 #include <swmodule.hxx>
-#include <com/sun/star/linguistic2/XLinguProperties.hpp>
+//#include <com/sun/star/linguistic2/XLinguProperties.hpp>
 #include <osl/diagnose.h>
 
 #include <sfx2/objface.hxx>

@@ -17,16 +17,16 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/frame/Desktop.hpp>
-#include <com/sun/star/linguistic2/LinguServiceManager.hpp>
-#include <com/sun/star/linguistic2/XLinguServiceEventBroadcaster.hpp>
-#include <com/sun/star/linguistic2/XProofreadingIterator.hpp>
-#include <com/sun/star/linguistic2/LinguServiceEventFlags.hpp>
+//#include <com/sun/star/frame/Desktop.hpp>
+//#include <com/sun/star/linguistic2/LinguServiceManager.hpp>
+//#include <com/sun/star/linguistic2/XLinguServiceEventBroadcaster.hpp>
+//#include <com/sun/star/linguistic2/XProofreadingIterator.hpp>
+//#include <com/sun/star/linguistic2/LinguServiceEventFlags.hpp>
 
 #include <unotools/lingucfg.hxx>
 #include <comphelper/diagnose_ex.hxx>
 
-#include <com/sun/star/uno/Reference.h>
+//#include <com/sun/star/uno/Reference.h>
 #include <comphelper/processfactory.hxx>
 #include <vcl/svapp.hxx>
 #include <dlelstnr.hxx>

@@ -22,7 +22,7 @@
 
 #include <algorithm>
 
-#include <com/sun/star/mail/MailException.hpp>
+//#include <com/sun/star/mail/MailException.hpp>
 #include <utility>
 #include <osl/diagnose.h>
 

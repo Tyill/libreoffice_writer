@@ -18,8 +18,8 @@
  */
 #include "vbavariables.hxx"
 #include "vbavariable.hxx"
-#include <com/sun/star/beans/XPropertyContainer.hpp>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/beans/XPropertyContainer.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
 
 using namespace ::ooo::vba;
 using namespace ::com::sun::star;

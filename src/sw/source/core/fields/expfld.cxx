@@ -29,7 +29,7 @@
 #include <unotools/charclass.hxx>
 #include <editeng/langitem.hxx>
 #include <editeng/fontitem.hxx>
-#include <com/sun/star/text/SetVariableType.hpp>
+//#include <com/sun/star/text/SetVariableType.hpp>
 #include <unofield.hxx>
 #include <frmfmt.hxx>
 #include <fmtfld.hxx>

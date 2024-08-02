@@ -20,9 +20,9 @@
 #include "dbtablepreviewdialog.hxx"
 #include <comphelper/processfactory.hxx>
 #include <cppuhelper/implbase.hxx>
-#include <com/sun/star/lang/XEventListener.hpp>
-#include <com/sun/star/frame/Frame.hpp>
-#include <com/sun/star/frame/FrameSearchFlag.hpp>
+//#include <com/sun/star/lang/XEventListener.hpp>
+//#include <com/sun/star/frame/Frame.hpp>
+//#include <com/sun/star/frame/FrameSearchFlag.hpp>
 #include <utility>
 
 using namespace ::com::sun::star;

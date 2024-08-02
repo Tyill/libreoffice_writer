@@ -18,7 +18,7 @@
  */
 #pragma once
 
-#include <com/sun/star/document/XEventsSupplier.hpp>
+//#include <com/sun/star/document/XEventsSupplier.hpp>
 
 class SfxPoolItem;
 

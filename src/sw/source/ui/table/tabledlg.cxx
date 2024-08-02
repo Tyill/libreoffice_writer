@@ -58,8 +58,8 @@
 #include <osl/diagnose.h>
 #include <officecfg/Office/Common.hxx>
 
-#include <com/sun/star/text/HoriOrientation.hpp>
-#include <com/sun/star/text/VertOrientation.hpp>
+//#include <com/sun/star/text/HoriOrientation.hpp>
+//#include <com/sun/star/text/VertOrientation.hpp>
 
 using namespace ::com::sun::star;
 

@@ -170,8 +170,8 @@ def getFastParser():
 
 def createImpl(model):
     print("""
-#include <com/sun/star/xml/sax/FastParser.hpp>
-#include <com/sun/star/lang/XInitialization.hpp>
+//#include <com/sun/star/xml/sax/FastParser.hpp>
+//#include <com/sun/star/lang/XInitialization.hpp>
 #include "ooxml/OOXMLFactory.hxx"
 #include "ooxml/OOXMLFastHelper.hxx"
 #include "ooxml/OOXMLStreamImpl.hxx"

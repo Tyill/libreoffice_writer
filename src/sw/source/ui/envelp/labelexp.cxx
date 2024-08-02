@@ -17,9 +17,9 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/text/XTextFieldsSupplier.hpp>
-#include <com/sun/star/util/XRefreshable.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/text/XTextFieldsSupplier.hpp>
+//#include <com/sun/star/util/XRefreshable.hpp>
 #include <label.hxx>
 #include <labimg.hxx>
 #include <unoprnms.hxx>

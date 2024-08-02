@@ -21,9 +21,9 @@
 
 #include <swdllapi.h>
 #include <cppuhelper/implbase.hxx>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/beans/XPropertyState.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertyState.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
 
 class SwDoc;
 class SfxItemPropertySet;

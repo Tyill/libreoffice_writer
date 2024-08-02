@@ -20,8 +20,8 @@
 #include <sal/config.h>
 
 #include "vbaeventshelper.hxx"
-#include <com/sun/star/script/ModuleType.hpp>
-#include <com/sun/star/script/vba/VBAEventId.hpp>
+//#include <com/sun/star/script/ModuleType.hpp>
+//#include <com/sun/star/script/vba/VBAEventId.hpp>
 #include <cppuhelper/supportsservice.hxx>
 
 using namespace ::com::sun::star;

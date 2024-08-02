@@ -17,12 +17,12 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/text/XTextDocument.hpp>
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/container/XIndexContainer.hpp>
-#include <com/sun/star/xforms/XFormsSupplier.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/container/XIndexContainer.hpp>
+//#include <com/sun/star/xforms/XFormsSupplier.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
 
 #include <comphelper/indexedpropertyvalues.hxx>
 #include <osl/diagnose.h>

@@ -22,8 +22,8 @@
 #include <ooo/vba/word/WdLineStyle.hpp>
 #include <sal/macros.h>
 #include <cppuhelper/implbase.hxx>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/table/TableBorder.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/table/TableBorder.hpp>
 #include <utility>
 #include "vbapalette.hxx"
 

@@ -20,8 +20,8 @@
 #include "vbawordbasic.hxx"
 #include <sal/log.hxx>
 
-#include <com/sun/star/beans/PropertyValue.hpp>
-#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
 #include <comphelper/sequence.hxx>
 
 #include "vbaapplication.hxx"

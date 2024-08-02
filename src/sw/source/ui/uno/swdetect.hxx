@@ -20,10 +20,10 @@
 #define INCLUDED_SW_SOURCE_UI_UNO_SWDETECT_HXX
 
 #include <rtl/ustring.hxx>
-#include <com/sun/star/document/XExtendedFilterDetection.hpp>
+//#include <com/sun/star/document/XExtendedFilterDetection.hpp>
 #include <cppuhelper/implbase.hxx>
 
-#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
 
 namespace com::sun::star::beans { struct PropertyValue; }
 

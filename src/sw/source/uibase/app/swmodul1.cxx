@@ -24,9 +24,9 @@
 #include <hintids.hxx>
 #include <sfx2/request.hxx>
 #include <unotools/useroptions.hxx>
-#include <com/sun/star/frame/FrameSearchFlag.hpp>
-#include <com/sun/star/frame/XFrame.hpp>
-#include <com/sun/star/view/XSelectionSupplier.hpp>
+//#include <com/sun/star/frame/FrameSearchFlag.hpp>
+//#include <com/sun/star/frame/XFrame.hpp>
+//#include <com/sun/star/view/XSelectionSupplier.hpp>
 #include <svx/colorwindow.hxx>
 #include <svx/dataaccessdescriptor.hxx>
 #include <editeng/editids.hrc>

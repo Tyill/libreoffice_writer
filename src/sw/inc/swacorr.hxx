@@ -22,7 +22,7 @@
 #include <memory>
 #include <editeng/svxacorr.hxx>
 
-#include <com/sun/star/uno/Reference.h>
+//#include <com/sun/star/uno/Reference.h>
 
 #include "swdllapi.h"
 

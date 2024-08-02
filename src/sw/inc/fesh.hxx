@@ -19,8 +19,8 @@
 #ifndef INCLUDED_SW_INC_FESH_HXX
 #define INCLUDED_SW_INC_FESH_HXX
 
-#include <com/sun/star/text/RelOrientation.hpp>
-#include <com/sun/star/text/XPasteListener.hpp>
+////#include <com/sun/star/text/RelOrientation.hpp>
+////#include <com/sun/star/text/XPasteListener.hpp>
 
 #include <svx/svdobj.hxx>
 #include "swdllapi.h"

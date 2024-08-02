@@ -19,8 +19,8 @@
 #ifndef INCLUDED_SW_SOURCE_UIBASE_INC_SWUIIDXMRK_HXX
 #define INCLUDED_SW_SOURCE_UIBASE_INC_SWUIIDXMRK_HXX
 
-#include <com/sun/star/container/XNameAccess.hpp>
-#include <com/sun/star/i18n/XExtendedIndexEntrySupplier.hpp>
+//#include <com/sun/star/container/XNameAccess.hpp>
+//#include <com/sun/star/i18n/XExtendedIndexEntrySupplier.hpp>
 #include <sfx2/basedlgs.hxx>
 #include <sfx2/childwin.hxx>
 #include <vcl/weld.hxx>

@@ -64,8 +64,8 @@
 #include <txtftn.hxx>
 #include <fmtftn.hxx>
 #include <fmtcntnt.hxx>
-#include <com/sun/star/text/XTextDocument.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
 #include <unoframe.hxx>
 #include <fmthdft.hxx>
 #include <fmtflcnt.hxx>

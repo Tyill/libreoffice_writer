@@ -23,13 +23,13 @@
 #include <tools/solar.h>
 #include <tools/long.hxx>
 #include <i18nlangtag/lang.h>
-#include <com/sun/star/util/Date.hpp>
+//#include <com/sun/star/util/Date.hpp>
 #include "swdllapi.h"
 #include "swdbdata.hxx"
-#include <com/sun/star/uno/Reference.h>
-#include <com/sun/star/uno/Sequence.hxx>
-#include <com/sun/star/lang/Locale.hpp>
-#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/uno/Reference.h>
+//#include <com/sun/star/uno/Sequence.hxx>
+//#include <com/sun/star/lang/Locale.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
 
 #include <memory>
 #include <utility>

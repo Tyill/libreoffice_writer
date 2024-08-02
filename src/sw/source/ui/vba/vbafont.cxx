@@ -18,9 +18,9 @@
  */
 
 #include "vbafont.hxx"
-#include <com/sun/star/awt/FontUnderline.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/container/XIndexAccess.hpp>
+//#include <com/sun/star/awt/FontUnderline.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/container/XIndexAccess.hpp>
 #include <ooo/vba/word/WdUnderline.hpp>
 #include <sal/macros.h>
 #include <unordered_map>

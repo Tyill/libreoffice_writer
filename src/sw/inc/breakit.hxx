@@ -22,8 +22,8 @@
 
 #include <memory>
 #include <optional>
-#include <com/sun/star/uno/Reference.h>
-#include <com/sun/star/i18n/ForbiddenCharacters.hpp>
+//#include <com/sun/star/uno/Reference.h>
+//#include <com/sun/star/i18n/ForbiddenCharacters.hpp>
 #include <i18nlangtag/languagetag.hxx>
 #include "swdllapi.h"
 

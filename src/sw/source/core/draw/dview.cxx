@@ -30,8 +30,8 @@
 #include <tools/globname.hxx>
 #include <editeng/outliner.hxx>
 #include <osl/diagnose.h>
-#include <com/sun/star/embed/EmbedMisc.hpp>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/embed/EmbedMisc.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 #include <unotools/configmgr.hxx>
 
 #include <pagefrm.hxx>
@@ -55,7 +55,7 @@
 #include <DocumentSettingManager.hxx>
 #include <IDocumentLayoutAccess.hxx>
 
-#include <com/sun/star/embed/Aspects.hpp>
+//#include <com/sun/star/embed/Aspects.hpp>
 
 #include <vector>
 

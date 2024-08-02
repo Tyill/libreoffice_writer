@@ -19,7 +19,7 @@
 
 #include <dbconfig.hxx>
 #include <osl/diagnose.h>
-#include <com/sun/star/uno/Sequence.hxx>
+//#include <com/sun/star/uno/Sequence.hxx>
 #include <swdbdata.hxx>
 
 using namespace utl;

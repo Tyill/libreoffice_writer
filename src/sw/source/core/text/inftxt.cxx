@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/linguistic2/XHyphenator.hpp>
+//#include <com/sun/star/linguistic2/XHyphenator.hpp>
 
 #include <unotools/linguprops.hxx>
 #include <unotools/lingucfg.hxx>
@@ -73,13 +73,13 @@
 
 #include <view.hxx>
 #include <wrtsh.hxx>
-#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
 #include <unotextrange.hxx>
 #include <SwStyleNameMapper.hxx>
 #include <unoprnms.hxx>
 #include <editeng/unoprnms.hxx>
 #include <unomap.hxx>
-#include <com/sun/star/awt/FontSlant.hpp>
+//#include <com/sun/star/awt/FontSlant.hpp>
 
 using namespace ::com::sun::star;
 using namespace ::com::sun::star::linguistic2;

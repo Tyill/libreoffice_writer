@@ -41,9 +41,9 @@
 #include <modcfg.hxx>
 #include <frameformats.hxx>
 
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
-#include <com/sun/star/document/XDocumentProperties.hpp>
-#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/document/XDocumentProperties.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
 
 #include <cstddef>
 #include <memory>

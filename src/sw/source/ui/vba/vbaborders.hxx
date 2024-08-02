@@ -20,9 +20,9 @@
 #define INCLUDED_SW_SOURCE_UI_VBA_VBABORDERS_HXX
 
 #include <ooo/vba/word/XBorders.hpp>
-#include <com/sun/star/uno/XComponentContext.hpp>
-#include <com/sun/star/table/XCellRange.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/table/XCellRange.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 #include <vbahelper/vbacollectionimpl.hxx>
 
 typedef CollTestImplHelper< ov::word::XBorders > SwVbaBorders_BASE;

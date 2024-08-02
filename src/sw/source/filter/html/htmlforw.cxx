@@ -17,17 +17,17 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/form/FormSubmitEncoding.hpp>
-#include <com/sun/star/form/FormSubmitMethod.hpp>
-#include <com/sun/star/form/FormButtonType.hpp>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/script/XEventAttacherManager.hpp>
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
-#include <com/sun/star/form/XFormsSupplier.hpp>
-#include <com/sun/star/form/XForm.hpp>
-#include <com/sun/star/form/FormComponentType.hpp>
-#include <com/sun/star/awt/XTextLayoutConstrains.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/form/FormSubmitEncoding.hpp>
+//#include <com/sun/star/form/FormSubmitMethod.hpp>
+//#include <com/sun/star/form/FormButtonType.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/script/XEventAttacherManager.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/form/XFormsSupplier.hpp>
+//#include <com/sun/star/form/XForm.hpp>
+//#include <com/sun/star/form/FormComponentType.hpp>
+//#include <com/sun/star/awt/XTextLayoutConstrains.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 #include <hintids.hxx>
 #include <o3tl/any.hxx>
 #include <rtl/math.hxx>

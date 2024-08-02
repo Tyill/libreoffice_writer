@@ -19,10 +19,10 @@
 #include "vbadocumentproperties.hxx"
 #include <cppuhelper/implbase.hxx>
 #include <sal/log.hxx>
-#include <com/sun/star/document/XDocumentProperties.hpp>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
-#include <com/sun/star/beans/NamedValue.hpp>
-#include <com/sun/star/beans/XPropertyContainer.hpp>
+//#include <com/sun/star/document/XDocumentProperties.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/beans/NamedValue.hpp>
+//#include <com/sun/star/beans/XPropertyContainer.hpp>
 #include <ooo/vba/word/WdBuiltInProperty.hpp>
 #include <ooo/vba/office/MsoDocProperties.hpp>
 #include <comphelper/diagnose_ex.hxx>

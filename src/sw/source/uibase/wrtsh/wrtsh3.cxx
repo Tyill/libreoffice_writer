@@ -25,8 +25,8 @@
 #include <svx/svdview.hxx>
 #include <svx/svdouno.hxx>
 #include <svx/srchdlg.hxx>
-#include <com/sun/star/form/FormButtonType.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/form/FormButtonType.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 #include <osl/diagnose.h>
 #include <sfx2/dispatch.hxx>
 #include <comphelper/lok.hxx>

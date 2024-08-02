@@ -21,9 +21,9 @@
 #include "ConversionHelper.hxx"
 #include "MeasureHandler.hxx"
 #include "TagLogger.hxx"
-#include <com/sun/star/text/SizeType.hpp>
-#include <com/sun/star/text/TableColumnSeparator.hpp>
-#include <com/sun/star/text/WritingMode2.hpp>
+//#include <com/sun/star/text/SizeType.hpp>
+//#include <com/sun/star/text/TableColumnSeparator.hpp>
+//#include <com/sun/star/text/WritingMode2.hpp>
 #include <o3tl/numeric.hxx>
 #include <o3tl/safeint.hxx>
 #include <ooxml/resourceids.hxx>

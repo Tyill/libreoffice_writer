@@ -23,12 +23,12 @@
 #include "selectdbtabledialog.hxx"
 #include "dbtablepreviewdialog.hxx"
 #include <osl/diagnose.h>
-#include <com/sun/star/sdbcx/XTablesSupplier.hpp>
-#include <com/sun/star/sdb/XQueriesSupplier.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/beans/PropertyValue.hpp>
-#include <com/sun/star/container/XChild.hpp>
-#include <com/sun/star/sdbc/XDataSource.hpp>
+//#include <com/sun/star/sdbcx/XTablesSupplier.hpp>
+//#include <com/sun/star/sdb/XQueriesSupplier.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/container/XChild.hpp>
+//#include <com/sun/star/sdbc/XDataSource.hpp>
 
 #include <strings.hrc>
 #include <utility>

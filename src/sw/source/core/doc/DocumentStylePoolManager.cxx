@@ -65,9 +65,9 @@
 #include <strings.hrc>
 #include <frmatr.hxx>
 #include <frameformats.hxx>
-#include <com/sun/star/text/VertOrientation.hpp>
-#include <com/sun/star/text/RelOrientation.hpp>
-#include <com/sun/star/text/HoriOrientation.hpp>
+//#include <com/sun/star/text/VertOrientation.hpp>
+//#include <com/sun/star/text/RelOrientation.hpp>
+//#include <com/sun/star/text/HoriOrientation.hpp>
 #include <unotools/syslocale.hxx>
 #include <i18nlangtag/languagetag.hxx>
 #include <comphelper/lok.hxx>

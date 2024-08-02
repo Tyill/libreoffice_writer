@@ -25,12 +25,12 @@
 #include <comphelper/processfactory.hxx>
 #include <comphelper/string.hxx>
 #include <comphelper/simplefileaccessinteraction.hxx>
-#include <com/sun/star/embed/XStorage.hpp>
-#include <com/sun/star/embed/ElementModes.hpp>
-#include <com/sun/star/embed/XTransactedObject.hpp>
-#include <com/sun/star/task/InteractionHandler.hpp>
+//#include <com/sun/star/embed/XStorage.hpp>
+//#include <com/sun/star/embed/ElementModes.hpp>
+//#include <com/sun/star/embed/XTransactedObject.hpp>
+//#include <com/sun/star/task/InteractionHandler.hpp>
 
-#include <com/sun/star/ucb/XCommandEnvironment.hpp>
+//#include <com/sun/star/ucb/XCommandEnvironment.hpp>
 #include <svl/cintitem.hxx>
 #include <svl/lngmisc.hxx>
 #include <svl/urihelper.hxx>
@@ -44,7 +44,7 @@
 #include <ucbhelper/content.hxx>
 #include <ucbhelper/commandenvironment.hxx>
 
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 #include <hintids.hxx>
 #include <editeng/fontitem.hxx>
 #include <editeng/fhgtitem.hxx>

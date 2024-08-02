@@ -17,8 +17,8 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 #include "vbainformationhelper.hxx"
-#include <com/sun/star/text/XPageCursor.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/text/XPageCursor.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 #include <tools/UnitConversion.hxx>
 #include "wordvbahelper.hxx"
 #include <docsh.hxx>

@@ -20,12 +20,12 @@
 #include <sal/config.h>
 #include <sal/log.hxx>
 
-#include <com/sun/star/util/CloseVetoException.hpp>
+//#include <com/sun/star/util/CloseVetoException.hpp>
 
 #include <doc.hxx>
 #include "writerhelper.hxx"
 #include <msfilter.hxx>
-#include <com/sun/star/container/XChild.hpp>
+//#include <com/sun/star/container/XChild.hpp>
 
 #include <algorithm>
 #include <svl/itemiter.hxx>

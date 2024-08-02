@@ -21,7 +21,7 @@
 #include "PropertyMap.hxx"
 #include <vector>
 
-#include <com/sun/star/text/XTextAppendAndConvert.hpp>
+//#include <com/sun/star/text/XTextAppendAndConvert.hpp>
 
 namespace writerfilter::dmapper {
 

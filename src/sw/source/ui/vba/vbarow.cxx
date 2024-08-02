@@ -19,10 +19,10 @@
 #include "vbarow.hxx"
 #include <utility>
 #include <vbahelper/vbahelper.hxx>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/table/XCellRange.hpp>
-#include <com/sun/star/view/XSelectionSupplier.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/table/XCellRange.hpp>
+//#include <com/sun/star/view/XSelectionSupplier.hpp>
 #include <ooo/vba/word/WdRowHeightRule.hpp>
 #include <ooo/vba/word/WdConstants.hpp>
 #include "vbatablehelper.hxx"

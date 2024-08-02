@@ -26,8 +26,8 @@
 #include <unotools/configitem.hxx>
 #include "numfmtlb.hxx"
 #include <swdbdata.hxx>
-#include <com/sun/star/uno/Reference.h>
-#include <com/sun/star/uno/Sequence.h>
+//#include <com/sun/star/uno/Reference.h>
+//#include <com/sun/star/uno/Sequence.h>
 #include <o3tl/sorted_vector.hxx>
 
 #include <memory>

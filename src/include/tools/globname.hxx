@@ -20,7 +20,7 @@
 #define INCLUDED_TOOLS_GLOBNAME_HXX
 
 #include <tools/toolsdllapi.h>
-#include <com/sun/star/uno/Sequence.hxx>
+//#include <com/sun/star/uno/Sequence.hxx>
 
 #include <compare>
 

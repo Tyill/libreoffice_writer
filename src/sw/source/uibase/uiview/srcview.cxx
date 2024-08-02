@@ -19,8 +19,8 @@
 
 #include <rtl/tencinfo.h>
 #include <osl/diagnose.h>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
 #include <unotools/tempfile.hxx>
 #include <tools/urlobj.hxx>
 #include <vcl/errinf.hxx>
@@ -62,13 +62,13 @@
 
 #include <cmdid.h>
 #include <strings.hrc>
-#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
+//#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
 #include <sfx2/filedlghelper.hxx>
 #define ShellClass_SwSrcView
 #include <swslots.hxx>
 
-#include <com/sun/star/document/XDocumentProperties.hpp>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/document/XDocumentProperties.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
 
 using namespace ::com::sun::star;
 using namespace ::com::sun::star::i18n;

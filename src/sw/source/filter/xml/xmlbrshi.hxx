@@ -21,8 +21,8 @@
 #define INCLUDED_SW_SOURCE_FILTER_XML_XMLBRSHI_HXX
 
 #include <memory>
-#include <com/sun/star/io/XOutputStream.hpp>
-#include <com/sun/star/graphic/XGraphic.hpp>
+//#include <com/sun/star/io/XOutputStream.hpp>
+//#include <com/sun/star/graphic/XGraphic.hpp>
 
 #include <xmloff/xmlictxt.hxx>
 

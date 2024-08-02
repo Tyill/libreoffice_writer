@@ -26,15 +26,15 @@
 
 #include <rtl/ustring.hxx>
 #include <sfx2/zoomitem.hxx>
-#include <com/sun/star/text/ParagraphHyphenationKeepType.hpp>
-#include <com/sun/star/text/XDependentTextField.hpp>
-#include <com/sun/star/text/XTextFieldsSupplier.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/beans/XPropertyState.hpp>
-#include <com/sun/star/container/XNameContainer.hpp>
-#include <com/sun/star/style/XStyle.hpp>
-#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
+//#include <com/sun/star/text/ParagraphHyphenationKeepType.hpp>
+//#include <com/sun/star/text/XDependentTextField.hpp>
+//#include <com/sun/star/text/XTextFieldsSupplier.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertyState.hpp>
+//#include <com/sun/star/container/XNameContainer.hpp>
+//#include <com/sun/star/style/XStyle.hpp>
+//#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
 #include <comphelper/propertysequence.hxx>
 #include <comphelper/propertyvalue.hxx>
 #include <comphelper/sequence.hxx>

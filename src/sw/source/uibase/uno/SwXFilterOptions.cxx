@@ -21,7 +21,7 @@
 #include <shellio.hxx>
 #include <swdll.hxx>
 #include <vcl/svapp.hxx>
-#include <com/sun/star/ui/dialogs/ExecutableDialogResults.hpp>
+//#include <com/sun/star/ui/dialogs/ExecutableDialogResults.hpp>
 #include <comphelper/namedvaluecollection.hxx>
 #include <comphelper/propertysequence.hxx>
 #include <comphelper/servicehelper.hxx>

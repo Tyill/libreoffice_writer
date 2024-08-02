@@ -17,13 +17,13 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/chart/ChartDataRowSource.hpp>
-#include <com/sun/star/chart2/data/XDataProvider.hpp>
-#include <com/sun/star/chart2/data/XDataReceiver.hpp>
-#include <com/sun/star/chart2/XChartDocument.hpp>
-#include <com/sun/star/beans/PropertyState.hpp>
-#include <com/sun/star/embed/EmbedVerbs.hpp>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/chart/ChartDataRowSource.hpp>
+//#include <com/sun/star/chart2/data/XDataProvider.hpp>
+//#include <com/sun/star/chart2/data/XDataReceiver.hpp>
+//#include <com/sun/star/chart2/XChartDocument.hpp>
+//#include <com/sun/star/beans/PropertyState.hpp>
+//#include <com/sun/star/embed/EmbedVerbs.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 
 #include <comphelper/classids.hxx>
 #include <svx/charthelper.hxx>

@@ -19,7 +19,7 @@
 #ifndef INCLUDED_SW_SOURCE_UI_VBA_VBADIALOGS_HXX
 #define INCLUDED_SW_SOURCE_UI_VBA_VBADIALOGS_HXX
 
-#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
 #include <ooo/vba/word/XDialogs.hpp>
 #include <vbahelper/vbadialogsbase.hxx>
 #include <cppuhelper/implbase.hxx>

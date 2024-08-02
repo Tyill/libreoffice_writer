@@ -38,9 +38,9 @@
 #include <unotools.hxx>
 #include <comphelper/processfactory.hxx>
 #include <ucbhelper/content.hxx>
-#include <com/sun/star/text/AutoTextContainer.hpp>
-#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
-#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
+//#include <com/sun/star/text/AutoTextContainer.hpp>
+//#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
+//#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
 #include <svl/urihelper.hxx>
 #include <unotools/charclass.hxx>
 #include <swtypes.hxx>

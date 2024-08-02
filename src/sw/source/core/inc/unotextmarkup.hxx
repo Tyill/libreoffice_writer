@@ -21,8 +21,8 @@
 
 #include <cppuhelper/implbase.hxx>
 
-#include <com/sun/star/text/XTextMarkup.hpp>
-#include <com/sun/star/text/XMultiTextMarkup.hpp>
+//#include <com/sun/star/text/XTextMarkup.hpp>
+//#include <com/sun/star/text/XMultiTextMarkup.hpp>
 
 #include <unobaseclass.hxx>
 

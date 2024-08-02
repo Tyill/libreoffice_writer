@@ -12,7 +12,7 @@
 
 #include <sal/config.h>
 
-#include <com/sun/star/uno/Reference.h>
+//#include <com/sun/star/uno/Reference.h>
 
 namespace com::sun::star {
     namespace linguistic2 { class XProofreadingIterator; }

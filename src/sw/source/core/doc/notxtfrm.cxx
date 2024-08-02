@@ -57,9 +57,9 @@
 #include <poolfmt.hxx>
 #include <strings.hrc>
 #include <accessibilityoptions.hxx>
-#include <com/sun/star/embed/EmbedMisc.hpp>
-#include <com/sun/star/embed/EmbedStates.hpp>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/embed/EmbedMisc.hpp>
+//#include <com/sun/star/embed/EmbedStates.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 #include <svtools/embedhlp.hxx>
 #include <dview.hxx>
 #include <basegfx/matrix/b2dhommatrix.hxx>

@@ -21,7 +21,7 @@
 
 #include <rtl/ustring.hxx>
 #include <tools/ref.hxx>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 #include <string>
 #include <string_view>
 #include <type_traits>

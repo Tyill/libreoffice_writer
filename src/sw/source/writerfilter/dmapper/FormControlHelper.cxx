@@ -19,20 +19,20 @@
 
 #include <math.h>
 
-#include <com/sun/star/awt/XControlModel.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/container/XIndexContainer.hpp>
-#include <com/sun/star/container/XNamed.hpp>
-#include <com/sun/star/drawing/XControlShape.hpp>
-#include <com/sun/star/drawing/XDrawPage.hpp>
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
-#include <com/sun/star/form/XForm.hpp>
-#include <com/sun/star/form/XFormComponent.hpp>
-#include <com/sun/star/form/XFormsSupplier.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/text/TextContentAnchorType.hpp>
-#include <com/sun/star/text/VertOrientation.hpp>
-#include <com/sun/star/uno/Any.hxx>
+//#include <com/sun/star/awt/XControlModel.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/container/XIndexContainer.hpp>
+//#include <com/sun/star/container/XNamed.hpp>
+//#include <com/sun/star/drawing/XControlShape.hpp>
+//#include <com/sun/star/drawing/XDrawPage.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/form/XForm.hpp>
+//#include <com/sun/star/form/XFormComponent.hpp>
+//#include <com/sun/star/form/XFormsSupplier.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/text/TextContentAnchorType.hpp>
+//#include <com/sun/star/text/VertOrientation.hpp>
+//#include <com/sun/star/uno/Any.hxx>
 
 #include <o3tl/safeint.hxx>
 

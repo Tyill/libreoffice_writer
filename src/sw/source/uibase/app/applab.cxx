@@ -32,7 +32,7 @@
 #include <editeng/pbinitem.hxx>
 #include <editeng/ulspitem.hxx>
 #include <editeng/lrspitem.hxx>
-#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
 #include <osl/diagnose.h>
 #include <fmthdft.hxx>
 #include <fmtanchr.hxx>

@@ -21,11 +21,11 @@
 
 #include <ooo/vba/word/XFind.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
-#include <com/sun/star/text/XTextRange.hpp>
-#include <com/sun/star/util/XReplaceable.hpp>
-#include <com/sun/star/util/XPropertyReplace.hpp>
-#include <com/sun/star/text/XTextViewCursor.hpp>
-#include <com/sun/star/view/XSelectionSupplier.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/util/XReplaceable.hpp>
+//#include <com/sun/star/util/XPropertyReplace.hpp>
+//#include <com/sun/star/text/XTextViewCursor.hpp>
+//#include <com/sun/star/view/XSelectionSupplier.hpp>
 
 typedef InheritedHelperInterfaceWeakImpl< ooo::vba::word::XFind > SwVbaFind_BASE;
 

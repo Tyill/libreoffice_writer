@@ -9,11 +9,11 @@
 
 #include <rdfhelper.hxx>
 
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/rdf/Literal.hpp>
-#include <com/sun/star/rdf/Statement.hpp>
-#include <com/sun/star/rdf/URI.hpp>
-#include <com/sun/star/rdf/XDocumentMetadataAccess.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/rdf/Literal.hpp>
+//#include <com/sun/star/rdf/Statement.hpp>
+//#include <com/sun/star/rdf/URI.hpp>
+//#include <com/sun/star/rdf/XDocumentMetadataAccess.hpp>
 
 #include <comphelper/processfactory.hxx>
 

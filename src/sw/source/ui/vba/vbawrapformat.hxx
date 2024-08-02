@@ -19,7 +19,7 @@
 #ifndef INCLUDED_SW_SOURCE_UI_VBA_VBAWRAPFORMAT_HXX
 #define INCLUDED_SW_SOURCE_UI_VBA_VBAWRAPFORMAT_HXX
 
-#include <com/sun/star/drawing/XShape.hpp>
+//#include <com/sun/star/drawing/XShape.hpp>
 #include <ooo/vba/word/XWrapFormat.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
 

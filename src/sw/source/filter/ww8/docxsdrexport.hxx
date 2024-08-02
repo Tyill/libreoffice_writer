@@ -16,7 +16,7 @@
 #include <sax/fshelper.hxx>
 #include <nodeoffset.hxx>
 
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 
 namespace rtl
 {

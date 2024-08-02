@@ -39,9 +39,9 @@
 #include <cmdid.h>
 #include <PageMarginPopup.hxx>
 
-#include <com/sun/star/document/XUndoManagerSupplier.hpp>
-#include <com/sun/star/beans/NamedValue.hpp>
-#include <com/sun/star/frame/XFrame.hpp>
+//#include <com/sun/star/document/XUndoManagerSupplier.hpp>
+//#include <com/sun/star/beans/NamedValue.hpp>
+//#include <com/sun/star/frame/XFrame.hpp>
 
 constexpr OUString SWPAGE_LEFT_GVALUE = u"Sw_Page_Left"_ustr;
 constexpr OUString SWPAGE_RIGHT_GVALUE = u"Sw_Page_Right"_ustr;

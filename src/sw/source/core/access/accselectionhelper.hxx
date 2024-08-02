@@ -21,7 +21,7 @@
 #define INCLUDED_SW_SOURCE_CORE_ACCESS_ACCSELECTIONHELPER_HXX
 
 #include <sal/types.h>
-#include <com/sun/star/uno/Reference.h>
+//#include <com/sun/star/uno/Reference.h>
 
 namespace com::sun::star::accessibility { class XAccessible; }
 

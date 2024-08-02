@@ -21,14 +21,14 @@
 #include <unoidx.hxx>
 #include <unoidxcoll.hxx>
 
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/container/XIndexReplace.hpp>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
-#include <com/sun/star/text/ChapterFormat.hpp>
-#include <com/sun/star/text/ReferenceFieldPart.hpp>
-#include <com/sun/star/text/BibliographyDataField.hpp>
-#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/container/XIndexReplace.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/text/ChapterFormat.hpp>
+//#include <com/sun/star/text/ReferenceFieldPart.hpp>
+//#include <com/sun/star/text/BibliographyDataField.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
 
 #include <comphelper/interfacecontainer4.hxx>
 #include <cppuhelper/supportsservice.hxx>

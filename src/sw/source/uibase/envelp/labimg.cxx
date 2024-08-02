@@ -22,7 +22,7 @@
 #include <o3tl/any.hxx>
 #include <osl/diagnose.h>
 #include <tools/UnitConversion.hxx>
-#include <com/sun/star/uno/Sequence.hxx>
+//#include <com/sun/star/uno/Sequence.hxx>
 #include <unotools/useroptions.hxx>
 #include <swmodule.hxx>
 #include <labimg.hxx>

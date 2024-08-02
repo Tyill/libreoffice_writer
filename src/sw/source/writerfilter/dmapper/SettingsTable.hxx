@@ -20,7 +20,7 @@
 #pragma once
 
 #include "LoggedResources.hxx"
-#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
 #include <rtl/ref.hxx>
 #include <memory>
 

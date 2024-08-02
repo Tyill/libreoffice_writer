@@ -31,8 +31,8 @@
 #include <sfx2/viewfrm.hxx>
 #include <svl/stritem.hxx>
 #include <svx/svdomedia.hxx>
-#include <com/sun/star/frame/XDispatchProvider.hpp>
-#include <com/sun/star/media/XPlayer.hpp>
+//#include <com/sun/star/frame/XDispatchProvider.hpp>
+//#include <com/sun/star/media/XPlayer.hpp>
 
 using namespace ::com::sun::star;
 using namespace ::com::sun::star::uno;

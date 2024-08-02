@@ -27,7 +27,7 @@
 #include <unotools/pathoptions.hxx>
 #include <swtable.hxx>
 #include <swtblfmt.hxx>
-#include <com/sun/star/text/VertOrientation.hpp>
+//#include <com/sun/star/text/VertOrientation.hpp>
 #include <swtypes.hxx>
 #include <doc.hxx>
 #include <poolfmt.hxx>

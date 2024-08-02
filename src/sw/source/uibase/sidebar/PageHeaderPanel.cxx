@@ -30,7 +30,7 @@
 #include <sfx2/bindings.hxx>
 #include <cmdid.h>
 
-#include <com/sun/star/lang/IllegalArgumentException.hpp>
+//#include <com/sun/star/lang/IllegalArgumentException.hpp>
 
 namespace sw::sidebar{
 

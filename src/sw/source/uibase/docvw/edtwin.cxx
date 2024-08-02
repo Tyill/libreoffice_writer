@@ -22,15 +22,15 @@
 #include <swtypes.hxx>
 #include <hintids.hxx>
 
-#include <com/sun/star/accessibility/XAccessible.hpp>
-#include <com/sun/star/awt/PopupMenuDirection.hpp>
-#include <com/sun/star/awt/XPopupMenu.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
-#include <com/sun/star/i18n/ScriptType.hpp>
-#include <com/sun/star/i18n/InputSequenceCheckMode.hpp>
-#include <com/sun/star/i18n/UnicodeScript.hpp>
-#include <com/sun/star/i18n/XExtendedInputSequenceChecker.hpp>
-#include <com/sun/star/ui/ContextMenuExecuteEvent.hpp>
+//#include <com/sun/star/accessibility/XAccessible.hpp>
+//#include <com/sun/star/awt/PopupMenuDirection.hpp>
+//#include <com/sun/star/awt/XPopupMenu.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/InputSequenceCheckMode.hpp>
+//#include <com/sun/star/i18n/UnicodeScript.hpp>
+//#include <com/sun/star/i18n/XExtendedInputSequenceChecker.hpp>
+//#include <com/sun/star/ui/ContextMenuExecuteEvent.hpp>
 
 #include <comphelper/scopeguard.hxx>
 #include <comphelper/string.hxx>

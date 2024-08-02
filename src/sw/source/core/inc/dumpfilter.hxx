@@ -10,10 +10,10 @@
 #ifndef INCLUDED_SW_SOURCE_CORE_INC_DUMPFILTER_HXX
 #define INCLUDED_SW_SOURCE_CORE_INC_DUMPFILTER_HXX
 
-#include <com/sun/star/document/XFilter.hpp>
-#include <com/sun/star/document/XExporter.hpp>
-#include <com/sun/star/lang/XInitialization.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/document/XFilter.hpp>
+//#include <com/sun/star/document/XExporter.hpp>
+//#include <com/sun/star/lang/XInitialization.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
 #include <cppuhelper/implbase.hxx>
 
 namespace sw {

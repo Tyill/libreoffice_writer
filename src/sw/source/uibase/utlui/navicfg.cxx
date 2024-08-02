@@ -23,7 +23,7 @@
 #include <o3tl/any.hxx>
 #include <osl/diagnose.h>
 #include <sal/log.hxx>
-#include <com/sun/star/uno/Sequence.hxx>
+//#include <com/sun/star/uno/Sequence.hxx>
 #include <map>
 
 using namespace ::utl;

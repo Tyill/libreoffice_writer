@@ -18,10 +18,10 @@
  */
 #include "vbaheaderfooter.hxx"
 #include <ooo/vba/word/WdHeaderFooterIndex.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/text/XText.hpp>
-#include <com/sun/star/text/XTextDocument.hpp>
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/text/XText.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
 #include "vbarange.hxx"
 #include <utility>
 #include <vbahelper/vbashapes.hxx>

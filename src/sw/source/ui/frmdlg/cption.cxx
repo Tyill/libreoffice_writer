@@ -31,11 +31,11 @@
 #include <doc.hxx>
 #include <modcfg.hxx>
 #include <swmodule.hxx>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/text/XTextGraphicObjectsSupplier.hpp>
-#include <com/sun/star/text/XTextTablesSupplier.hpp>
-#include <com/sun/star/text/XTextEmbeddedObjectsSupplier.hpp>
-#include <com/sun/star/text/XTextFramesSupplier.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/text/XTextGraphicObjectsSupplier.hpp>
+//#include <com/sun/star/text/XTextTablesSupplier.hpp>
+//#include <com/sun/star/text/XTextEmbeddedObjectsSupplier.hpp>
+//#include <com/sun/star/text/XTextFramesSupplier.hpp>
 #include <comphelper/string.hxx>
 #include <vcl/weld.hxx>
 #include <strings.hrc>

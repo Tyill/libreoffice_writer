@@ -24,7 +24,7 @@
 #include <ooo/vba/word/XAutoTextEntry.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
 #include <ooo/vba/word/XRange.hpp>
-#include <com/sun/star/text/XAutoTextEntry.hpp>
+//#include <com/sun/star/text/XAutoTextEntry.hpp>
 
 typedef InheritedHelperInterfaceWeakImpl< ooo::vba::word::XAutoTextEntry > SwVbaAutoTextEntry_BASE;
 

@@ -54,8 +54,8 @@
 #include <svx/svdpagv.hxx>
 #include <ndtxt.hxx>
 #include <SwStyleNameMapper.hxx>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/drawing/ShapeCollection.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/drawing/ShapeCollection.hpp>
 #include <editeng/outliner.hxx>
 #include <editeng/editview.hxx>
 #include <unoparagraph.hxx>

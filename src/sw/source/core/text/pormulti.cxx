@@ -32,8 +32,8 @@
 #include <layfrm.hxx>
 #include <SwPortionHandler.hxx>
 #include <EnhancedPDFExportHelper.hxx>
-#include <com/sun/star/i18n/BreakType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/BreakType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 #include <breakit.hxx>
 #include "pormulti.hxx"
 #include "inftxt.hxx"

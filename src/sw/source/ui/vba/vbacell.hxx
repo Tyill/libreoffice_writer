@@ -21,7 +21,7 @@
 
 #include <ooo/vba/word/XCell.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
-#include <com/sun/star/text/XTextTable.hpp>
+//#include <com/sun/star/text/XTextTable.hpp>
 
 typedef InheritedHelperInterfaceWeakImpl< ooo::vba::word::XCell > SwVbaCell_BASE;
 

@@ -17,10 +17,10 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/text/RelOrientation.hpp>
-#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
-#include <com/sun/star/xml/sax/SAXException.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/text/RelOrientation.hpp>
+//#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
+//#include <com/sun/star/xml/sax/SAXException.hpp>
 #include <ooxml/resourceids.hxx>
 #include <oox/mathml/imexport.hxx>
 #include <oox/token/namespaces.hxx>

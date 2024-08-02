@@ -20,7 +20,7 @@
 #include "parachangetrackinginfo.hxx"
 
 #include <wrong.hxx>
-#include <com/sun/star/text/TextMarkupType.hpp>
+//#include <com/sun/star/text/TextMarkupType.hpp>
 #include <osl/diagnose.h>
 
 #include <txtfrm.hxx>

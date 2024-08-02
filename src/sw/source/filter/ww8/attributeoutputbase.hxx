@@ -28,7 +28,7 @@
 #include <tools/solar.h>
 #include <optional>
 
-#include <com/sun/star/drawing/TextVerticalAdjust.hpp>
+//#include <com/sun/star/drawing/TextVerticalAdjust.hpp>
 #include <swtypes.hxx>
 #include <fldbas.hxx>
 #include <utility>

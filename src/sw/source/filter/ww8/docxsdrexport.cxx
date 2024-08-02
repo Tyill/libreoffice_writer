@@ -8,8 +8,8 @@
  */
 
 #include "docxsdrexport.hxx"
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/drawing/PointSequenceSequence.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/drawing/PointSequenceSequence.hpp>
 #include <editeng/lrspitem.hxx>
 #include <editeng/ulspitem.hxx>
 #include <editeng/shaditem.hxx>

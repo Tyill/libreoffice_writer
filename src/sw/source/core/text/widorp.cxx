@@ -41,7 +41,7 @@
 #include <anchoredobject.hxx>
 #include <flyfrm.hxx>
 
-#include <com/sun/star/text/ParagraphHyphenationKeepType.hpp>
+//#include <com/sun/star/text/ParagraphHyphenationKeepType.hpp>
 
 #undef WIDOWTWIPS
 

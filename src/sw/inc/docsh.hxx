@@ -22,7 +22,7 @@
 #include <memory>
 #include <vector>
 #include <rtl/ref.hxx>
-#include <com/sun/star/uno/Sequence.h>
+//#include <com/sun/star/uno/Sequence.h>
 #include <sfx2/docfac.hxx>
 #include <sfx2/objsh.hxx>
 #include "swdllapi.h"

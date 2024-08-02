@@ -21,7 +21,7 @@
 
 #include <vbahelper/vbacollectionimpl.hxx>
 #include <ooo/vba/word/XTablesOfContents.hpp>
-#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
 #include <ooo/vba/word/XTableOfContents.hpp>
 #include <ooo/vba/word/XRange.hpp>
 

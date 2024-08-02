@@ -19,7 +19,7 @@
 #ifndef INCLUDED_SW_INC_CRSTATE_HXX
 #define INCLUDED_SW_INC_CRSTATE_HXX
 
-#include <com/sun/star/text/HoriOrientation.hpp>
+////#include <com/sun/star/text/HoriOrientation.hpp>
 #include <tools/gen.hxx>
 #include "swrect.hxx"
 

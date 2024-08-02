@@ -51,8 +51,8 @@
 #include <authfld.hxx>
 #include <ndtxt.hxx>
 
-#include <com/sun/star/document/XDocumentProperties.hpp>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/document/XDocumentProperties.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
 
 #include <memory>
 

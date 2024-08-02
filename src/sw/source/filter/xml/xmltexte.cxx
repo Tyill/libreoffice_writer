@@ -20,9 +20,9 @@
 #include <sal/config.h>
 
 #include <comphelper/classids.hxx>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
-#include <com/sun/star/embed/XLinkageSupport.hpp>
-#include <com/sun/star/document/XEmbeddedObjectSupplier.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/embed/XLinkageSupport.hpp>
+//#include <com/sun/star/document/XEmbeddedObjectSupplier.hpp>
 #include <xmloff/families.hxx>
 #include <xmloff/xmlnamespace.hxx>
 #include <xmloff/xmltoken.hxx>

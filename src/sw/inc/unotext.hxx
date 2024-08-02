@@ -21,12 +21,12 @@
 #define INCLUDED_SW_INC_UNOTEXT_HXX
 
 #include "swdllapi.h"
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/text/XTextCopy.hpp>
-#include <com/sun/star/text/XTextRangeCompare.hpp>
-#include <com/sun/star/text/XRelativeTextContentInsert.hpp>
-#include <com/sun/star/text/XRelativeTextContentRemove.hpp>
-#include <com/sun/star/text/XTextAppendAndConvert.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/text/XTextCopy.hpp>
+//#include <com/sun/star/text/XTextRangeCompare.hpp>
+//#include <com/sun/star/text/XRelativeTextContentInsert.hpp>
+//#include <com/sun/star/text/XRelativeTextContentRemove.hpp>
+//#include <com/sun/star/text/XTextAppendAndConvert.hpp>
 #include <sal/types.h>
 
 #include "unobaseclass.hxx"

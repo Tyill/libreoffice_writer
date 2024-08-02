@@ -62,7 +62,7 @@
 #include <drawinglayer/primitive2d/transformprimitive2d.hxx>
 #include <drawinglayer/geometry/viewinformation2d.hxx>
 #include <svx/sdr/contact/viewobjectcontactofsdrobj.hxx>
-#include <com/sun/star/text/WritingMode2.hpp>
+//#include <com/sun/star/text/WritingMode2.hpp>
 #include <calbck.hxx>
 #include <algorithm>
 #include <txtfly.hxx>

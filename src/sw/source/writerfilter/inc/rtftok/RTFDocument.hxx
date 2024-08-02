@@ -9,11 +9,11 @@
 #pragma once
 
 #include <dmapper/resourcemodel.hxx>
-#include <com/sun/star/uno/XComponentContext.hpp>
-#include <com/sun/star/io/XInputStream.hpp>
-#include <com/sun/star/lang/XComponent.hpp>
-#include <com/sun/star/frame/XFrame.hpp>
-#include <com/sun/star/task/XStatusIndicator.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/io/XInputStream.hpp>
+//#include <com/sun/star/lang/XComponent.hpp>
+//#include <com/sun/star/frame/XFrame.hpp>
+//#include <com/sun/star/task/XStatusIndicator.hpp>
 #include <unotools/mediadescriptor.hxx>
 
 class SwXTextDocument;

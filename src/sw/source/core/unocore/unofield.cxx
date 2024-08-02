@@ -47,15 +47,15 @@
 #include <comphelper/servicehelper.hxx>
 #include <comphelper/string.hxx>
 #include <cppuhelper/supportsservice.hxx>
-#include <com/sun/star/util/DateTime.hpp>
-#include <com/sun/star/util/Date.hpp>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/util/DateTime.hpp>
+//#include <com/sun/star/util/Date.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
 
 //undef to prevent error (from sfx2/docfile.cxx)
 #undef SEQUENCE
-#include <com/sun/star/text/SetVariableType.hpp>
-#include <com/sun/star/text/WrapTextMode.hpp>
-#include <com/sun/star/text/TextContentAnchorType.hpp>
+//#include <com/sun/star/text/SetVariableType.hpp>
+//#include <com/sun/star/text/WrapTextMode.hpp>
+//#include <com/sun/star/text/TextContentAnchorType.hpp>
 #include <authfld.hxx>
 #include <flddat.hxx>
 #include <dbfld.hxx>

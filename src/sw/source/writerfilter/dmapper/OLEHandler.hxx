@@ -19,9 +19,9 @@
 #pragma once
 
 #include "LoggedResources.hxx"
-#include <com/sun/star/awt/Size.hpp>
-#include <com/sun/star/drawing/XShape.hpp>
-#include <com/sun/star/text/WrapTextMode.hpp>
+//#include <com/sun/star/awt/Size.hpp>
+//#include <com/sun/star/drawing/XShape.hpp>
+//#include <com/sun/star/text/WrapTextMode.hpp>
 #include <rtl/ref.hxx>
 
 class SwXTextDocument;

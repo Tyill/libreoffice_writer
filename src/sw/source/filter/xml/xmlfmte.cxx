@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
 #include <xmloff/xmlnamespace.hxx>
 #include "xmlexpit.hxx"
 #include <xmloff/namespacemap.hxx>
@@ -33,9 +33,9 @@
 #include <fmtpdsc.hxx>
 #include <pagedesc.hxx>
 #include <cellatr.hxx>
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/util/Color.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/util/Color.hpp>
 #include "xmlexp.hxx"
 #include <SwStyleNameMapper.hxx>
 #include <osl/diagnose.h>

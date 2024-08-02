@@ -58,14 +58,14 @@
 #include "swcss1.hxx"
 #include "htmlreqifreader.hxx"
 #include <unoframe.hxx>
-#include <com/sun/star/embed/XClassifiedObject.hpp>
-#include <com/sun/star/embed/Aspects.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/frame/XStorable.hpp>
-#include <com/sun/star/embed/ElementModes.hpp>
-#include <com/sun/star/io/XActiveDataStreamer.hpp>
-#include <com/sun/star/embed/XEmbedPersist2.hpp>
-#include <com/sun/star/lang/XInitialization.hpp>
+//#include <com/sun/star/embed/XClassifiedObject.hpp>
+//#include <com/sun/star/embed/Aspects.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/frame/XStorable.hpp>
+//#include <com/sun/star/embed/ElementModes.hpp>
+//#include <com/sun/star/io/XActiveDataStreamer.hpp>
+//#include <com/sun/star/embed/XEmbedPersist2.hpp>
+//#include <com/sun/star/lang/XInitialization.hpp>
 
 #include <comphelper/embeddedobjectcontainer.hxx>
 #include <comphelper/classids.hxx>

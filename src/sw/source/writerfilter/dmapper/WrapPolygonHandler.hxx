@@ -19,7 +19,7 @@
 
 #pragma once
 
-#include <com/sun/star/drawing/PointSequenceSequence.hpp>
+//#include <com/sun/star/drawing/PointSequenceSequence.hpp>
 #include "LoggedResources.hxx"
 #include <vector>
 

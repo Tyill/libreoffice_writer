@@ -19,10 +19,10 @@
 
 #include <EnhancedPDFExportHelper.hxx>
 
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
-#include <com/sun/star/i18n/ScriptType.hpp>
-#include <com/sun/star/drawing/XShape.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/drawing/XShape.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 #include <hintids.hxx>
 
 #include <sot/exchange.hxx>

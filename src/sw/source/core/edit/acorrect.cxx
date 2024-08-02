@@ -31,8 +31,8 @@
 #include <shellio.hxx>
 #include <swundo.hxx>
 #include <viscrs.hxx>
-#include <com/sun/star/linguistic2/XHyphenator.hpp>
-#include <com/sun/star/linguistic2/XHyphenatedWord.hpp>
+//#include <com/sun/star/linguistic2/XHyphenator.hpp>
+//#include <com/sun/star/linguistic2/XHyphenatedWord.hpp>
 #include <osl/diagnose.h>
 #include <svl/numformat.hxx>
 

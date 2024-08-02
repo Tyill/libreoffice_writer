@@ -17,10 +17,10 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/task/XStatusIndicatorSupplier.hpp>
-#include <com/sun/star/task/XStatusIndicator.hpp>
-#include <com/sun/star/util/thePathSettings.hpp>
-#include <com/sun/star/awt/XDevice.hpp>
+//#include <com/sun/star/task/XStatusIndicatorSupplier.hpp>
+//#include <com/sun/star/task/XStatusIndicator.hpp>
+//#include <com/sun/star/util/thePathSettings.hpp>
+//#include <com/sun/star/awt/XDevice.hpp>
 
 #include "vbaapplication.hxx"
 #include "vbadocument.hxx"

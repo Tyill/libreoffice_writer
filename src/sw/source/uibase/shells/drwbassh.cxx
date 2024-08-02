@@ -52,10 +52,10 @@
 #include <vcl/unohelp2.hxx>
 #include <swabstdlg.hxx>
 #include <swundo.hxx>
-#include <com/sun/star/text/HoriOrientation.hpp>
-#include <com/sun/star/text/VertOrientation.hpp>
-#include <com/sun/star/text/RelOrientation.hpp>
-#include <com/sun/star/uno/Reference.hxx>
+//#include <com/sun/star/text/HoriOrientation.hpp>
+//#include <com/sun/star/text/VertOrientation.hpp>
+//#include <com/sun/star/text/RelOrientation.hpp>
+//#include <com/sun/star/uno/Reference.hxx>
 #include <IDocumentDrawModelAccess.hxx>
 #include <fmtfollowtextflow.hxx>
 #include <textboxhelper.hxx>

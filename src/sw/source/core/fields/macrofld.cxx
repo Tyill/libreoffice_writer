@@ -20,8 +20,8 @@
 #include <doc.hxx>
 #include <docufld.hxx>
 #include <unofldmid.h>
-#include <com/sun/star/uri/UriReferenceFactory.hpp>
-#include <com/sun/star/uri/XVndSunStarScriptUrl.hpp>
+//#include <com/sun/star/uri/UriReferenceFactory.hpp>
+//#include <com/sun/star/uri/XVndSunStarScriptUrl.hpp>
 #include <comphelper/processfactory.hxx>
 #include <utility>
 #include <osl/diagnose.h>

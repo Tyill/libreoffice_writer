@@ -20,8 +20,8 @@
 #include <config_features.h>
 
 #include <osl/diagnose.h>
-#include <com/sun/star/drawing/ModuleDispatcher.hpp>
-#include <com/sun/star/frame/DispatchHelper.hpp>
+//#include <com/sun/star/drawing/ModuleDispatcher.hpp>
+//#include <com/sun/star/frame/DispatchHelper.hpp>
 #include <ooo/vba/word/XDocument.hpp>
 #include <comphelper/fileformat.h>
 #include <comphelper/processfactory.hxx>
@@ -100,14 +100,14 @@
 #include <cmdid.h>
 #include <helpids.h>
 #include <strings.hrc>
-#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
-#include <com/sun/star/ui/dialogs/XFilePickerControlAccess.hpp>
-#include <com/sun/star/ui/dialogs/ExtendedFilePickerElementIds.hpp>
-#include <com/sun/star/ui/dialogs/ListboxControlActions.hpp>
-#include <com/sun/star/ui/dialogs/CommonFilePickerElementIds.hpp>
-#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
-#include <com/sun/star/script/vba/XVBAEventProcessor.hpp>
-#include <com/sun/star/script/vba/VBAEventId.hpp>
+//#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
+//#include <com/sun/star/ui/dialogs/XFilePickerControlAccess.hpp>
+//#include <com/sun/star/ui/dialogs/ExtendedFilePickerElementIds.hpp>
+//#include <com/sun/star/ui/dialogs/ListboxControlActions.hpp>
+//#include <com/sun/star/ui/dialogs/CommonFilePickerElementIds.hpp>
+//#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
+//#include <com/sun/star/script/vba/XVBAEventProcessor.hpp>
+//#include <com/sun/star/script/vba/VBAEventId.hpp>
 #include <editeng/acorrcfg.hxx>
 #include <officecfg/Office/Security.hxx>
 #include <officecfg/Office/Common.hxx>

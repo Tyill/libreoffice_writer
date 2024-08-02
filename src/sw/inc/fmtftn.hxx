@@ -23,7 +23,7 @@
 #include <cppuhelper/weakref.hxx>
 #include <svl/poolitem.hxx>
 #include <unotools/weakref.hxx>
-#include <com/sun/star/text/XFootnote.hpp>
+////#include <com/sun/star/text/XFootnote.hpp>
 
 #include "swdllapi.h"
 #include "calbck.hxx"

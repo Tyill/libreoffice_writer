@@ -20,10 +20,10 @@
 #include <algorithm>
 #include <string_view>
 
-#include <com/sun/star/chart/ChartDataRowSource.hpp>
-#include <com/sun/star/chart2/data/LabelOrigin.hpp>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
-#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/chart/ChartDataRowSource.hpp>
+//#include <com/sun/star/chart2/data/LabelOrigin.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
 #include <comphelper/diagnose_ex.hxx>
 #include <cppuhelper/supportsservice.hxx>
 #include <o3tl/deleter.hxx>

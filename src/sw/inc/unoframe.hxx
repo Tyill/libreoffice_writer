@@ -20,14 +20,14 @@
 #define INCLUDED_SW_INC_UNOFRAME_HXX
 
 #include "swdllapi.h"
-#include <com/sun/star/beans/XPropertyState.hpp>
-#include <com/sun/star/container/XNamed.hpp>
-#include <com/sun/star/container/XEnumerationAccess.hpp>
-#include <com/sun/star/document/XEmbeddedObjectSupplier2.hpp>
-#include <com/sun/star/text/XTextFrame.hpp>
-#include <com/sun/star/drawing/XShape.hpp>
-#include <com/sun/star/util/XModifyListener.hpp>
-#include <com/sun/star/document/XEventsSupplier.hpp>
+//#include <com/sun/star/beans/XPropertyState.hpp>
+//#include <com/sun/star/container/XNamed.hpp>
+//#include <com/sun/star/container/XEnumerationAccess.hpp>
+//#include <com/sun/star/document/XEmbeddedObjectSupplier2.hpp>
+//#include <com/sun/star/text/XTextFrame.hpp>
+//#include <com/sun/star/drawing/XShape.hpp>
+//#include <com/sun/star/util/XModifyListener.hpp>
+//#include <com/sun/star/document/XEventsSupplier.hpp>
 
 #include <comphelper/interfacecontainer4.hxx>
 #include <cppuhelper/implbase.hxx>

@@ -22,8 +22,8 @@
 #include <i18nlangtag/lang.h>
 #include <tools/gen.hxx>
 
-#include <com/sun/star/linguistic2/XSpellAlternatives.hpp>
-#include <com/sun/star/linguistic2/XSpellChecker1.hpp>
+//#include <com/sun/star/linguistic2/XSpellAlternatives.hpp>
+//#include <com/sun/star/linguistic2/XSpellChecker1.hpp>
 
 #include <functional>
 #include <utility>

@@ -19,9 +19,9 @@
 
 #pragma once
 
-#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
 #include <cppuhelper/implbase.hxx>
-#include <com/sun/star/xml/sax/XFastDocumentHandler.hpp>
+//#include <com/sun/star/xml/sax/XFastDocumentHandler.hpp>
 #include <dmapper/resourcemodel.hxx>
 #include <ooxml/OOXMLDocumentImpl.hxx>
 #include <rtl/ref.hxx>

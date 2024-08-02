@@ -45,8 +45,8 @@
 #include <oox/export/drawingml.hxx>
 #include "docxtablestyleexport.hxx"
 
-#include <com/sun/star/table/BorderLine2.hpp>
-#include <com/sun/star/drawing/FillStyle.hpp>
+//#include <com/sun/star/table/BorderLine2.hpp>
+//#include <com/sun/star/drawing/FillStyle.hpp>
 
 class SwGrfNode;
 class SdrObject;

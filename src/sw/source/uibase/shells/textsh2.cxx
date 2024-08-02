@@ -22,9 +22,9 @@
 #include <svl/stritem.hxx>
 #include <svl/itemset.hxx>
 #include <sfx2/request.hxx>
-#include <com/sun/star/sdb/CommandType.hpp>
-#include <com/sun/star/sdbc/XDataSource.hpp>
-#include <com/sun/star/sdbcx/XColumnsSupplier.hpp>
+//#include <com/sun/star/sdb/CommandType.hpp>
+//#include <com/sun/star/sdbc/XDataSource.hpp>
+//#include <com/sun/star/sdbcx/XColumnsSupplier.hpp>
 #include <comphelper/types.hxx>
 #include <sfx2/frame.hxx>
 #include <fldmgr.hxx>

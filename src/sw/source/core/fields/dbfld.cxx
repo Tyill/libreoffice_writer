@@ -21,7 +21,7 @@
 #include <o3tl/any.hxx>
 #include <osl/diagnose.h>
 #include <svl/numformat.hxx>
-#include <com/sun/star/sdbc/DataType.hpp>
+//#include <com/sun/star/sdbc/DataType.hpp>
 #include <fmtfld.hxx>
 #include <txtfld.hxx>
 #include <calc.hxx>

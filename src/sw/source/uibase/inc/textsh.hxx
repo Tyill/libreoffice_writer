@@ -22,7 +22,7 @@
 
 #include "basesh.hxx"
 #include <unotools/caserotate.hxx>
-#include <com/sun/star/ui/dialogs/DialogClosedEvent.hpp>
+//#include <com/sun/star/ui/dialogs/DialogClosedEvent.hpp>
 
 class AbstractSvxPostItDialog;
 class SwFieldMgr;

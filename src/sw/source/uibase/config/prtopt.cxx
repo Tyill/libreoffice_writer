@@ -21,7 +21,7 @@
 #include <prtopt.hxx>
 #include <o3tl/any.hxx>
 #include <osl/diagnose.h>
-#include <com/sun/star/uno/Sequence.hxx>
+//#include <com/sun/star/uno/Sequence.hxx>
 
 using namespace utl;
 using namespace com::sun::star::uno;

@@ -33,10 +33,10 @@
 #include <comphelper/propertysequence.hxx>
 #include <comphelper/diagnose_ex.hxx>
 
-#include <com/sun/star/document/XFilter.hpp>
-#include <com/sun/star/document/XImporter.hpp>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/document/XFilter.hpp>
+//#include <com/sun/star/document/XImporter.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
 
 using namespace ::com::sun::star;
 

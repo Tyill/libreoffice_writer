@@ -21,8 +21,8 @@
 
 #include <cmath>
 
-#include <com/sun/star/drawing/PointSequence.hpp>
-#include <com/sun/star/text/GraphicCrop.hpp>
+//#include <com/sun/star/drawing/PointSequence.hpp>
+//#include <com/sun/star/text/GraphicCrop.hpp>
 #include <comphelper/sequence.hxx>
 #include <tools/UnitConversion.hxx>
 

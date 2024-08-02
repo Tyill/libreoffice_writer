@@ -20,7 +20,7 @@
 #include "swdlgfact.hxx"
 #include <swuiexp.hxx>
 #include <cppuhelper/supportsservice.hxx>
-#include <com/sun/star/lang/XUnoTunnel.hpp>
+//#include <com/sun/star/lang/XUnoTunnel.hpp>
 
 namespace swui
 {

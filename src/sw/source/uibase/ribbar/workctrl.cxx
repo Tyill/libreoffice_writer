@@ -49,7 +49,7 @@
 #include <svx/strings.hrc>
 #include <bitmaps.hlst>
 #include <toolkit/helper/vclunohelper.hxx>
-#include <com/sun/star/frame/XFrame.hpp>
+//#include <com/sun/star/frame/XFrame.hpp>
 
 #include <sfx2/viewfrm.hxx>
 

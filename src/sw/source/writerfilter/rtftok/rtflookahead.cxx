@@ -8,7 +8,7 @@
  */
 
 #include "rtflookahead.hxx"
-#include <com/sun/star/uno/Reference.hxx>
+//#include <com/sun/star/uno/Reference.hxx>
 #include <tools/stream.hxx>
 #include "rtftokenizer.hxx"
 

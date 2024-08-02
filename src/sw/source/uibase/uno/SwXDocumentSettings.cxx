@@ -30,9 +30,9 @@
 #include <comphelper/MasterPropertySetInfo.hxx>
 #include <cppuhelper/queryinterface.hxx>
 #include <cppuhelper/supportsservice.hxx>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/i18n/XForbiddenCharacters.hpp>
-#include <com/sun/star/document/PrinterIndependentLayout.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/i18n/XForbiddenCharacters.hpp>
+//#include <com/sun/star/document/PrinterIndependentLayout.hpp>
 #include <doc.hxx>
 #include <IDocumentSettingAccess.hxx>
 #include <IDocumentDeviceAccess.hxx>

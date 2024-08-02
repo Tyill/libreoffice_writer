@@ -25,16 +25,16 @@
 #include <sal/log.hxx>
 
 #include <vcl/unohelp.hxx>
-#include <com/sun/star/form/XFormComponent.hpp>
-#include <com/sun/star/drawing/XShape.hpp>
-#include <com/sun/star/drawing/XShapes.hpp>
-#include <com/sun/star/drawing/XControlShape.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/container/XIndexContainer.hpp>
-#include <com/sun/star/text/VertOrientation.hpp>
-#include <com/sun/star/text/TextContentAnchorType.hpp>
-#include <com/sun/star/beans/XPropertyContainer.hpp>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/form/XFormComponent.hpp>
+//#include <com/sun/star/drawing/XShape.hpp>
+//#include <com/sun/star/drawing/XShapes.hpp>
+//#include <com/sun/star/drawing/XControlShape.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/container/XIndexContainer.hpp>
+//#include <com/sun/star/text/VertOrientation.hpp>
+//#include <com/sun/star/text/TextContentAnchorType.hpp>
+//#include <com/sun/star/beans/XPropertyContainer.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
 
 #include <algorithm>
 #include <hintids.hxx>

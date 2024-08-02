@@ -23,7 +23,7 @@
 #include "TblStylePrHandler.hxx"
 
 #include "DomainMapper.hxx"
-#include <com/sun/star/beans/PropertyValues.hpp>
+//#include <com/sun/star/beans/PropertyValues.hpp>
 #include "PropertyMap.hxx"
 #include "FontTable.hxx"
 #include "LoggedResources.hxx"

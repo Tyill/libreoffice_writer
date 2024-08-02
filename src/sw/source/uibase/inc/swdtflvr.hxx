@@ -25,7 +25,7 @@
 #include <vcl/graph.hxx>
 #include <vcl/vclptr.hxx>
 #include <sfx2/lnkbase.hxx>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 #include <o3tl/deleter.hxx>
 #include <o3tl/typed_flags_set.hxx>
 #include <svx/swframetypes.hxx>

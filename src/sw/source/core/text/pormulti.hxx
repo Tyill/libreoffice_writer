@@ -20,7 +20,7 @@
 
 #include <memory>
 #include "porlay.hxx"
-#include <com/sun/star/text/RubyAdjust.hpp>
+//#include <com/sun/star/text/RubyAdjust.hpp>
 
 class IDocumentSettingAccess;
 class SwTextFormatInfo;

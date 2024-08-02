@@ -21,7 +21,7 @@
 #include <docmodel/theme/Theme.hxx>
 #include <svx/svdpage.hxx>
 #include <svx/dialog/ThemeColorValueSet.hxx>
-#include <com/sun/star/lang/IllegalArgumentException.hpp>
+//#include <com/sun/star/lang/IllegalArgumentException.hpp>
 
 namespace sw::sidebar
 {

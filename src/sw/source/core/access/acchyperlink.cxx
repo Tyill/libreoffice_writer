@@ -19,10 +19,10 @@
 
 #include <comphelper/accessiblekeybindinghelper.hxx>
 #include <comphelper/processfactory.hxx>
-#include <com/sun/star/frame/XDesktop.hpp>
-#include <com/sun/star/document/XLinkTargetSupplier.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+////#include <com/sun/star/frame/XDesktop.hpp>
+////#include <com/sun/star/document/XLinkTargetSupplier.hpp>
+////#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+////#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
 #include <swurl.hxx>
 #include <vcl/keycodes.hxx>
 #include <vcl/svapp.hxx>

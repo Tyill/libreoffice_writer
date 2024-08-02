@@ -19,14 +19,14 @@
 #ifndef INCLUDED_SW_SOURCE_UIBASE_INC_UNOATXT_HXX
 #define INCLUDED_SW_SOURCE_UIBASE_INC_UNOATXT_HXX
 
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/container/XNamed.hpp>
-#include <com/sun/star/document/XEventsSupplier.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/text/XAutoTextGroup.hpp>
-#include <com/sun/star/text/XAutoTextEntry.hpp>
-#include <com/sun/star/text/XAutoTextContainer2.hpp>
-#include <com/sun/star/text/XText.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/container/XNamed.hpp>
+//#include <com/sun/star/document/XEventsSupplier.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/text/XAutoTextGroup.hpp>
+//#include <com/sun/star/text/XAutoTextEntry.hpp>
+//#include <com/sun/star/text/XAutoTextContainer2.hpp>
+//#include <com/sun/star/text/XText.hpp>
 #include <svl/itemprop.hxx>
 #include <svl/lstner.hxx>
 #include <comphelper/compbase.hxx>

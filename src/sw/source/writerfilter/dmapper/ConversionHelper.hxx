@@ -20,10 +20,10 @@
 
 #include <sal/types.h>
 #include <rtl/ustring.hxx>
-#include <com/sun/star/util/DateTime.hpp>
-#include <com/sun/star/style/NumberingType.hpp>
-#include <com/sun/star/table/BorderLine2.hpp>
-#include <com/sun/star/text/RubyAdjust.hpp>
+//#include <com/sun/star/util/DateTime.hpp>
+//#include <com/sun/star/style/NumberingType.hpp>
+//#include <com/sun/star/table/BorderLine2.hpp>
+//#include <com/sun/star/text/RubyAdjust.hpp>
 
 namespace com::sun::star{
     namespace lang{

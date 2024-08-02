@@ -24,10 +24,10 @@
 #include "inftxt.hxx"
 #include <pagefrm.hxx>
 #include <tgrditem.hxx>
-#include <com/sun/star/i18n/BreakType.hpp>
-#include <com/sun/star/i18n/WordType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
-#include <com/sun/star/text/ParagraphHyphenationKeepType.hpp>
+//#include <com/sun/star/i18n/BreakType.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/text/ParagraphHyphenationKeepType.hpp>
 #include <unotools/charclass.hxx>
 #include <svl/urihelper.hxx>
 #include "porfld.hxx"

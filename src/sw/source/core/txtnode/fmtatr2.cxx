@@ -33,13 +33,13 @@
 #include <charfmt.hxx>
 #include <unoevent.hxx>
 #include <unoport.hxx>
-#include <com/sun/star/text/RubyAdjust.hpp>
-#include <com/sun/star/text/RubyPosition.hpp>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
-#include <com/sun/star/util/XCloneable.hpp>
-#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/text/RubyAdjust.hpp>
+//#include <com/sun/star/text/RubyPosition.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/util/XCloneable.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
 
-#include <com/sun/star/uno/Any.h>
+//#include <com/sun/star/uno/Any.h>
 #include <SwStyleNameMapper.hxx>
 #include <comphelper/diagnose_ex.hxx>
 

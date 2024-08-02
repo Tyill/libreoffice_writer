@@ -22,13 +22,13 @@
 
 #include <cassert>
 
-#include <com/sun/star/document/PrinterIndependentLayout.hpp>
-#include <com/sun/star/document/XExporter.hpp>
-#include <com/sun/star/drawing/XDrawPage.hpp>
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
-#include <com/sun/star/frame/Desktop.hpp>
-#include <com/sun/star/text/XTextDocument.hpp>
-#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/document/PrinterIndependentLayout.hpp>
+//#include <com/sun/star/document/XExporter.hpp>
+//#include <com/sun/star/drawing/XDrawPage.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/frame/Desktop.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
 
 #include <o3tl/any.hxx>
 #include <xmloff/xmlnamespace.hxx>

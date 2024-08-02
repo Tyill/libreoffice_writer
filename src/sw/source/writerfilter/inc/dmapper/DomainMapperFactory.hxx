@@ -11,9 +11,9 @@
 #include <vector>
 
 #include <dmapper/resourcemodel.hxx>
-#include <com/sun/star/io/XInputStream.hpp>
-#include <com/sun/star/lang/XComponent.hpp>
-#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/io/XInputStream.hpp>
+//#include <com/sun/star/lang/XComponent.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
 #include <rtl/ref.hxx>
 
 class SwXTextDocument;

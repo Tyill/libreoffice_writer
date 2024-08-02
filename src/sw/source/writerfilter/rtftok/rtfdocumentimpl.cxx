@@ -13,19 +13,19 @@
 #include <memory>
 #include <string_view>
 
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/io/WrongFormatException.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/text/TextContentAnchorType.hpp>
-#include <com/sun/star/text/XDependentTextField.hpp>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/io/WrongFormatException.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/text/TextContentAnchorType.hpp>
+//#include <com/sun/star/text/XDependentTextField.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
 
 #include <i18nlangtag/languagetag.hxx>
 #include <unotools/ucbstreamhelper.hxx>
 #include <unotools/streamwrap.hxx>
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
 #include <filter/msfilter/util.hxx>
 #include <filter/msfilter/rtfutil.hxx>
 #include <comphelper/string.hxx>

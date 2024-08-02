@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/beans/PropertyValues.hpp>
+//#include <com/sun/star/beans/PropertyValues.hpp>
 #include <AnnotationWin.hxx>
 #include <comphelper/lok.hxx>
 #include <hintids.hxx>

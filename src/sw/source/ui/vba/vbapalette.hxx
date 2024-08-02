@@ -20,7 +20,7 @@
 #ifndef INCLUDED_SW_SOURCE_UI_VBA_VBAPALETTE_HXX
 #define INCLUDED_SW_SOURCE_UI_VBA_VBAPALETTE_HXX
 
-#include <com/sun/star/container/XIndexAccess.hpp>
+//#include <com/sun/star/container/XIndexAccess.hpp>
 
 class VbaPalette
 {

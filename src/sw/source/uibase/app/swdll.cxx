@@ -29,7 +29,7 @@
 #include <init.hxx>
 #include <dobjfac.hxx>
 
-#include <com/sun/star/frame/Desktop.hpp>
+//#include <com/sun/star/frame/Desktop.hpp>
 #include <comphelper/configuration.hxx>
 #include <unotools/moduleoptions.hxx>
 #include <comphelper/unique_disposing_ptr.hxx>

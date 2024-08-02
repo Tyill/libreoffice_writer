@@ -10,7 +10,7 @@
 
 #pragma once
 
-#include <com/sun/star/frame/XFrame.hpp>
+//#include <com/sun/star/frame/XFrame.hpp>
 #include <sfx2/sidebar/PanelLayout.hxx>
 #include <sfx2/sidebar/ControllerItem.hxx>
 #include <sfx2/weldutils.hxx>

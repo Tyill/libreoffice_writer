@@ -32,11 +32,11 @@
 #include <cmdid.h>
 
 #include "flddinf.hxx"
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/beans/XPropertySetInfo.hpp>
-#include <com/sun/star/util/Time.hpp>
-#include <com/sun/star/util/DateTime.hpp>
-#include <com/sun/star/util/Date.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertySetInfo.hpp>
+//#include <com/sun/star/util/Time.hpp>
+//#include <com/sun/star/util/DateTime.hpp>
+//#include <com/sun/star/util/Date.hpp>
 
 #define USER_DATA_VERSION_1 "1"
 #define USER_DATA_VERSION USER_DATA_VERSION_1

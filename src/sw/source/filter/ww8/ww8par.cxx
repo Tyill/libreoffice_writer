@@ -22,12 +22,12 @@
 #include <sal/config.h>
 #include <sal/log.hxx>
 
-#include <com/sun/star/embed/Aspects.hpp>
-#include <com/sun/star/embed/ElementModes.hpp>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/packages/XPackageEncryption.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/text/XTextFieldsSupplier.hpp>
+//#include <com/sun/star/embed/Aspects.hpp>
+//#include <com/sun/star/embed/ElementModes.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/packages/XPackageEncryption.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/text/XTextFieldsSupplier.hpp>
 
 #include <i18nlangtag/languagetag.hxx>
 
@@ -117,9 +117,9 @@
 
 #include "ww8par2.hxx"
 
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
-#include <com/sun/star/document/XViewDataSupplier.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/document/XViewDataSupplier.hpp>
 
 #include <svl/lngmisc.hxx>
 #include <svl/itemiter.hxx>
@@ -143,12 +143,12 @@
 #include <unordered_set>
 #include <memory>
 
-#include <com/sun/star/i18n/XBreakIterator.hpp>
-#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
 #include <unotools/pathoptions.hxx>
-#include <com/sun/star/ucb/SimpleFileAccess.hpp>
+//#include <com/sun/star/ucb/SimpleFileAccess.hpp>
 
-#include <com/sun/star/script/vba/XVBACompatibility.hpp>
+//#include <com/sun/star/script/vba/XVBACompatibility.hpp>
 #include <comphelper/sequenceashashmap.hxx>
 #include <oox/ole/vbaproject.hxx>
 #include <oox/ole/olestorage.hxx>

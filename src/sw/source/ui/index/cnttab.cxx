@@ -33,8 +33,8 @@
 #include <sfx2/sfxdlg.hxx>
 #include <svx/dialogs.hrc>
 #include <svx/flagsdef.hxx>
-#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
-#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
+//#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
+//#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
 #include <svtools/indexentryres.hxx>
 #include <toolkit/helper/vclunohelper.hxx>
 #include <column.hxx>

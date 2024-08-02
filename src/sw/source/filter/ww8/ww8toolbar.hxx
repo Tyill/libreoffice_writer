@@ -9,7 +9,7 @@
 #ifndef INCLUDED_SW_SOURCE_FILTER_WW8_WW8TOOLBAR_HXX
 #define INCLUDED_SW_SOURCE_FILTER_WW8_WW8TOOLBAR_HXX
 
-#include <com/sun/star/container/XIndexContainer.hpp>
+//#include <com/sun/star/container/XIndexContainer.hpp>
 #include <filter/msfilter/mstoolbar.hxx>
 #include <memory>
 

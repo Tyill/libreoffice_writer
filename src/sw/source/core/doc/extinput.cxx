@@ -19,7 +19,7 @@
 
 #include <algorithm>
 
-#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
 
 #include <editeng/langitem.hxx>
 #include <osl/diagnose.h>

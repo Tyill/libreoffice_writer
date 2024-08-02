@@ -20,8 +20,8 @@
 #include "PropertyMap.hxx"
 #include "TDefTableHandler.hxx"
 #include <ooxml/resourceids.hxx>
-#include <com/sun/star/drawing/FillStyle.hpp>
-#include <com/sun/star/drawing/ShadingPattern.hpp>
+//#include <com/sun/star/drawing/FillStyle.hpp>
+//#include <com/sun/star/drawing/ShadingPattern.hpp>
 #include <filter/msfilter/util.hxx>
 #include <comphelper/sequence.hxx>
 #include <tools/color.hxx>

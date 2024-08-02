@@ -22,7 +22,7 @@
 
 #include <sal/config.h>
 #include <cppuhelper/implbase.hxx>
-#include <com/sun/star/util/XCancellable.hpp>
+//#include <com/sun/star/util/XCancellable.hpp>
 
 #include <rtl/ref.hxx>
 

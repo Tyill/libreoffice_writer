@@ -31,8 +31,8 @@
 #include <sfx2/filedlghelper.hxx>
 #include <sfx2/docfile.hxx>
 #include <rtl/textenc.h>
-#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
-#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
+//#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
+//#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
 #include <tools/urlobj.hxx>
 #include <o3tl/string_view.hxx>
 #include <strings.hrc>

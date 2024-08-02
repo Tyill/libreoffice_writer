@@ -21,8 +21,8 @@
 #include <usrpref.hxx>
 #include <comphelper/lok.hxx>
 
-#include <com/sun/star/lang/IllegalArgumentException.hpp>
-#include <com/sun/star/text/HoriOrientation.hpp>
+//#include <com/sun/star/lang/IllegalArgumentException.hpp>
+//#include <com/sun/star/text/HoriOrientation.hpp>
 
 using namespace ::com::sun::star;
 namespace sw::sidebar

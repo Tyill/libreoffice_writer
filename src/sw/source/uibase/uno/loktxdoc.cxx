@@ -23,7 +23,7 @@
 #include <utility>
 #include <vector>
 
-#include <com/sun/star/beans/XPropertyAccess.hpp>
+//#include <com/sun/star/beans/XPropertyAccess.hpp>
 
 #include <comphelper/sequence.hxx>
 #include <o3tl/string_view.hxx>
@@ -42,7 +42,7 @@
 #include <unoport.hxx>
 #include <unoprnms.hxx>
 #include <unocontentcontrol.hxx>
-#include <com/sun/star/text/XTextContent.hpp>
+//#include <com/sun/star/text/XTextContent.hpp>
 
 using namespace ::com::sun::star;
 

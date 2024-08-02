@@ -21,7 +21,7 @@
 
 #include <rtl/ustring.hxx>
 #include <unotools/weakref.hxx>
-#include <com/sun/star/text/XAutoTextGroup.hpp>
+//#include <com/sun/star/text/XAutoTextGroup.hpp>
 
 class SwTextBlocks;
 class SwDocShell;

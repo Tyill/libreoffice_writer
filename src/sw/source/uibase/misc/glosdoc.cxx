@@ -20,7 +20,7 @@
 #include <algorithm>
 #include <string_view>
 
-#include <com/sun/star/container/XNamed.hpp>
+//#include <com/sun/star/container/XNamed.hpp>
 #include <comphelper/servicehelper.hxx>
 
 #include <unotools/transliterationwrapper.hxx>

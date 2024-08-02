@@ -11,7 +11,7 @@
 
 #include <dmapper/resourcemodel.hxx>
 
-#include <com/sun/star/text/GraphicCrop.hpp>
+//#include <com/sun/star/text/GraphicCrop.hpp>
 
 #include <optional>
 

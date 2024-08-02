@@ -21,7 +21,7 @@
 #include <map>
 
 #include <ooxml/OOXMLDocument.hxx>
-#include <com/sun/star/embed/XRelationshipAccess.hpp>
+//#include <com/sun/star/embed/XRelationshipAccess.hpp>
 
 extern OUString customTarget;
 extern OUString embeddingsTarget;

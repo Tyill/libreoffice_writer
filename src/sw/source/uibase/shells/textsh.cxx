@@ -42,8 +42,8 @@
 #include <editeng/scripttypeitem.hxx>
 #include <sfx2/htmlmode.hxx>
 #include <svtools/htmlcfg.hxx>
-#include <com/sun/star/embed/Aspects.hpp>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/embed/Aspects.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 #include <osl/diagnose.h>
 
 #include <comphelper/classids.hxx>
@@ -86,11 +86,11 @@
 #include <drawdoc.hxx>
 #include <svtools/embedhlp.hxx>
 #include <sfx2/event.hxx>
-#include <com/sun/star/ui/dialogs/DialogClosedEvent.hpp>
-#include <com/sun/star/ui/dialogs/ExecutableDialogResults.hpp>
+//#include <com/sun/star/ui/dialogs/DialogClosedEvent.hpp>
+//#include <com/sun/star/ui/dialogs/ExecutableDialogResults.hpp>
 #include <IDocumentUndoRedo.hxx>
 #include <formatcontentcontrol.hxx>
-#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
 
 
 using namespace ::com::sun::star;

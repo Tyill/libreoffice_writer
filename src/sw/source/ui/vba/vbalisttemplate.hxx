@@ -21,7 +21,7 @@
 
 #include <ooo/vba/word/XListTemplate.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
-#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
 #include "vbalisthelper.hxx"
 
 typedef InheritedHelperInterfaceWeakImpl< ooo::vba::word::XListTemplate > SwVbaListTemplate_BASE;

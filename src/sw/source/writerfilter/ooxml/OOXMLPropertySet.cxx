@@ -21,7 +21,7 @@
 #include <stdio.h>
 #include <iostream>
 #include <ooxml/QNameToString.hxx>
-#include <com/sun/star/drawing/XShape.hpp>
+//#include <com/sun/star/drawing/XShape.hpp>
 #include <sax/tools/converter.hxx>
 #include <tools/color.hxx>
 #include <o3tl/string_view.hxx>

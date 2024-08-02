@@ -18,7 +18,7 @@
  */
 #include "vbalisttemplate.hxx"
 #include "vbalistlevels.hxx"
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 
 using namespace ::ooo::vba;
 using namespace ::com::sun::star;

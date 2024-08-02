@@ -20,7 +20,7 @@
 #pragma once
 
 #include "acccontext.hxx"
-#include <com/sun/star/accessibility/XAccessibleValue.hpp>
+//#include <com/sun/star/accessibility/XAccessibleValue.hpp>
 #include "accselectionhelper.hxx"
 
 class SwCellFrame;

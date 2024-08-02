@@ -25,13 +25,13 @@
 #include <comphelper/interfacecontainer3.hxx>
 #include <comphelper/multiinterfacecontainer3.hxx>
 
-#include <com/sun/star/task/XJob.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/lang/XComponent.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/beans/PropertyChangeEvent.hpp>
-#include <com/sun/star/text/XMailMergeBroadcaster.hpp>
-#include <com/sun/star/util/XCancellable.hpp>
+//#include <com/sun/star/task/XJob.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/lang/XComponent.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/beans/PropertyChangeEvent.hpp>
+//#include <com/sun/star/text/XMailMergeBroadcaster.hpp>
+//#include <com/sun/star/util/XCancellable.hpp>
 #include <svl/itemprop.hxx>
 #include <sfx2/objsh.hxx>
 

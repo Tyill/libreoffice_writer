@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/table/TableSortField.hpp>
+//#include <com/sun/star/table/TableSortField.hpp>
 #include <cppuhelper/exc_hlp.hxx>
 #include <cppuhelper/supportsservice.hxx>
 #include <svl/itemprop.hxx>
@@ -60,16 +60,16 @@
 #include <unometa.hxx>
 #include <unocontentcontrol.hxx>
 #include <unotext.hxx>
-#include <com/sun/star/text/TextMarkupType.hpp>
+//#include <com/sun/star/text/TextMarkupType.hpp>
 #include <utility>
 #include <vcl/svapp.hxx>
 #include <unotools/syslocale.hxx>
 #include <i18nlangtag/languagetag.hxx>
 #include <SwStyleNameMapper.hxx>
 #include <sortopt.hxx>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/beans/NamedValue.hpp>
-#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/beans/NamedValue.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
 #include <memory>
 #include <unoparaframeenum.hxx>
 #include <unoparagraph.hxx>

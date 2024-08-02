@@ -26,7 +26,7 @@
 #include <memory>
 #include <optional>
 #include <string_view>
-#include <com/sun/star/text/XTextContent.hpp>
+//#include <com/sun/star/text/XTextContent.hpp>
 
 #include <rtl/ustring.hxx>
 #include <osl/diagnose.h>

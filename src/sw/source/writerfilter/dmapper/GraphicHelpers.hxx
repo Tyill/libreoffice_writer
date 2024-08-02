@@ -20,7 +20,7 @@
 #pragma once
 
 #include "LoggedResources.hxx"
-#include <com/sun/star/text/WrapTextMode.hpp>
+//#include <com/sun/star/text/WrapTextMode.hpp>
 
 #include <utility>
 

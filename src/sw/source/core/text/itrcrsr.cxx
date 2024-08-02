@@ -41,7 +41,7 @@
 #include <crstate.hxx>
 #include "pormulti.hxx"
 #include <numrule.hxx>
-#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
 
 // Not reentrant !!!
 // is set in GetCharRect and is interpreted in UnitUp/Down.

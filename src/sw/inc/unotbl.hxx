@@ -20,16 +20,16 @@
 #ifndef INCLUDED_SW_INC_UNOTBL_HXX
 #define INCLUDED_SW_INC_UNOTBL_HXX
 
-#include <com/sun/star/lang/XUnoTunnel.hpp>
-#include <com/sun/star/container/XNamed.hpp>
-#include <com/sun/star/container/XEnumerationAccess.hpp>
-#include <com/sun/star/util/XSortable.hpp>
-#include <com/sun/star/chart/XChartDataArray.hpp>
-#include <com/sun/star/text/XTextTableCursor.hpp>
-#include <com/sun/star/text/XTextTable.hpp>
-#include <com/sun/star/table/XCellRange.hpp>
-#include <com/sun/star/sheet/XCellRangeData.hpp>
-#include <com/sun/star/table/XAutoFormattable.hpp>
+//#include <com/sun/star/lang/XUnoTunnel.hpp>
+//#include <com/sun/star/container/XNamed.hpp>
+//#include <com/sun/star/container/XEnumerationAccess.hpp>
+//#include <com/sun/star/util/XSortable.hpp>
+//#include <com/sun/star/chart/XChartDataArray.hpp>
+//#include <com/sun/star/text/XTextTableCursor.hpp>
+//#include <com/sun/star/text/XTextTable.hpp>
+//#include <com/sun/star/table/XCellRange.hpp>
+//#include <com/sun/star/sheet/XCellRangeData.hpp>
+//#include <com/sun/star/table/XAutoFormattable.hpp>
 
 #include <cppuhelper/implbase.hxx>
 

@@ -26,7 +26,7 @@
 
 #include <osl/diagnose.h>
 #include <rtl/ref.hxx>
-#include <com/sun/star/mail/XSmtpService.hpp>
+//#include <com/sun/star/mail/XSmtpService.hpp>
 #include <vcl/idle.hxx>
 #include <vcl/svapp.hxx>
 #include <vcl/weld.hxx>

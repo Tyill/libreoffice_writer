@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/drawing/ColorMode.hpp>
+//#include <com/sun/star/drawing/ColorMode.hpp>
 #include <o3tl/any.hxx>
 #include <vcl/GraphicAttributes.hxx>
 #include <grfatr.hxx>

@@ -21,8 +21,8 @@
 
 #include <cppuhelper/implbase.hxx>
 #include <ooo/vba/word/XPageSetup.hpp>
-#include <com/sun/star/uno/XComponentContext.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
 #include <vbahelper/vbapagesetupbase.hxx>
 

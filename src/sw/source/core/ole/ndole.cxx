@@ -17,15 +17,15 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/container/XChild.hpp>
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
-#include <com/sun/star/embed/XEmbedPersist.hpp>
-#include <com/sun/star/embed/XLinkageSupport.hpp>
-#include <com/sun/star/embed/EmbedMisc.hpp>
-#include <com/sun/star/embed/EmbedStates.hpp>
-#include <com/sun/star/util/XModifiable.hpp>
-#include <com/sun/star/chart2/XChartDocument.hpp>
+//#include <com/sun/star/container/XChild.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/embed/XEmbedPersist.hpp>
+//#include <com/sun/star/embed/XLinkageSupport.hpp>
+//#include <com/sun/star/embed/EmbedMisc.hpp>
+//#include <com/sun/star/embed/EmbedStates.hpp>
+//#include <com/sun/star/util/XModifiable.hpp>
+//#include <com/sun/star/chart2/XChartDocument.hpp>
 #include <cppuhelper/implbase.hxx>
 
 #include <sot/exchange.hxx>

@@ -22,11 +22,11 @@
 #include <basic/sberrors.hxx>
 #include "vbarangehelper.hxx"
 #include <ooo/vba/word/WdBreakType.hpp>
-#include <com/sun/star/style/BreakType.hpp>
-#include <com/sun/star/text/ControlCharacter.hpp>
-#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
-#include <com/sun/star/text/XTextRangeCompare.hpp>
-#include <com/sun/star/text/XTextViewCursor.hpp>
+//#include <com/sun/star/style/BreakType.hpp>
+//#include <com/sun/star/text/ControlCharacter.hpp>
+//#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
+//#include <com/sun/star/text/XTextRangeCompare.hpp>
+//#include <com/sun/star/text/XTextViewCursor.hpp>
 #include "vbaparagraphformat.hxx"
 #include "vbastyle.hxx"
 #include "vbafont.hxx"

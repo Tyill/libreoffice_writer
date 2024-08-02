@@ -12,7 +12,7 @@
 
 #include "LoggedResources.hxx"
 
-#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
 
 #include "PropertyIds.hxx"
 

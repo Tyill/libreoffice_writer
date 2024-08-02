@@ -21,7 +21,7 @@
 
 #include <vbahelper/vbacollectionimpl.hxx>
 #include <ooo/vba/word/XSections.hpp>
-#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
 
 typedef CollTestImplHelper< ooo::vba::word::XSections > SwVbaSections_BASE;
 

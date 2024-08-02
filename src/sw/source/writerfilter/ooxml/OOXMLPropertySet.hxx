@@ -20,7 +20,7 @@
 
 #include <vector>
 #include "OOXMLBinaryObjectReference.hxx"
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 #include <dmapper/resourcemodel.hxx>
 
 namespace writerfilter::ooxml

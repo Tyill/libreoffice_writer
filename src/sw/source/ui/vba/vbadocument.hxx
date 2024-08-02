@@ -23,7 +23,7 @@
 #include <ooo/vba/XSinkCaller.hpp>
 #include <ooo/vba/word/XDocument.hpp>
 #include <vbahelper/vbadocumentbase.hxx>
-#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
 #include <cppuhelper/implbase.hxx>
 
 #include <vector>

@@ -23,7 +23,7 @@
 #include <cppuhelper/weakref.hxx>
 #include <svl/poolitem.hxx>
 #include <unotools/weakref.hxx>
-#include <com/sun/star/text/XTextContent.hpp>
+////#include <com/sun/star/text/XTextContent.hpp>
 
 #include "calbck.hxx"
 

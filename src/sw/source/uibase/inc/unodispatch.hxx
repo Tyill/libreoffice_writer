@@ -19,11 +19,11 @@
 #ifndef INCLUDED_SW_SOURCE_UIBASE_INC_UNODISPATCH_HXX
 #define INCLUDED_SW_SOURCE_UIBASE_INC_UNODISPATCH_HXX
 
-#include <com/sun/star/frame/XDispatchProviderInterception.hpp>
-#include <com/sun/star/frame/XDispatchProviderInterceptor.hpp>
-#include <com/sun/star/view/XSelectionChangeListener.hpp>
-#include <com/sun/star/frame/XDispatch.hpp>
-#include <com/sun/star/frame/XInterceptorInfo.hpp>
+//#include <com/sun/star/frame/XDispatchProviderInterception.hpp>
+//#include <com/sun/star/frame/XDispatchProviderInterceptor.hpp>
+//#include <com/sun/star/view/XSelectionChangeListener.hpp>
+//#include <com/sun/star/frame/XDispatch.hpp>
+//#include <com/sun/star/frame/XInterceptorInfo.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <vector>
 #include <vcl/svapp.hxx>

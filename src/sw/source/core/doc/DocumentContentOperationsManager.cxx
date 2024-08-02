@@ -88,10 +88,10 @@
 #include <svx/svdouno.hxx>
 #include <tools/globname.hxx>
 #include <editeng/formatbreakitem.hxx>
-#include <com/sun/star/i18n/Boundary.hpp>
-#include <com/sun/star/i18n/WordType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/i18n/Boundary.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 
 #include <tuple>
 #include <memory>

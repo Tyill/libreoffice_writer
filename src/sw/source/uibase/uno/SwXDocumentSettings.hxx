@@ -22,8 +22,8 @@
 #include <swdllapi.h>
 #include <comphelper/MasterPropertySet.hxx>
 #include <comphelper/MasterPropertySetInfo.hxx>
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/lang/XTypeProvider.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/lang/XTypeProvider.hpp>
 #include <cppuhelper/weak.hxx>
 #include <vcl/vclptr.hxx>
 

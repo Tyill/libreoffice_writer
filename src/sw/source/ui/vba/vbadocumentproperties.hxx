@@ -20,7 +20,7 @@
 #define INCLUDED_SW_SOURCE_UI_VBA_VBADOCUMENTPROPERTIES_HXX
 
 #include <ooo/vba/XDocumentProperties.hpp>
-#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
 #include <vbahelper/vbacollectionimpl.hxx>
 
 typedef CollTestImplHelper< ov::XDocumentProperties > SwVbaDocumentproperties_BASE;

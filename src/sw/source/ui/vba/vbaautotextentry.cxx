@@ -19,7 +19,7 @@
 #include "vbaautotextentry.hxx"
 #include <utility>
 #include <vbahelper/vbahelper.hxx>
-#include <com/sun/star/text/XParagraphCursor.hpp>
+//#include <com/sun/star/text/XParagraphCursor.hpp>
 #include "wordvbahelper.hxx"
 #include "vbarange.hxx"
 

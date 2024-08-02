@@ -21,7 +21,7 @@
 
 #include <ooo/vba/word/XFrame.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
-#include <com/sun/star/text/XTextFrame.hpp>
+//#include <com/sun/star/text/XTextFrame.hpp>
 
 typedef InheritedHelperInterfaceWeakImpl< ooo::vba::word::XFrame > SwVbaFrame_BASE;
 

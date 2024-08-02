@@ -18,10 +18,10 @@
  */
 #include "vbabookmarks.hxx"
 #include "vbabookmark.hxx"
-#include <com/sun/star/container/XNamed.hpp>
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/text/XTextDocument.hpp>
-#include <com/sun/star/text/XTextViewCursor.hpp>
+//#include <com/sun/star/container/XNamed.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextViewCursor.hpp>
 #include <ooo/vba/word/WdBookmarkSortBy.hpp>
 #include "vbarange.hxx"
 #include "wordvbahelper.hxx"

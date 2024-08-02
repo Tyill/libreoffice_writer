@@ -23,7 +23,7 @@
 
 #include <ostream>
 
-#include <com/sun/star/util/Date.hpp>
+////#include <com/sun/star/util/Date.hpp>
 
 namespace com::sun::star::util { struct DateTime; }
 

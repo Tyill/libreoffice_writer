@@ -22,10 +22,10 @@
 #include <cmath>
 
 #include "ConversionHelper.hxx"
-#include <com/sun/star/table/BorderLine2.hpp>
-#include <com/sun/star/lang/Locale.hpp>
-#include <com/sun/star/text/HoriOrientation.hpp>
-#include <com/sun/star/style/NumberingType.hpp>
+//#include <com/sun/star/table/BorderLine2.hpp>
+//#include <com/sun/star/lang/Locale.hpp>
+//#include <com/sun/star/text/HoriOrientation.hpp>
+//#include <com/sun/star/style/NumberingType.hpp>
 #include <editeng/borderline.hxx>
 #include <ooxml/resourceids.hxx>
 #include <rtl/ustrbuf.hxx>

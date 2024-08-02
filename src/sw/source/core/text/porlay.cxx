@@ -31,11 +31,11 @@
 #include "pordrop.hxx"
 #include <breakit.hxx>
 #include <unicode/uchar.h>
-#include <com/sun/star/i18n/ScriptType.hpp>
-#include <com/sun/star/i18n/CharacterIteratorMode.hpp>
-#include <com/sun/star/i18n/UnicodeType.hpp>
-#include <com/sun/star/i18n/WordType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/CharacterIteratorMode.hpp>
+//#include <com/sun/star/i18n/UnicodeType.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 #include <paratr.hxx>
 #include <sal/log.hxx>
 #include <optional>
@@ -59,8 +59,8 @@
 #include <IDocumentContentOperations.hxx>
 #include <IMark.hxx>
 #include <sortedobjs.hxx>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/text/XBookmarksSupplier.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/text/XBookmarksSupplier.hpp>
 #include <officecfg/Office/Common.hxx>
 #include <comphelper/processfactory.hxx>
 #include <docsh.hxx>
@@ -69,12 +69,12 @@
 #include <frmatr.hxx>
 #include <vcl/kernarray.hxx>
 #include <editeng/ulspitem.hxx>
-#include <com/sun/star/rdf/Statement.hpp>
-#include <com/sun/star/rdf/URI.hpp>
-#include <com/sun/star/rdf/URIs.hpp>
-#include <com/sun/star/rdf/XDocumentMetadataAccess.hpp>
-#include <com/sun/star/rdf/XLiteral.hpp>
-#include <com/sun/star/text/XTextContent.hpp>
+//#include <com/sun/star/rdf/Statement.hpp>
+//#include <com/sun/star/rdf/URI.hpp>
+//#include <com/sun/star/rdf/URIs.hpp>
+//#include <com/sun/star/rdf/XDocumentMetadataAccess.hpp>
+//#include <com/sun/star/rdf/XLiteral.hpp>
+//#include <com/sun/star/text/XTextContent.hpp>
 
 #include <unicode/ubidi.h>
 #include <i18nutil/scripttypedetector.hxx>

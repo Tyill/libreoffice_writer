@@ -20,13 +20,13 @@
 #include <doc.hxx>
 #include <IDocumentContentOperations.hxx>
 #include "writerhelper.hxx"
-#include <com/sun/star/embed/XClassifiedObject.hpp>
-#include <com/sun/star/embed/Aspects.hpp>
+//#include <com/sun/star/embed/XClassifiedObject.hpp>
+//#include <com/sun/star/embed/Aspects.hpp>
 
 #include <cstddef>
 #include <osl/endian.h>
 #include <sot/storage.hxx>
-#include <com/sun/star/drawing/XShape.hpp>
+//#include <com/sun/star/drawing/XShape.hpp>
 #include <hintids.hxx>
 #include <svx/svdoole2.hxx>
 #include <filter/msfilter/msdffimp.hxx>

@@ -20,7 +20,7 @@
 #ifndef INCLUDED_SW_SOURCE_UIBASE_INC_IMAILDSPLISTENER_HXX
 #define INCLUDED_SW_SOURCE_UIBASE_INC_IMAILDSPLISTENER_HXX
 
-#include <com/sun/star/mail/XMailMessage.hpp>
+//#include <com/sun/star/mail/XMailMessage.hpp>
 #include <salhelper/simplereferenceobject.hxx>
 #include <rtl/ref.hxx>
 

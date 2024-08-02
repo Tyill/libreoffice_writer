@@ -8,7 +8,7 @@
  */
 #pragma once
 
-#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
 #include <ooo/vba/word/XFormField.hpp>
 
 #include <vbahelper/vbahelperinterface.hxx>

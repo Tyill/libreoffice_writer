@@ -26,8 +26,8 @@
 #include <unotools/syslocale.hxx>
 
 #include <usrpref.hxx>
-#include <com/sun/star/uno/Any.hxx>
-#include <com/sun/star/uno/Sequence.hxx>
+//#include <com/sun/star/uno/Any.hxx>
+//#include <com/sun/star/uno/Sequence.hxx>
 #include <unotools/localedatawrapper.hxx>
 
 using namespace utl;

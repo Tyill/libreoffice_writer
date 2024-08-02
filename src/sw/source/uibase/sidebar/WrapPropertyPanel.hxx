@@ -22,7 +22,7 @@
 #include <sfx2/sidebar/PanelLayout.hxx>
 #include <sfx2/sidebar/ControllerItem.hxx>
 #include <sfx2/weldutils.hxx>
-#include <com/sun/star/frame/XFrame.hpp>
+//#include <com/sun/star/frame/XFrame.hpp>
 #include <vcl/weld.hxx>
 
 namespace sw::sidebar {

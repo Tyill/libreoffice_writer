@@ -28,9 +28,9 @@
 #include <osl/diagnose.h>
 #include <o3tl/safeint.hxx>
 
-#include <com/sun/star/table/BorderLineStyle.hpp>
-#include <com/sun/star/text/HoriOrientation.hpp>
-#include <com/sun/star/text/VertOrientation.hpp>
+//#include <com/sun/star/table/BorderLineStyle.hpp>
+//#include <com/sun/star/text/HoriOrientation.hpp>
+//#include <com/sun/star/text/VertOrientation.hpp>
 
 using ::editeng::SvxBorderLine;
 using namespace ::xmloff::token;

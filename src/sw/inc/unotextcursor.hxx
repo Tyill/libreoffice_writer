@@ -20,20 +20,20 @@
 #ifndef INCLUDED_SW_INC_UNOTEXTCURSOR_HXX
 #define INCLUDED_SW_INC_UNOTEXTCURSOR_HXX
 
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/beans/XPropertyState.hpp>
-#include <com/sun/star/beans/XMultiPropertySet.hpp>
-#include <com/sun/star/beans/XMultiPropertyStates.hpp>
-#include <com/sun/star/container/XEnumerationAccess.hpp>
-#include <com/sun/star/container/XContentEnumerationAccess.hpp>
-#include <com/sun/star/util/XSortable.hpp>
-#include <com/sun/star/document/XDocumentInsertable.hpp>
-#include <com/sun/star/text/XSentenceCursor.hpp>
-#include <com/sun/star/text/XWordCursor.hpp>
-#include <com/sun/star/text/XParagraphCursor.hpp>
-#include <com/sun/star/text/XRedline.hpp>
-#include <com/sun/star/text/XMarkingAccess.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertyState.hpp>
+//#include <com/sun/star/beans/XMultiPropertySet.hpp>
+//#include <com/sun/star/beans/XMultiPropertyStates.hpp>
+//#include <com/sun/star/container/XEnumerationAccess.hpp>
+//#include <com/sun/star/container/XContentEnumerationAccess.hpp>
+//#include <com/sun/star/util/XSortable.hpp>
+//#include <com/sun/star/document/XDocumentInsertable.hpp>
+//#include <com/sun/star/text/XSentenceCursor.hpp>
+//#include <com/sun/star/text/XWordCursor.hpp>
+//#include <com/sun/star/text/XParagraphCursor.hpp>
+//#include <com/sun/star/text/XRedline.hpp>
+//#include <com/sun/star/text/XMarkingAccess.hpp>
 
 #include <cppuhelper/implbase.hxx>
 

@@ -22,7 +22,7 @@
 #include <wrtsh.hxx>
 #include <vcl/svapp.hxx>
 #include <vcl/weld.hxx>
-#include <com/sun/star/linguistic2/XLinguProperties.hpp>
+//#include <com/sun/star/linguistic2/XLinguProperties.hpp>
 #include <swwait.hxx>
 
 #include <hyp.hxx>

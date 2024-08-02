@@ -21,7 +21,7 @@
 
 #include <sal/types.h>
 #include <tools/toolsdllapi.h>
-#include <com/sun/star/uno/Any.hxx>
+//#include <com/sun/star/uno/Any.hxx>
 #include <config_global.h>
 #include <basegfx/color/bcolor.hxx>
 #include <osl/endian.h>

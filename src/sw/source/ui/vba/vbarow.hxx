@@ -21,8 +21,8 @@
 
 #include <ooo/vba/word/XRow.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
-#include <com/sun/star/table/XTableRows.hpp>
-#include <com/sun/star/text/XTextTable.hpp>
+//#include <com/sun/star/table/XTableRows.hpp>
+//#include <com/sun/star/text/XTextTable.hpp>
 
 typedef InheritedHelperInterfaceWeakImpl< ooo::vba::word::XRow > SwVbaRow_BASE;
 

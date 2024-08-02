@@ -23,17 +23,17 @@
 #include <textapi.hxx>
 
 #include <hintids.hxx>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/text/XText.hpp>
-#include <com/sun/star/script/Converter.hpp>
-#include <com/sun/star/text/PlaceholderType.hpp>
-#include <com/sun/star/text/TemplateDisplayFormat.hpp>
-#include <com/sun/star/text/PageNumberType.hpp>
-#include <com/sun/star/text/FilenameDisplayFormat.hpp>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
-#include <com/sun/star/document/XDocumentProperties.hpp>
-#include <com/sun/star/util/Date.hpp>
-#include <com/sun/star/util/Duration.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/text/XText.hpp>
+//#include <com/sun/star/script/Converter.hpp>
+//#include <com/sun/star/text/PlaceholderType.hpp>
+//#include <com/sun/star/text/TemplateDisplayFormat.hpp>
+//#include <com/sun/star/text/PageNumberType.hpp>
+//#include <com/sun/star/text/FilenameDisplayFormat.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/document/XDocumentProperties.hpp>
+//#include <com/sun/star/util/Date.hpp>
+//#include <com/sun/star/util/Duration.hpp>
 #include <o3tl/any.hxx>
 #include <o3tl/string_view.hxx>
 #include <unotools/localedatawrapper.hxx>
@@ -50,7 +50,7 @@
 #include <tools/time.hxx>
 #include <tools/datetime.hxx>
 
-#include <com/sun/star/util/DateTime.hpp>
+//#include <com/sun/star/util/DateTime.hpp>
 
 #include <swmodule.hxx>
 #include <sfx2/docfile.hxx>

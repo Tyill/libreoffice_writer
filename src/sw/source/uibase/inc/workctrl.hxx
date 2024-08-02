@@ -22,7 +22,7 @@
 #include <sfx2/tbxctrl.hxx>
 #include <vcl/toolbox.hxx>
 #include <vcl/InterimItemWindow.hxx>
-#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
 
 class PopupMenu;
 class SwView;

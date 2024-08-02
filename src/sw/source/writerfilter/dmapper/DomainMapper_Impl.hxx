@@ -18,14 +18,14 @@
  */
 #pragma once
 
-#include <com/sun/star/text/XParagraphCursor.hpp>
-#include <com/sun/star/text/XTextDocument.hpp>
-#include <com/sun/star/text/XTextCursor.hpp>
-#include <com/sun/star/text/XTextAppend.hpp>
-#include <com/sun/star/text/XTextFrame.hpp>
-#include <com/sun/star/style/TabStop.hpp>
-#include <com/sun/star/container/XNameContainer.hpp>
-#include <com/sun/star/embed/XStorage.hpp>
+//#include <com/sun/star/text/XParagraphCursor.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextCursor.hpp>
+//#include <com/sun/star/text/XTextAppend.hpp>
+//#include <com/sun/star/text/XTextFrame.hpp>
+//#include <com/sun/star/style/TabStop.hpp>
+//#include <com/sun/star/container/XNameContainer.hpp>
+//#include <com/sun/star/embed/XStorage.hpp>
 #include <queue>
 #include <stack>
 #include <string_view>

@@ -20,7 +20,7 @@
 #include <memory>
 
 #include <hintids.hxx>
-#include <com/sun/star/linguistic2/XThesaurus.hpp>
+//#include <com/sun/star/linguistic2/XThesaurus.hpp>
 #include <svl/whiter.hxx>
 #include <svl/cjkoptions.hxx>
 #include <sfx2/viewfrm.hxx>

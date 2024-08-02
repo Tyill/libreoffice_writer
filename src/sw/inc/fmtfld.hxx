@@ -23,7 +23,7 @@
 #include <cppuhelper/weakref.hxx>
 #include <svl/poolitem.hxx>
 #include <svl/SfxBroadcaster.hxx>
-#include <com/sun/star/text/XTextField.hpp>
+//#include <com/sun/star/text/XTextField.hpp>
 #include <unotools/weakref.hxx>
 
 #include "swdllapi.h"

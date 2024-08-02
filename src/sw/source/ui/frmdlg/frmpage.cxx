@@ -17,9 +17,9 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/embed/Aspects.hpp>
-#include <com/sun/star/embed/EmbedMisc.hpp>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/embed/Aspects.hpp>
+//#include <com/sun/star/embed/EmbedMisc.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 
 #include <cmdid.h>
 #include <hintids.hxx>
@@ -67,10 +67,10 @@
 #include <svx/dialmgr.hxx>
 #include <svx/graphichelper.hxx>
 #include <sfx2/filedlghelper.hxx>
-#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
-#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
-#include <com/sun/star/ui/dialogs/XFilePickerControlAccess.hpp>
-#include <com/sun/star/ui/dialogs/ExtendedFilePickerElementIds.hpp>
+//#include <com/sun/star/ui/dialogs/TemplateDescription.hpp>
+//#include <com/sun/star/ui/dialogs/XFilePicker3.hpp>
+//#include <com/sun/star/ui/dialogs/XFilePickerControlAccess.hpp>
+//#include <com/sun/star/ui/dialogs/ExtendedFilePickerElementIds.hpp>
 #include <vcl/graphicfilter.hxx>
 #include <svtools/embedhlp.hxx>
 #include <comphelper/lok.hxx>

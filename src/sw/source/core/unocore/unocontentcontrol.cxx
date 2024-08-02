@@ -21,8 +21,8 @@
 
 #include <mutex>
 
-#include <com/sun/star/text/XWordCursor.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/text/XWordCursor.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
 
 #include <comphelper/interfacecontainer4.hxx>
 #include <cppuhelper/supportsservice.hxx>

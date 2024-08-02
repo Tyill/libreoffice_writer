@@ -19,7 +19,7 @@
 
 #include <hintids.hxx>
 
-#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
 #include <vcl/outdev.hxx>
 #include <editeng/brushitem.hxx>
 #include <editeng/wrlmitem.hxx>

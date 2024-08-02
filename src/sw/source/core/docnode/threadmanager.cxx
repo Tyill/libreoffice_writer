@@ -25,7 +25,7 @@
 
 #include <algorithm>
 
-#include <com/sun/star/util/XJobManager.hpp>
+//#include <com/sun/star/util/XJobManager.hpp>
 
 using namespace ::com::sun::star;
 

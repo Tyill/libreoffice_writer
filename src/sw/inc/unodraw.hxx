@@ -23,16 +23,16 @@
 #include <svl/listener.hxx>
 #include <svx/unopage.hxx>
 #include "frmfmt.hxx"
-#include <com/sun/star/text/XTextContent.hpp>
-#include <com/sun/star/drawing/PolyPolygonBezierCoords.hpp>
-#include <com/sun/star/drawing/XShape.hpp>
-#include <com/sun/star/lang/XUnoTunnel.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/beans/XPropertyState.hpp>
-#include <com/sun/star/drawing/XShapes.hpp>
-#include <com/sun/star/container/XEnumerationAccess.hpp>
-#include <com/sun/star/drawing/HomogenMatrix3.hpp>
-#include <com/sun/star/uno/XAggregation.hpp>
+//#include <com/sun/star/text/XTextContent.hpp>
+//#include <com/sun/star/drawing/PolyPolygonBezierCoords.hpp>
+//#include <com/sun/star/drawing/XShape.hpp>
+//#include <com/sun/star/lang/XUnoTunnel.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertyState.hpp>
+//#include <com/sun/star/drawing/XShapes.hpp>
+//#include <com/sun/star/container/XEnumerationAccess.hpp>
+//#include <com/sun/star/drawing/HomogenMatrix3.hpp>
+//#include <com/sun/star/uno/XAggregation.hpp>
 #include <cppuhelper/implbase.hxx>
 
 class SdrMarkList;

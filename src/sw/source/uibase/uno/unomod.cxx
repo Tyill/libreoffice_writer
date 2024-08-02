@@ -17,8 +17,8 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/view/DocumentZoomType.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/view/DocumentZoomType.hpp>
 #include <comphelper/ChainablePropertySetInfo.hxx>
 #include <cppuhelper/supportsservice.hxx>
 #include <o3tl/any.hxx>

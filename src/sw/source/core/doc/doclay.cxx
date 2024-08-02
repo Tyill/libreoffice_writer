@@ -33,8 +33,8 @@
 #include <istype.hxx>
 #include <swmodule.hxx>
 #include <modcfg.hxx>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 #include <SwStyleNameMapper.hxx>
 #include <drawdoc.hxx>
 #include <fchrfmt.hxx>

@@ -20,10 +20,10 @@
 #include <svx/svdpage.hxx>
 #include <sortedobjs.hxx>
 #include <swtable.hxx>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/text/XTextContent.hpp>
-#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
-#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/text/XTextContent.hpp>
+//#include <com/sun/star/document/XDocumentPropertiesSupplier.hpp>
+//#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
 #include <unoparagraph.hxx>
 #include <unotools/intlwrapper.hxx>
 #include <tools/urlobj.hxx>

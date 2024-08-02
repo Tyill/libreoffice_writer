@@ -18,9 +18,9 @@
  */
 #include "vbarangehelper.hxx"
 #include <vbahelper/vbahelper.hxx>
-#include <com/sun/star/text/ControlCharacter.hpp>
-#include <com/sun/star/text/XTextRangeCompare.hpp>
-#include <com/sun/star/text/XBookmarksSupplier.hpp>
+//#include <com/sun/star/text/ControlCharacter.hpp>
+//#include <com/sun/star/text/XTextRangeCompare.hpp>
+//#include <com/sun/star/text/XBookmarksSupplier.hpp>
 
 using namespace ::ooo::vba;
 using namespace ::com::sun::star;

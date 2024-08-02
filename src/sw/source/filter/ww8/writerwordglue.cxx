@@ -32,8 +32,8 @@
 
 #include <unicode/ubidi.h>
 #include <tools/tenccvt.hxx>
-#include <com/sun/star/i18n/ScriptType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 
 #include <editeng/lrspitem.hxx>
 #include <editeng/ulspitem.hxx>

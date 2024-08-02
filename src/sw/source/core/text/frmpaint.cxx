@@ -18,7 +18,7 @@
  */
 
 #include <memory>
-#include <com/sun/star/text/HoriOrientation.hpp>
+//#include <com/sun/star/text/HoriOrientation.hpp>
 #include <editeng/pgrditem.hxx>
 #include <editeng/lrspitem.hxx>
 #include <tgrditem.hxx>

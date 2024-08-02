@@ -19,9 +19,9 @@
 
 #include <sal/config.h>
 
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/sdb/DatabaseContext.hpp>
-#include <com/sun/star/sdb/CommandType.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/sdb/DatabaseContext.hpp>
+//#include <com/sun/star/sdb/CommandType.hpp>
 #include <comphelper/processfactory.hxx>
 #include <comphelper/sequence.hxx>
 #include <sfx2/viewfrm.hxx>

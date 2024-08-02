@@ -20,10 +20,10 @@
 #define INCLUDED_SW_SOURCE_UI_VBA_WORDVBAHELPER_HXX
 
 #include <vbahelper/vbahelper.hxx>
-#include <com/sun/star/text/XText.hpp>
-#include <com/sun/star/text/XTextViewCursor.hpp>
-#include <com/sun/star/style/XStyle.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/text/XText.hpp>
+//#include <com/sun/star/text/XTextViewCursor.hpp>
+//#include <com/sun/star/style/XStyle.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 
 class SwDocShell;
 class SwView;

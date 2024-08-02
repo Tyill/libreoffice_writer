@@ -17,8 +17,8 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/i18n/ScriptType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 #include <i18nlangtag/mslangid.hxx>
 #include <breakit.hxx>
 #include <hintids.hxx>

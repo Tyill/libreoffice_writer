@@ -21,8 +21,8 @@
 #include <rtl/ustring.hxx>
 
 #include <limits.h>
-#include <com/sun/star/uno/Reference.h>
-#include <com/sun/star/i18n/CollatorOptions.hpp>
+//#include <com/sun/star/uno/Reference.h>
+////#include <com/sun/star/i18n/CollatorOptions.hpp>
 #include "swdllapi.h"
 #include <o3tl/typed_flags_set.hxx>
 #include <o3tl/unit_conversion.hxx>

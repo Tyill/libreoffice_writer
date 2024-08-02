@@ -19,7 +19,7 @@
 #ifndef INCLUDED_SW_SOURCE_CORE_INC_TXTFRM_HXX
 #define INCLUDED_SW_SOURCE_CORE_INC_TXTFRM_HXX
 
-#include <com/sun/star/uno/Sequence.hxx>
+//#include <com/sun/star/uno/Sequence.hxx>
 #include "cntfrm.hxx"
 #include "TextFrameIndex.hxx"
 #include <nodeoffset.hxx>

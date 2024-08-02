@@ -20,13 +20,13 @@
 #include <utility>
 #include <vbahelper/vbahelper.hxx>
 #include <basic/sberrors.hxx>
-#include <com/sun/star/style/LineSpacingMode.hpp>
+//#include <com/sun/star/style/LineSpacingMode.hpp>
 #include <ooo/vba/word/WdLineSpacing.hpp>
 #include <ooo/vba/word/WdParagraphAlignment.hpp>
 #include <ooo/vba/word/WdOutlineLevel.hpp>
-#include <com/sun/star/style/ParagraphAdjust.hpp>
-#include <com/sun/star/style/BreakType.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/style/ParagraphAdjust.hpp>
+//#include <com/sun/star/style/BreakType.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 #include "vbatabstops.hxx"
 #include <o3tl/string_view.hxx>
 

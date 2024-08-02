@@ -17,8 +17,8 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 #include "vbaframe.hxx"
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/view/XSelectionSupplier.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/view/XSelectionSupplier.hpp>
 #include <utility>
 
 using namespace ::ooo::vba;

@@ -16,7 +16,7 @@
 #include <unotools/mediadescriptor.hxx>
 #include <comphelper/servicehelper.hxx>
 
-#include <com/sun/star/io/XOutputStream.hpp>
+//#include <com/sun/star/io/XOutputStream.hpp>
 #include <svl/outstrm.hxx>
 
 using namespace css;

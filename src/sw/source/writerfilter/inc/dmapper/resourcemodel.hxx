@@ -21,8 +21,8 @@
 
 #include <string>
 #include <sal/types.h>
-#include <com/sun/star/drawing/XShape.hpp>
-#include <com/sun/star/uno/Any.hxx>
+//#include <com/sun/star/drawing/XShape.hpp>
+//#include <com/sun/star/uno/Any.hxx>
 #include <tools/ref.hxx>
 
 /**

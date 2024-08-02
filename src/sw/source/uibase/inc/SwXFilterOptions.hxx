@@ -19,13 +19,13 @@
 #ifndef INCLUDED_SW_SOURCE_UIBASE_INC_SWXFILTEROPTIONS_HXX
 #define INCLUDED_SW_SOURCE_UIBASE_INC_SWXFILTEROPTIONS_HXX
 
-#include <com/sun/star/awt/XWindow.hpp>
-#include <com/sun/star/beans/XPropertyAccess.hpp>
-#include <com/sun/star/ui/dialogs/XExecutableDialog.hpp>
-#include <com/sun/star/document/XImporter.hpp>
-#include <com/sun/star/document/XExporter.hpp>
-#include <com/sun/star/lang/XInitialization.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/awt/XWindow.hpp>
+//#include <com/sun/star/beans/XPropertyAccess.hpp>
+//#include <com/sun/star/ui/dialogs/XExecutableDialog.hpp>
+//#include <com/sun/star/document/XImporter.hpp>
+//#include <com/sun/star/document/XExporter.hpp>
+//#include <com/sun/star/lang/XInitialization.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
 #include <cppuhelper/implbase.hxx>
 
 namespace com::sun::star::io { class XInputStream; }

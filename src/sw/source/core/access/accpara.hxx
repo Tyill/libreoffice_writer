@@ -20,15 +20,15 @@
 #define INCLUDED_SW_SOURCE_CORE_ACCESS_ACCPARA_HXX
 
 #include "acccontext.hxx"
-#include <com/sun/star/accessibility/AccessibleScrollType.hpp>
-#include <com/sun/star/accessibility/XAccessibleEditableText.hpp>
-#include <com/sun/star/accessibility/XAccessibleSelection.hpp>
-#include <com/sun/star/accessibility/XAccessibleHypertext.hpp>
-#include <com/sun/star/accessibility/XAccessibleTextMarkup.hpp>
-#include <com/sun/star/accessibility/XAccessibleMultiLineText.hpp>
-#include <com/sun/star/accessibility/XAccessibleTextSelection.hpp>
-#include <com/sun/star/accessibility/XAccessibleExtendedAttributes.hpp>
-#include <com/sun/star/accessibility/XAccessibleTextAttributes.hpp>
+//#include <com/sun/star/accessibility/AccessibleScrollType.hpp>
+//#include <com/sun/star/accessibility/XAccessibleEditableText.hpp>
+//#include <com/sun/star/accessibility/XAccessibleSelection.hpp>
+//#include <com/sun/star/accessibility/XAccessibleHypertext.hpp>
+//#include <com/sun/star/accessibility/XAccessibleTextMarkup.hpp>
+//#include <com/sun/star/accessibility/XAccessibleMultiLineText.hpp>
+//#include <com/sun/star/accessibility/XAccessibleTextSelection.hpp>
+//#include <com/sun/star/accessibility/XAccessibleExtendedAttributes.hpp>
+//#include <com/sun/star/accessibility/XAccessibleTextAttributes.hpp>
 #include "accselectionhelper.hxx"
 #include <unordered_map>
 #include <svl/lstner.hxx>

@@ -19,9 +19,9 @@
 #include "vbalistlevel.hxx"
 #include <utility>
 #include <vbahelper/vbahelper.hxx>
-#include <com/sun/star/style/NumberingType.hpp>
+//#include <com/sun/star/style/NumberingType.hpp>
 #include <ooo/vba/word/WdListNumberStyle.hpp>
-#include <com/sun/star/text/HoriOrientation.hpp>
+//#include <com/sun/star/text/HoriOrientation.hpp>
 #include <ooo/vba/word/WdListLevelAlignment.hpp>
 
 using namespace ::ooo::vba;

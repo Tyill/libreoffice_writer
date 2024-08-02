@@ -22,7 +22,7 @@
 
 #include "porrst.hxx"
 
-#include <com/sun/star/uno/Reference.hxx>
+//#include <com/sun/star/uno/Reference.hxx>
 
 namespace com::sun::star::linguistic2 { class XHyphenatedWord; }
 

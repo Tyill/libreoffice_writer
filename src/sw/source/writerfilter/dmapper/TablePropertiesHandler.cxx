@@ -34,7 +34,7 @@
 
 #include <ooxml/resourceids.hxx>
 
-#include <com/sun/star/text/VertOrientation.hpp>
+//#include <com/sun/star/text/VertOrientation.hpp>
 #include <oox/token/tokens.hxx>
 
 using namespace com::sun::star;

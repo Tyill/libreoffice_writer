@@ -20,9 +20,9 @@
 #include <editeng/svxfont.hxx>
 
 #include <vcl/outdev.hxx>
-#include <com/sun/star/i18n/CharType.hpp>
-#include <com/sun/star/i18n/WordType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/CharType.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 
 #include <fntcache.hxx>
 #include <swfont.hxx>

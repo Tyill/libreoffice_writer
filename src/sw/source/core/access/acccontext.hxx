@@ -21,10 +21,10 @@
 
 #include "accframe.hxx"
 #include <accmap.hxx>
-#include <com/sun/star/accessibility/XAccessibleComponent.hpp>
-#include <com/sun/star/accessibility/XAccessibleContext3.hpp>
-#include <com/sun/star/accessibility/XAccessibleEventBroadcaster.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
+////#include <com/sun/star/accessibility/XAccessibleComponent.hpp>
+////#include <com/sun/star/accessibility/XAccessibleContext3.hpp>
+////#include <com/sun/star/accessibility/XAccessibleEventBroadcaster.hpp>
+////#include <com/sun/star/lang/XServiceInfo.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <unotools/resmgr.hxx>
 

@@ -19,7 +19,7 @@
 #ifndef INCLUDED_SW_INC_CRSRSH_HXX
 #define INCLUDED_SW_INC_CRSRSH_HXX
 
-#include <com/sun/star/i18n/WordType.hpp>
+////#include <com/sun/star/i18n/WordType.hpp>
 
 #include <rtl/ustring.hxx>
 #include <tools/link.hxx>

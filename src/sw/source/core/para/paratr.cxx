@@ -19,7 +19,7 @@
 
 #include <hintids.hxx>
 #include <unomid.h>
-#include <com/sun/star/style/DropCapFormat.hpp>
+//#include <com/sun/star/style/DropCapFormat.hpp>
 #include <o3tl/any.hxx>
 #include <SwStyleNameMapper.hxx>
 #include <paratr.hxx>

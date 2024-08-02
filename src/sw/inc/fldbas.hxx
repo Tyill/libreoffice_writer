@@ -25,7 +25,7 @@
 #include "calbck.hxx"
 #include "nodeoffset.hxx"
 
-#include <com/sun/star/beans/XPropertySet.hpp>
+////#include <com/sun/star/beans/XPropertySet.hpp>
 #include <cppuhelper/weakref.hxx>
 #include <editeng/svxenum.hxx>
 #include <unotools/weakref.hxx>

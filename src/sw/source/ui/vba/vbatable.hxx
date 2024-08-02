@@ -20,8 +20,8 @@
 #ifndef INCLUDED_SW_SOURCE_UI_VBA_VBATABLE_HXX
 #define INCLUDED_SW_SOURCE_UI_VBA_VBATABLE_HXX
 #include <vbahelper/vbahelperinterface.hxx>
-#include <com/sun/star/text/XTextDocument.hpp>
-#include <com/sun/star/text/XTextTable.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextTable.hpp>
 #include <ooo/vba/word/XRange.hpp>
 #include <ooo/vba/word/XTable.hpp>
 

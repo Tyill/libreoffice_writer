@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/uri/UriReferenceFactory.hpp>
+//#include <com/sun/star/uri/UriReferenceFactory.hpp>
 
 #include <unotools/charclass.hxx>
 #include <osl/diagnose.h>

@@ -18,7 +18,7 @@
  */
 
 #include <comphelper/processfactory.hxx>
-#include <com/sun/star/i18n/IndexEntrySupplier.hpp>
+//#include <com/sun/star/i18n/IndexEntrySupplier.hpp>
 #include <toxwrap.hxx>
 #include <comphelper/diagnose_ex.hxx>
 

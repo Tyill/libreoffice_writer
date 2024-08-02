@@ -22,9 +22,9 @@
 #include <hintids.hxx>
 #include <cmdid.h>
 
-#include <com/sun/star/beans/XMultiPropertySet.hpp>
-#include <com/sun/star/beans/XPropertiesChangeListener.hpp>
-#include <com/sun/star/container/XHierarchicalNameAccess.hpp>
+//#include <com/sun/star/beans/XMultiPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertiesChangeListener.hpp>
+//#include <com/sun/star/container/XHierarchicalNameAccess.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <officecfg/Office/Common.hxx>
 #include <rtl/ustring.hxx>

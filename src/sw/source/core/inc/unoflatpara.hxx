@@ -21,9 +21,9 @@
 
 #include <cppuhelper/implbase.hxx>
 
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/text/XFlatParagraph.hpp>
-#include <com/sun/star/text/XFlatParagraphIterator.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/text/XFlatParagraph.hpp>
+//#include <com/sun/star/text/XFlatParagraphIterator.hpp>
 #include <svl/listener.hxx>
 #include "unotextmarkup.hxx"
 #include <nodeoffset.hxx>

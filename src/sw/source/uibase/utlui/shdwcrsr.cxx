@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/text/HoriOrientation.hpp>
+//#include <com/sun/star/text/HoriOrientation.hpp>
 #include <shdwcrsr.hxx>
 #include <vcl/ptrstyle.hxx>
 

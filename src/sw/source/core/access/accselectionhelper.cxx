@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/accessibility/XAccessibleSelection.hpp>
+//#include <com/sun/star/accessibility/XAccessibleSelection.hpp>
 #include "accselectionhelper.hxx"
 
 #include "acccontext.hxx"
@@ -29,9 +29,9 @@
 #include <vcl/svapp.hxx>
 #include <flyfrm.hxx>
 
-#include <com/sun/star/uno/Reference.hxx>
-#include <com/sun/star/accessibility/AccessibleStateType.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/uno/Reference.hxx>
+//#include <com/sun/star/accessibility/AccessibleStateType.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
 #include <fmtanchr.hxx>
 
 using namespace ::com::sun::star::accessibility;

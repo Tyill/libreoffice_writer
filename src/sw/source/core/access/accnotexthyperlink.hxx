@@ -19,7 +19,7 @@
 #ifndef INCLUDED_SW_SOURCE_CORE_ACCESS_ACCNOTEXTHYPERLINK_HXX
 #define INCLUDED_SW_SOURCE_CORE_ACCESS_ACCNOTEXTHYPERLINK_HXX
 
-#include <com/sun/star/accessibility/XAccessibleHyperlink.hpp>
+//#include <com/sun/star/accessibility/XAccessibleHyperlink.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <layfrm.hxx>
 

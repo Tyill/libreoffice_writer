@@ -22,8 +22,8 @@
 #include <ooo/vba/word/XSelection.hpp>
 #include <ooo/vba/word/XRange.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
-#include <com/sun/star/text/XTextViewCursor.hpp>
-#include <com/sun/star/text/XTextTable.hpp>
+//#include <com/sun/star/text/XTextViewCursor.hpp>
+//#include <com/sun/star/text/XTextTable.hpp>
 #include <ooo/vba/word/XParagraphFormat.hpp>
 #include <ooo/vba/word/XFind.hpp>
 #include <ooo/vba/word/XFont.hpp>

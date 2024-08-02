@@ -23,8 +23,8 @@
 #include <unotools/viewoptions.hxx>
 #include <vcl/weld.hxx>
 #include <o3tl/string_view.hxx>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/text/XBookmarksSupplier.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/text/XBookmarksSupplier.hpp>
 #include <officecfg/Office/Common.hxx>
 
 #include <swabstdlg.hxx>

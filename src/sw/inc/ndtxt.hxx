@@ -19,7 +19,7 @@
 #pragma once
 
 #include <cppuhelper/weakref.hxx>
-#include <com/sun/star/text/XTextContent.hpp>
+////#include <com/sun/star/text/XTextContent.hpp>
 
 #include "swdllapi.h"
 #include "IDocumentContentOperations.hxx"

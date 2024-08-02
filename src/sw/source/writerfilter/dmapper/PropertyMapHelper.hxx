@@ -19,7 +19,7 @@
 
 #pragma once
 
-#include <com/sun/star/beans/PropertyValues.hpp>
+//#include <com/sun/star/beans/PropertyValues.hpp>
 
 namespace writerfilter::dmapper
 {

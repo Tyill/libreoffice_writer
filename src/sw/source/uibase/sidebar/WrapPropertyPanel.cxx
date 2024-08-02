@@ -30,7 +30,7 @@
 #include <hintids.hxx>
 #include <strings.hrc>
 #include <uitool.hxx>
-#include <com/sun/star/lang/IllegalArgumentException.hpp>
+//#include <com/sun/star/lang/IllegalArgumentException.hpp>
 
 namespace sw::sidebar {
 

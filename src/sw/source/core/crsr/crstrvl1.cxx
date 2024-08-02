@@ -20,7 +20,7 @@
 #include <crsrsh.hxx>
 #include <viscrs.hxx>
 
-#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
 
 using namespace ::com::sun::star::i18n;
 

@@ -59,7 +59,7 @@
 #include <svx/swframetypes.hxx>
 #include <o3tl/unit_conversion.hxx>
 
-#include <com/sun/star/embed/XEmbeddedObject.hpp>
+//#include <com/sun/star/embed/XEmbeddedObject.hpp>
 
 using namespace com::sun::star;
 

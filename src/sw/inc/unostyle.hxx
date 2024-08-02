@@ -23,16 +23,16 @@
 #include <svl/style.hxx>
 #include "unocoll.hxx"
 #include "tblafmt.hxx"
-#include <com/sun/star/style/XStyle.hpp>
-#include <com/sun/star/style/XStyleLoader.hpp>
-#include <com/sun/star/container/XNameContainer.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/beans/XPropertyState.hpp>
+//#include <com/sun/star/style/XStyle.hpp>
+//#include <com/sun/star/style/XStyleLoader.hpp>
+//#include <com/sun/star/container/XNameContainer.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/beans/XPropertyState.hpp>
 #include <cppuhelper/implbase.hxx>
 
-#include <com/sun/star/style/XAutoStyleFamily.hpp>
-#include <com/sun/star/style/XAutoStyles.hpp>
-#include <com/sun/star/style/XAutoStyle.hpp>
+//#include <com/sun/star/style/XAutoStyleFamily.hpp>
+//#include <com/sun/star/style/XAutoStyles.hpp>
+//#include <com/sun/star/style/XAutoStyle.hpp>
 
 #include "coreframestyle.hxx"
 #include "istyleaccess.hxx"

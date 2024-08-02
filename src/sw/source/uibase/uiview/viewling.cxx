@@ -19,11 +19,11 @@
 
 #include <hintids.hxx>
 
-#include <com/sun/star/lang/Locale.hpp>
-#include <com/sun/star/linguistic2/XThesaurus.hpp>
-#include <com/sun/star/linguistic2/ProofreadingResult.hpp>
-#include <com/sun/star/linguistic2/XLinguProperties.hpp>
-#include <com/sun/star/i18n/TextConversionOption.hpp>
+//#include <com/sun/star/lang/Locale.hpp>
+//#include <com/sun/star/linguistic2/XThesaurus.hpp>
+//#include <com/sun/star/linguistic2/ProofreadingResult.hpp>
+//#include <com/sun/star/linguistic2/XLinguProperties.hpp>
+//#include <com/sun/star/i18n/TextConversionOption.hpp>
 #include <comphelper/lok.hxx>
 #include <comphelper/processfactory.hxx>
 #include <comphelper/propertyvalue.hxx>
@@ -57,20 +57,20 @@
 
 #include <boost/property_tree/json_parser.hpp>
 
-#include <com/sun/star/ui/dialogs/XExecutableDialog.hpp>
-#include <com/sun/star/ui/ContextMenuExecuteEvent.hpp>
-#include <com/sun/star/lang/XInitialization.hpp>
-#include <com/sun/star/frame/XDispatch.hpp>
-#include <com/sun/star/frame/XDispatchProvider.hpp>
-#include <com/sun/star/frame/XFrame.hpp>
-#include <com/sun/star/frame/XPopupMenuController.hpp>
-#include <com/sun/star/awt/PopupMenuDirection.hpp>
-#include <com/sun/star/awt/XVclWindowPeer.hpp>
-#include <com/sun/star/util/URL.hpp>
-#include <com/sun/star/beans/PropertyValue.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/util/URLTransformer.hpp>
-#include <com/sun/star/util/XURLTransformer.hpp>
+//#include <com/sun/star/ui/dialogs/XExecutableDialog.hpp>
+//#include <com/sun/star/ui/ContextMenuExecuteEvent.hpp>
+//#include <com/sun/star/lang/XInitialization.hpp>
+//#include <com/sun/star/frame/XDispatch.hpp>
+//#include <com/sun/star/frame/XDispatchProvider.hpp>
+//#include <com/sun/star/frame/XFrame.hpp>
+//#include <com/sun/star/frame/XPopupMenuController.hpp>
+//#include <com/sun/star/awt/PopupMenuDirection.hpp>
+//#include <com/sun/star/awt/XVclWindowPeer.hpp>
+//#include <com/sun/star/util/URL.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/util/URLTransformer.hpp>
+//#include <com/sun/star/util/XURLTransformer.hpp>
 
 #include <vcl/svapp.hxx>
 #include <rtl/ustring.hxx>

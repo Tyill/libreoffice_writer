@@ -17,17 +17,17 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/accessibility/XAccessibleContext.hpp>
+//#include <com/sun/star/accessibility/XAccessibleContext.hpp>
 #include <cppuhelper/queryinterface.hxx>
 #include <cppuhelper/supportsservice.hxx>
 #include <vcl/svapp.hxx>
 #include <sal/log.hxx>
-#include <com/sun/star/accessibility/AccessibleRole.hpp>
-#include <com/sun/star/accessibility/AccessibleRelation.hpp>
-#include <com/sun/star/accessibility/AccessibleRelationType.hpp>
-#include <com/sun/star/accessibility/XAccessibleRelationSet.hpp>
-#include <com/sun/star/accessibility/AccessibleEventId.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/accessibility/AccessibleRole.hpp>
+//#include <com/sun/star/accessibility/AccessibleRelation.hpp>
+//#include <com/sun/star/accessibility/AccessibleRelationType.hpp>
+//#include <com/sun/star/accessibility/XAccessibleRelationSet.hpp>
+//#include <com/sun/star/accessibility/AccessibleEventId.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
 #include <frmfmt.hxx>
 #include <flyfrm.hxx>
 #include <accmap.hxx>

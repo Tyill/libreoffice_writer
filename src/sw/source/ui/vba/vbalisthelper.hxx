@@ -9,10 +9,10 @@
 #ifndef INCLUDED_SW_SOURCE_UI_VBA_VBALISTHELPER_HXX
 #define INCLUDED_SW_SOURCE_UI_VBA_VBALISTHELPER_HXX
 
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/container/XIndexReplace.hpp>
-#include <com/sun/star/container/XNameContainer.hpp>
-#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/container/XIndexReplace.hpp>
+//#include <com/sun/star/container/XNameContainer.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
 
 #include <memory>
 

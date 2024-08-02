@@ -20,7 +20,7 @@
 #define INCLUDED_SW_SOURCE_UI_VBA_VBAWINDOW_HXX
 #include <cppuhelper/implbase.hxx>
 #include <ooo/vba/word/XWindow.hpp>
-#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
 
 #include <vbahelper/vbahelperinterface.hxx>
 #include <vbahelper/vbawindowbase.hxx>

@@ -24,7 +24,7 @@
 #include <docary.hxx>
 #include <numrule.hxx>
 #include <charfmt.hxx>
-#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
 
 #include "sprmids.hxx"
 

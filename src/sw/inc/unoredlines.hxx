@@ -25,7 +25,7 @@
 #include "unocoll.hxx"
 #include "unobaseclass.hxx"
 #include <svl/listener.hxx>
-#include <com/sun/star/container/XEnumerationAccess.hpp>
+//#include <com/sun/star/container/XEnumerationAccess.hpp>
 
 class SwRangeRedline;
 namespace com::sun::star::beans { class XPropertySet; }

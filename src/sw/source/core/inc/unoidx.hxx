@@ -19,12 +19,12 @@
 
 #pragma once
 
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/container/XNamed.hpp>
-#include <com/sun/star/util/XRefreshable.hpp>
-#include <com/sun/star/text/XDocumentIndexMark.hpp>
-#include <com/sun/star/text/XDocumentIndex.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/container/XNamed.hpp>
+//#include <com/sun/star/util/XRefreshable.hpp>
+//#include <com/sun/star/text/XDocumentIndexMark.hpp>
+//#include <com/sun/star/text/XDocumentIndex.hpp>
 
 #include <cppuhelper/implbase.hxx>
 

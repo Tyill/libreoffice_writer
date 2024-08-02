@@ -17,14 +17,14 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/text/XDocumentIndexesSupplier.hpp>
-#include <com/sun/star/text/XTextSectionsSupplier.hpp>
-#include <com/sun/star/text/XDependentTextField.hpp>
-#include <com/sun/star/text/XDocumentIndex.hpp>
-#include <com/sun/star/text/ChapterFormat.hpp>
-#include <com/sun/star/text/XTextSection.hpp>
-#include <com/sun/star/beans/PropertyValues.hpp>
-#include <com/sun/star/ucb/XCommandEnvironment.hpp>
+//#include <com/sun/star/text/XDocumentIndexesSupplier.hpp>
+//#include <com/sun/star/text/XTextSectionsSupplier.hpp>
+//#include <com/sun/star/text/XDependentTextField.hpp>
+//#include <com/sun/star/text/XDocumentIndex.hpp>
+//#include <com/sun/star/text/ChapterFormat.hpp>
+//#include <com/sun/star/text/XTextSection.hpp>
+//#include <com/sun/star/beans/PropertyValues.hpp>
+//#include <com/sun/star/ucb/XCommandEnvironment.hpp>
 #include <comphelper/string.hxx>
 #include <comphelper/servicehelper.hxx>
 #include <tools/UnitConversion.hxx>

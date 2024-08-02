@@ -9,11 +9,11 @@
 
 #include "ww8toolbar.hxx"
 #include "ww8scan.hxx"
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/ui/XUIConfigurationPersistence.hpp>
-#include <com/sun/star/ui/theModuleUIConfigurationManagerSupplier.hpp>
-#include <com/sun/star/lang/XSingleComponentFactory.hpp>
-#include <com/sun/star/ui/ItemType.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/ui/XUIConfigurationPersistence.hpp>
+//#include <com/sun/star/ui/theModuleUIConfigurationManagerSupplier.hpp>
+//#include <com/sun/star/lang/XSingleComponentFactory.hpp>
+//#include <com/sun/star/ui/ItemType.hpp>
 #include <fstream>
 #include <comphelper/documentinfo.hxx>
 #include <comphelper/indexedpropertyvalues.hxx>

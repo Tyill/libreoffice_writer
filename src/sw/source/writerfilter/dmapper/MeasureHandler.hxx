@@ -20,7 +20,7 @@
 
 #include "LoggedResources.hxx"
 #include <vector>
-#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
 
 namespace writerfilter::dmapper
 {

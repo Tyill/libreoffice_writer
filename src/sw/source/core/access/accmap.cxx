@@ -58,11 +58,11 @@
 #include <svx/ShapeTypeHandler.hxx>
 #include <svx/SvxShapeTypes.hxx>
 #include <svx/svdpage.hxx>
-#include <com/sun/star/accessibility/AccessibleEventId.hpp>
-#include <com/sun/star/accessibility/AccessibleStateType.hpp>
-#include <com/sun/star/accessibility/AccessibleRole.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/document/XShapeEventBroadcaster.hpp>
+//#include <com/sun/star/accessibility/AccessibleEventId.hpp>
+//#include <com/sun/star/accessibility/AccessibleStateType.hpp>
+//#include <com/sun/star/accessibility/AccessibleRole.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/document/XShapeEventBroadcaster.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <comphelper/interfacecontainer4.hxx>
 #include <pagepreviewlayout.hxx>

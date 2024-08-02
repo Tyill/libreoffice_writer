@@ -21,8 +21,8 @@
 
 #include <comphelper/propertyvalue.hxx>
 #include <unotools/mediadescriptor.hxx>
-#include <com/sun/star/io/XStream.hpp>
-#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/io/XStream.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
 #include <utility>
 
 /* class for a thread to retrieve an input stream given by a URL

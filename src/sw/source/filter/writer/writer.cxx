@@ -34,7 +34,7 @@
 #include <IDocumentMarkAccess.hxx>
 #include <numrule.hxx>
 #include <swerror.h>
-#include <com/sun/star/ucb/ContentCreationException.hpp>
+//#include <com/sun/star/ucb/ContentCreationException.hpp>
 
 using namespace css;
 

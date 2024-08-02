@@ -21,8 +21,8 @@
 
 #include <ooo/vba/word/XTableOfContents.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
-#include <com/sun/star/text/XTextDocument.hpp>
-#include <com/sun/star/text/XDocumentIndex.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XDocumentIndex.hpp>
 
 typedef InheritedHelperInterfaceWeakImpl< ooo::vba::word::XTableOfContents > SwVbaTableOfContents_BASE;
 

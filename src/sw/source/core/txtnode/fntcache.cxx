@@ -28,9 +28,9 @@
 #include <vcl/svapp.hxx>
 #include <vcl/lazydelete.hxx>
 #include <vcl/glyphitemcache.hxx>
-#include <com/sun/star/i18n/CharacterIteratorMode.hpp>
-#include <com/sun/star/i18n/WordType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/CharacterIteratorMode.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 #include <breakit.hxx>
 #include <paintfrm.hxx>
 #include <viewsh.hxx>

@@ -24,11 +24,11 @@
 #include <string_view>
 
 #include "swtypes.hxx"
-#include <com/sun/star/text/XTextColumns.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/container/XIndexReplace.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/container/XNamed.hpp>
+//#include <com/sun/star/text/XTextColumns.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/container/XIndexReplace.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/container/XNamed.hpp>
 #include <cppuhelper/implbase.hxx>
 #include "unobaseclass.hxx"
 

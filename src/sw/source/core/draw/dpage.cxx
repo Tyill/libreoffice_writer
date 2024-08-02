@@ -38,8 +38,8 @@
 #include <dflyobj.hxx>
 #include <docsh.hxx>
 #include <flyfrm.hxx>
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
-#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
 
 using namespace ::com::sun::star::uno;
 using namespace ::com::sun::star::drawing;

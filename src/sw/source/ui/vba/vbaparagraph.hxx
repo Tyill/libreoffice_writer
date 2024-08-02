@@ -23,8 +23,8 @@
 #include <ooo/vba/word/XParagraphs.hpp>
 #include <ooo/vba/word/XParagraph.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
-#include <com/sun/star/text/XTextRange.hpp>
-#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
 
 typedef InheritedHelperInterfaceWeakImpl< ooo::vba::word::XParagraph > SwVbaParagraph_BASE;
 

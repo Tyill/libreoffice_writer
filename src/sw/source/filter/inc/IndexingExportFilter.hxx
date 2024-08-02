@@ -9,10 +9,10 @@
 
 #pragma once
 
-#include <com/sun/star/document/XFilter.hpp>
-#include <com/sun/star/document/XExporter.hpp>
-#include <com/sun/star/lang/XInitialization.hpp>
-#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/document/XFilter.hpp>
+//#include <com/sun/star/document/XExporter.hpp>
+//#include <com/sun/star/lang/XInitialization.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <cppuhelper/supportsservice.hxx>
 

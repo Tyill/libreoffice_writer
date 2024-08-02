@@ -17,11 +17,11 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/embed/ElementModes.hpp>
-#include <com/sun/star/embed/XTransactedObject.hpp>
-#include <com/sun/star/embed/XStorage.hpp>
-#include <com/sun/star/container/ElementExistException.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/embed/ElementModes.hpp>
+//#include <com/sun/star/embed/XTransactedObject.hpp>
+//#include <com/sun/star/embed/XStorage.hpp>
+//#include <com/sun/star/container/ElementExistException.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 #include <osl/file.hxx>
 #include <rtl/ustring.hxx>
 #include <sal/log.hxx>

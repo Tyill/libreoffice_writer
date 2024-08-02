@@ -20,8 +20,8 @@
 #define INCLUDED_SW_INC_UNOBASECLASS_HXX
 
 #include <memory>
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/container/XEnumeration.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/container/XEnumeration.hpp>
 
 #include <cppuhelper/implbase.hxx>
 

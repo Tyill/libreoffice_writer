@@ -23,7 +23,7 @@
 #include "format.hxx"
 #include "swtypes.hxx"
 #include <svl/poolitem.hxx>
-#include <com/sun/star/text/WrapInfluenceOnPosition.hpp>
+//#include <com/sun/star/text/WrapInfluenceOnPosition.hpp>
 
 /**
  * Allows positioning of floating screen objects without considering their own wrapping type and the

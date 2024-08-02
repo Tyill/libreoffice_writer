@@ -67,15 +67,15 @@
 #include <cppuhelper/supportsservice.hxx>
 #include <svx/scene3d.hxx>
 #include <tools/UnitConversion.hxx>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
-#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
 #include <fmtwrapinfluenceonobjpos.hxx>
-#include <com/sun/star/text/TextContentAnchorType.hpp>
+//#include <com/sun/star/text/TextContentAnchorType.hpp>
 #include <basegfx/matrix/b2dhommatrixtools.hxx>
-#include <com/sun/star/drawing/PointSequence.hpp>
-#include <com/sun/star/lang/IllegalArgumentException.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/drawing/PointSequence.hpp>
+//#include <com/sun/star/lang/IllegalArgumentException.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
 #include <docmodel/uno/UnoTheme.hxx>
 
 using namespace ::com::sun::star;

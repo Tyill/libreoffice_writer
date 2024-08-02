@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 #include <osl/diagnose.h>
 #include <fmtcntnt.hxx>
 #include <txatbase.hxx>

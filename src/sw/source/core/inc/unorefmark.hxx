@@ -19,10 +19,10 @@
 
 #pragma once
 
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/container/XNamed.hpp>
-#include <com/sun/star/text/XTextContent.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/container/XNamed.hpp>
+//#include <com/sun/star/text/XTextContent.hpp>
 
 #include <cppuhelper/implbase.hxx>
 

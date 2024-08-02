@@ -19,9 +19,9 @@
 #pragma once
 
 #include "FFDataHandler.hxx"
-#include <com/sun/star/text/XTextDocument.hpp>
-#include <com/sun/star/text/XFormField.hpp>
-#include <com/sun/star/uno/Reference.hxx>
+//#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/text/XFormField.hpp>
+//#include <com/sun/star/uno/Reference.hxx>
 #include "FieldTypes.hxx"
 #include <rtl/ref.hxx>
 

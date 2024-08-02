@@ -21,9 +21,9 @@
 #define INCLUDED_SW_SOURCE_CORE_ACCESS_ACCNOTEXTFRAME_HXX
 
 #include "accframebase.hxx"
-#include <com/sun/star/accessibility/AccessibleScrollType.hpp>
-#include <com/sun/star/accessibility/XAccessibleImage.hpp>
-#include <com/sun/star/accessibility/XAccessibleHypertext.hpp>
+////#include <com/sun/star/accessibility/AccessibleScrollType.hpp>
+////#include <com/sun/star/accessibility/XAccessibleImage.hpp>
+//#include <com/sun/star/accessibility/XAccessibleHypertext.hpp>
 
 class SwFlyFrame;
 class SwNoTextNode;

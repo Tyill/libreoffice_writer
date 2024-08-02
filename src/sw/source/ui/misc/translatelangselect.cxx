@@ -33,9 +33,9 @@
 #include <vcl/idle.hxx>
 #include <mdiexp.hxx>
 #include <strings.hrc>
-#include <com/sun/star/task/XStatusIndicator.hpp>
+//#include <com/sun/star/task/XStatusIndicator.hpp>
 #include <sfx2/viewfrm.hxx>
-#include <com/sun/star/task/XStatusIndicatorFactory.hpp>
+//#include <com/sun/star/task/XStatusIndicatorFactory.hpp>
 #include <linguistic/translate.hxx>
 #include <officecfg/Office/Linguistic.hxx>
 

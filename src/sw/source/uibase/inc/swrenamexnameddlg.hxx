@@ -20,8 +20,8 @@
 
 #include <vcl/textfilter.hxx>
 #include <vcl/weld.hxx>
-#include <com/sun/star/container/XNameAccess.hpp>
-#include <com/sun/star/container/XNamed.hpp>
+//#include <com/sun/star/container/XNameAccess.hpp>
+//#include <com/sun/star/container/XNamed.hpp>
 
 class SwRenameXNamedDlg final : public weld::GenericDialogController
 {

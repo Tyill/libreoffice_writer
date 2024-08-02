@@ -39,7 +39,7 @@
 #include <ndindex.hxx>
 #include <pam.hxx>
 #include <frameformats.hxx>
-#include <com/sun/star/embed/EmbedStates.hpp>
+//#include <com/sun/star/embed/EmbedStates.hpp>
 #include <svx/svdobj.hxx>
 #include <svx/svdpage.hxx>
 #include <osl/diagnose.h>

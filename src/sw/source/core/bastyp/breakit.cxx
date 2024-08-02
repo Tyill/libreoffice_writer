@@ -20,9 +20,9 @@
 #include <breakit.hxx>
 #include <swtypes.hxx>
 
-#include <com/sun/star/i18n/ScriptType.hpp>
-#include <com/sun/star/i18n/CharacterIteratorMode.hpp>
-#include <com/sun/star/i18n/BreakIterator.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/CharacterIteratorMode.hpp>
+//#include <com/sun/star/i18n/BreakIterator.hpp>
 #include <svl/languageoptions.hxx>
 #include <unicode/uchar.h>
 #include <unotools/localedatawrapper.hxx>

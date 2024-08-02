@@ -18,7 +18,7 @@
  */
 #include "vbatemplate.hxx"
 #include "vbaautotextentry.hxx"
-#include <com/sun/star/text/AutoTextContainer.hpp>
+//#include <com/sun/star/text/AutoTextContainer.hpp>
 #include <comphelper/processfactory.hxx>
 #include <tools/urlobj.hxx>
 #include <rtl/character.hxx>

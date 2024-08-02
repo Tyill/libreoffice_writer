@@ -20,8 +20,8 @@
 #ifndef INCLUDED_SW_INC_TOXWRAP_HXX
 #define INCLUDED_SW_INC_TOXWRAP_HXX
 
-#include <com/sun/star/lang/Locale.hpp>
-#include <com/sun/star/i18n/XExtendedIndexEntrySupplier.hpp>
+//#include <com/sun/star/lang/Locale.hpp>
+//#include <com/sun/star/i18n/XExtendedIndexEntrySupplier.hpp>
 #include <tools/long.hxx>
 #include "swdllapi.h"
 

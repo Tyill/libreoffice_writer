@@ -30,7 +30,7 @@
 #include <svl/listener.hxx>
 #include <svl/poolitem.hxx>
 #include <unotools/weakref.hxx>
-#include <com/sun/star/text/XDocumentIndexMark.hpp>
+////#include <com/sun/star/text/XDocumentIndexMark.hpp>
 
 #include "calbck.hxx"
 #include "hints.hxx"

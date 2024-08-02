@@ -17,16 +17,16 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/container/XNameAccess.hpp>
-#include <com/sun/star/sdbc/XConnection.hpp>
-#include <com/sun/star/sdbcx/XTablesSupplier.hpp>
-#include <com/sun/star/sdbcx/XColumnsSupplier.hpp>
-#include <com/sun/star/sdb/DatabaseContext.hpp>
-#include <com/sun/star/sdb/XQueriesSupplier.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/container/XNameAccess.hpp>
+//#include <com/sun/star/sdbc/XConnection.hpp>
+//#include <com/sun/star/sdbcx/XTablesSupplier.hpp>
+//#include <com/sun/star/sdbcx/XColumnsSupplier.hpp>
+//#include <com/sun/star/sdb/DatabaseContext.hpp>
+//#include <com/sun/star/sdb/XQueriesSupplier.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 #include <comphelper/processfactory.hxx>
 #include <comphelper/string.hxx>
-#include <com/sun/star/container/XContainerListener.hpp>
+//#include <com/sun/star/container/XContainerListener.hpp>
 #include <cppuhelper/implbase.hxx>
 #include <i18nlangtag/languagetag.hxx>
 #include <osl/diagnose.h>

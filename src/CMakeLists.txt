@@ -8,11 +8,19 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/Builds/$<CONFIG>/${CMAKE_
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/Builds/$<CONFIG>/${CMAKE_VS_PLATFORM_NAME})
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/Builds/$<CONFIG>/${CMAKE_VS_PLATFORM_NAME})
 
+
 if (UNIX)
-  SET(CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} -Wno-deprecated-declarations")
+  add_compile_definitions(LINUX)
+  set(CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} -Wno-deprecated-declarations")
 endif(UNIX)
 
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include/tools)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include/rtl)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/sw/inc)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/sw/source/core/inc)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/config_host)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/udkapi)
 
 FILE(GLOB_RECURSE src "*.cpp" "*.cxx" "*.h" "*.hxx")
 

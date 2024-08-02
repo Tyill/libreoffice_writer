@@ -47,7 +47,7 @@
 #include <xmloff/odffields.hxx>
 #include <IMark.hxx>
 
-#include <com/sun/star/drawing/TextVerticalAdjust.hpp>
+//#include <com/sun/star/drawing/TextVerticalAdjust.hpp>
 #include <swtypes.hxx>
 #include <fmtfsize.hxx>
 #include <fmtornt.hxx>

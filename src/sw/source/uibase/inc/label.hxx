@@ -20,7 +20,7 @@
 #define INCLUDED_SW_SOURCE_UIBASE_INC_LABEL_HXX
 
 #include <sfx2/tabdlg.hxx>
-#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
 #include "labelcfg.hxx"
 #include <vector>
 

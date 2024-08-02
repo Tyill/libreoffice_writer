@@ -26,15 +26,15 @@
 
 #include <ooxml/resourceids.hxx>
 
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/container/XNameContainer.hpp>
-#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
-#include <com/sun/star/style/NumberingType.hpp>
-#include <com/sun/star/text/HoriOrientation.hpp>
-#include <com/sun/star/text/PositionAndSpaceMode.hpp>
-#include <com/sun/star/text/XChapterNumberingSupplier.hpp>
-#include <com/sun/star/graphic/XGraphic.hpp>
-#include <com/sun/star/awt/XBitmap.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/container/XNameContainer.hpp>
+//#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
+//#include <com/sun/star/style/NumberingType.hpp>
+//#include <com/sun/star/text/HoriOrientation.hpp>
+//#include <com/sun/star/text/PositionAndSpaceMode.hpp>
+//#include <com/sun/star/text/XChapterNumberingSupplier.hpp>
+//#include <com/sun/star/graphic/XGraphic.hpp>
+//#include <com/sun/star/awt/XBitmap.hpp>
 
 #include <osl/diagnose.h>
 #include <rtl/ustring.hxx>

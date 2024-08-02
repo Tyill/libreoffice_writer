@@ -27,9 +27,9 @@
 #include <i18nutil/searchopt.hxx>
 #include <o3tl/any.hxx>
 #include <vcl/svapp.hxx>
-#include <com/sun/star/util/SearchAlgorithms2.hpp>
-#include <com/sun/star/util/SearchFlags.hpp>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/util/SearchAlgorithms2.hpp>
+//#include <com/sun/star/util/SearchFlags.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
 #include <comphelper/servicehelper.hxx>
 #include <cppuhelper/supportsservice.hxx>
 #include <svl/itemprop.hxx>

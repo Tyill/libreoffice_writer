@@ -34,8 +34,8 @@
 #include <sfx2/docfilt.hxx>
 #include <sfx2/fcontnr.hxx>
 #include <svtools/unitconv.hxx>
-#include <com/sun/star/view/XViewSettingsSupplier.hpp>
-#include <com/sun/star/view/DocumentZoomType.hpp>
+//#include <com/sun/star/view/XViewSettingsSupplier.hpp>
+//#include <com/sun/star/view/DocumentZoomType.hpp>
 #include <fldmgr.hxx>
 #include <fldbas.hxx>
 #include <unotxdoc.hxx>

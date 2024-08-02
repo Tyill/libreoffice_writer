@@ -40,7 +40,7 @@
 #include <svtools/accessibilityoptions.hxx>
 #include <comphelper/diagnose_ex.hxx>
 #include <unotools/useroptions.hxx>
-#include <com/sun/star/document/UpdateDocMode.hpp>
+//#include <com/sun/star/document/UpdateDocMode.hpp>
 #include <sfx2/docfile.hxx>
 #include <sfx2/objface.hxx>
 #include <vcl/settings.hxx>
@@ -73,11 +73,11 @@
 #include <mmconfigitem.hxx>
 #include <strings.hrc>
 #include <unotxdoc.hxx>
-#include <com/sun/star/container/XChild.hpp>
-#include <com/sun/star/sdbc/XConnection.hpp>
-#include <com/sun/star/sdb/TextConnectionSettings.hpp>
-#include <com/sun/star/sdbc/XDataSource.hpp>
-#include <com/sun/star/task/OfficeRestartManager.hpp>
+//#include <com/sun/star/container/XChild.hpp>
+//#include <com/sun/star/sdbc/XConnection.hpp>
+//#include <com/sun/star/sdb/TextConnectionSettings.hpp>
+//#include <com/sun/star/sdbc/XDataSource.hpp>
+//#include <com/sun/star/task/OfficeRestartManager.hpp>
 #include <org/freedesktop/PackageKit/SyncDbusSessionHelper.hpp>
 #include <swabstdlg.hxx>
 #include <comphelper/dispatchcommand.hxx>

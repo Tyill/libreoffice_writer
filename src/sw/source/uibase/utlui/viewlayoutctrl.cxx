@@ -19,7 +19,7 @@
 
 #include <viewlayoutctrl.hxx>
 
-#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
 
 #include <comphelper/propertyvalue.hxx>
 #include <vcl/event.hxx>

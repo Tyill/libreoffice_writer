@@ -25,7 +25,7 @@
 
 #include <cppuhelper/weakref.hxx>
 #include <unotools/weakref.hxx>
-#include <com/sun/star/text/XTextContent.hpp>
+//#include <com/sun/star/text/XTextContent.hpp>
 
 class SwDoc;
 class SwTextLineBreak;

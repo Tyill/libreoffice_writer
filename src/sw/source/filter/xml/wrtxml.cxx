@@ -17,16 +17,16 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/embed/XStorage.hpp>
-#include <com/sun/star/embed/ElementModes.hpp>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/task/XStatusIndicator.hpp>
-#include <com/sun/star/xml/sax/Writer.hpp>
-#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
-#include <com/sun/star/document/XExporter.hpp>
-#include <com/sun/star/document/XFilter.hpp>
-#include <com/sun/star/frame/XModule.hpp>
+//#include <com/sun/star/embed/XStorage.hpp>
+//#include <com/sun/star/embed/ElementModes.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/task/XStatusIndicator.hpp>
+//#include <com/sun/star/xml/sax/Writer.hpp>
+//#include <com/sun/star/drawing/XDrawPageSupplier.hpp>
+//#include <com/sun/star/document/XExporter.hpp>
+//#include <com/sun/star/document/XFilter.hpp>
+//#include <com/sun/star/frame/XModule.hpp>
 
 #include <officecfg/Office/Common.hxx>
 #include <comphelper/fileformat.h>
@@ -61,7 +61,7 @@
 #include <strings.hrc>
 
 #include <comphelper/documentconstants.hxx>
-#include <com/sun/star/rdf/XDocumentMetadataAccess.hpp>
+//#include <com/sun/star/rdf/XDocumentMetadataAccess.hpp>
 
 using namespace ::com::sun::star;
 using namespace ::com::sun::star::uno;

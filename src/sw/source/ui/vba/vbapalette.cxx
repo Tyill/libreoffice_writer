@@ -19,7 +19,7 @@
 
 #include "vbapalette.hxx"
 #include <cppuhelper/implbase.hxx>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
 #include <ooo/vba/word/WdColor.hpp>
 #include <sal/macros.h>
 

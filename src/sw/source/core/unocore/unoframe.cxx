@@ -17,15 +17,15 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/awt/XBitmap.hpp>
-#include <com/sun/star/embed/NoVisualAreaSizeException.hpp>
-#include <com/sun/star/container/XChild.hpp>
-#include <com/sun/star/drawing/BitmapMode.hpp>
-#include <com/sun/star/drawing/FillStyle.hpp>
-#include <com/sun/star/embed/EmbedStates.hpp>
-#include <com/sun/star/embed/Aspects.hpp>
-#include <com/sun/star/frame/XTitle.hpp>
-#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/awt/XBitmap.hpp>
+//#include <com/sun/star/embed/NoVisualAreaSizeException.hpp>
+//#include <com/sun/star/container/XChild.hpp>
+//#include <com/sun/star/drawing/BitmapMode.hpp>
+//#include <com/sun/star/drawing/FillStyle.hpp>
+//#include <com/sun/star/embed/EmbedStates.hpp>
+//#include <com/sun/star/embed/Aspects.hpp>
+//#include <com/sun/star/frame/XTitle.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
 #include <o3tl/any.hxx>
 #include <svx/xfillit0.hxx>
 #include <svx/xflgrit.hxx>
@@ -69,12 +69,12 @@
 #include <unomap.hxx>
 #include <unoprnms.hxx>
 #include <unoevent.hxx>
-#include <com/sun/star/util/XModifyBroadcaster.hpp>
-#include <com/sun/star/text/TextContentAnchorType.hpp>
-#include <com/sun/star/text/WrapTextMode.hpp>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/drawing/PointSequenceSequence.hpp>
-#include <com/sun/star/drawing/PointSequence.hpp>
+//#include <com/sun/star/util/XModifyBroadcaster.hpp>
+//#include <com/sun/star/text/TextContentAnchorType.hpp>
+//#include <com/sun/star/text/WrapTextMode.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/drawing/PointSequenceSequence.hpp>
+//#include <com/sun/star/drawing/PointSequence.hpp>
 #include <tools/poly.hxx>
 #include <swundo.hxx>
 #include <svx/svdpage.hxx>
@@ -106,7 +106,7 @@
 #include <editeng/xmlcnitm.hxx>
 #include <poolfmt.hxx>
 #include <pagedesc.hxx>
-#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
+//#include <com/sun/star/style/XStyleFamiliesSupplier.hpp>
 #include <editeng/frmdiritem.hxx>
 #include <fmtfollowtextflow.hxx>
 #include <fmtwrapinfluenceonobjpos.hxx>

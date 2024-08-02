@@ -21,7 +21,7 @@
 
 #include "accnotextframe.hxx"
 
-#include <com/sun/star/accessibility/XAccessibleExtendedAttributes.hpp>
+//#include <com/sun/star/accessibility/XAccessibleExtendedAttributes.hpp>
 
 class SwAccessibleEmbeddedObject : public   SwAccessibleNoTextFrame
             , public css::accessibility::XAccessibleExtendedAttributes

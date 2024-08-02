@@ -52,7 +52,7 @@
 #include <xmloff/xmlimp.hxx>
 #include <xmloff/xmlnamespace.hxx>
 #include "xmlithlp.hxx"
-#include <com/sun/star/uno/Any.hxx>
+//#include <com/sun/star/uno/Any.hxx>
 
 using ::editeng::SvxBorderLine;
 using namespace ::com::sun::star;

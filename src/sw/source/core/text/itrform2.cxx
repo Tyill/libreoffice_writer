@@ -20,7 +20,7 @@
 #include <hintids.hxx>
 
 #include <memory>
-#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
 #include <editeng/lspcitem.hxx>
 #include <txtflcnt.hxx>
 #include <txtftn.hxx>
@@ -63,12 +63,12 @@
 #include <unocrsrhelper.hxx>
 #include <textcontentcontrol.hxx>
 #include <EnhancedPDFExportHelper.hxx>
-#include <com/sun/star/rdf/Statement.hpp>
-#include <com/sun/star/rdf/URI.hpp>
-#include <com/sun/star/rdf/URIs.hpp>
-#include <com/sun/star/rdf/XDocumentMetadataAccess.hpp>
-#include <com/sun/star/rdf/XLiteral.hpp>
-#include <com/sun/star/text/XTextContent.hpp>
+//#include <com/sun/star/rdf/Statement.hpp>
+//#include <com/sun/star/rdf/URI.hpp>
+//#include <com/sun/star/rdf/URIs.hpp>
+//#include <com/sun/star/rdf/XDocumentMetadataAccess.hpp>
+//#include <com/sun/star/rdf/XLiteral.hpp>
+//#include <com/sun/star/text/XTextContent.hpp>
 
 using namespace ::com::sun::star;
 

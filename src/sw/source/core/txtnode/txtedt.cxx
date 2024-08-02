@@ -71,9 +71,9 @@
 #include <unicode/uchar.h>
 #include <DocumentSettingManager.hxx>
 
-#include <com/sun/star/i18n/WordType.hpp>
-#include <com/sun/star/i18n/ScriptType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/WordType.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 
 #include <vector>
 

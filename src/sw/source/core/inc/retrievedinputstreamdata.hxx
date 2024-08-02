@@ -22,7 +22,7 @@
 #include <tools/link.hxx>
 #include <sal/types.h>
 #include <mutex>
-#include <com/sun/star/uno/Reference.hxx>
+//#include <com/sun/star/uno/Reference.hxx>
 
 #include <map>
 #include <memory>

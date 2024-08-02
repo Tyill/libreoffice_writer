@@ -20,8 +20,8 @@
 #ifndef INCLUDED_SW_INC_SECTION_HXX
 #define INCLUDED_SW_INC_SECTION_HXX
 
-#include <com/sun/star/uno/Sequence.h>
-#include <com/sun/star/text/XTextSection.hpp>
+//#include <com/sun/star/uno/Sequence.h>
+////#include <com/sun/star/text/XTextSection.hpp>
 
 #include <tools/ref.hxx>
 #include <svl/hint.hxx>

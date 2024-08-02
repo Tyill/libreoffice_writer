@@ -143,14 +143,14 @@
 #include <utility>
 #include <vcl/embeddedfontshelper.hxx>
 
-#include <com/sun/star/i18n/ScriptType.hpp>
-#include <com/sun/star/i18n/XBreakIterator.hpp>
-#include <com/sun/star/chart2/XChartDocument.hpp>
-#include <com/sun/star/drawing/ShadingPattern.hpp>
-#include <com/sun/star/text/GraphicCrop.hpp>
-#include <com/sun/star/embed/EmbedStates.hpp>
-#include <com/sun/star/embed/Aspects.hpp>
-#include <com/sun/star/text/ControlCharacter.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/chart2/XChartDocument.hpp>
+//#include <com/sun/star/drawing/ShadingPattern.hpp>
+//#include <com/sun/star/text/GraphicCrop.hpp>
+//#include <com/sun/star/embed/EmbedStates.hpp>
+//#include <com/sun/star/embed/Aspects.hpp>
+//#include <com/sun/star/text/ControlCharacter.hpp>
 
 #include <algorithm>
 #include <cstddef>

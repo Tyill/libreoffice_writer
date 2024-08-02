@@ -17,15 +17,15 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/uno/Sequence.h>
-#include <com/sun/star/uno/Exception.hpp>
-#include <com/sun/star/ucb/UniversalContentBroker.hpp>
-#include <com/sun/star/ucb/XContentIdentifier.hpp>
-#include <com/sun/star/ucb/XCommandEnvironment.hpp>
-#include <com/sun/star/ucb/TransferInfo.hpp>
-#include <com/sun/star/ucb/NameClash.hpp>
-#include <com/sun/star/sdbc/XResultSet.hpp>
-#include <com/sun/star/sdbc/XRow.hpp>
+//#include <com/sun/star/uno/Sequence.h>
+//#include <com/sun/star/uno/Exception.hpp>
+//#include <com/sun/star/ucb/UniversalContentBroker.hpp>
+//#include <com/sun/star/ucb/XContentIdentifier.hpp>
+//#include <com/sun/star/ucb/XCommandEnvironment.hpp>
+//#include <com/sun/star/ucb/TransferInfo.hpp>
+//#include <com/sun/star/ucb/NameClash.hpp>
+//#include <com/sun/star/sdbc/XResultSet.hpp>
+//#include <com/sun/star/sdbc/XRow.hpp>
 #include <comphelper/processfactory.hxx>
 #include <comphelper/extract.hxx>
 #include <o3tl/any.hxx>

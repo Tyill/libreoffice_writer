@@ -25,7 +25,7 @@
 #include <hintids.hxx>
 #include <rtl/textenc.h>
 #include <i18nlangtag/mslangid.hxx>
-#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
 #include <unotools/lingucfg.hxx>
 #include <unotools/viewoptions.hxx>
 #include <sfx2/sfxsids.hrc>

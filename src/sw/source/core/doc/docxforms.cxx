@@ -19,15 +19,15 @@
 
 #include <doc.hxx>
 #include <docsh.hxx>
-#include <com/sun/star/uno/Reference.hxx>
-#include <com/sun/star/frame/XModule.hpp>
-#include <com/sun/star/xforms/Model.hpp>
-#include <com/sun/star/xforms/XModel2.hpp>
-#include <com/sun/star/xforms/XFormsUIHelper1.hpp>
-#include <com/sun/star/xforms/XForms.hpp>
+//#include <com/sun/star/uno/Reference.hxx>
+//#include <com/sun/star/frame/XModule.hpp>
+//#include <com/sun/star/xforms/Model.hpp>
+//#include <com/sun/star/xforms/XModel2.hpp>
+//#include <com/sun/star/xforms/XFormsUIHelper1.hpp>
+//#include <com/sun/star/xforms/XForms.hpp>
 #include <comphelper/processfactory.hxx>
 #include <osl/diagnose.h>
-#include <com/sun/star/container/XIndexAccess.hpp>
+//#include <com/sun/star/container/XIndexAccess.hpp>
 
 using namespace ::com::sun::star;
 

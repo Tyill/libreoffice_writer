@@ -39,7 +39,7 @@
 #include <vcl/svapp.hxx>
 #include <officecfg/Office/Common.hxx>
 
-#include <com/sun/star/lang/IllegalArgumentException.hpp>
+//#include <com/sun/star/lang/IllegalArgumentException.hpp>
 
 namespace sw::sidebar{
 

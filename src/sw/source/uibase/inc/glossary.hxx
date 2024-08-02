@@ -23,7 +23,7 @@
 #include <vcl/textfilter.hxx>
 #include <vcl/weld.hxx>
 
-#include <com/sun/star/text/XAutoTextContainer2.hpp>
+//#include <com/sun/star/text/XAutoTextContainer2.hpp>
 
 #include <rtl/ustring.hxx>
 #include <sfx2/basedlgs.hxx>

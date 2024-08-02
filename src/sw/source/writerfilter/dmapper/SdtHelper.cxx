@@ -8,9 +8,9 @@
  */
 
 #include "SdtHelper.hxx"
-#include <com/sun/star/lang/XMultiServiceFactory.hpp>
-#include <com/sun/star/drawing/XControlShape.hpp>
-#include <com/sun/star/text/VertOrientation.hpp>
+//#include <com/sun/star/lang/XMultiServiceFactory.hpp>
+//#include <com/sun/star/drawing/XControlShape.hpp>
+//#include <com/sun/star/text/VertOrientation.hpp>
 #include <editeng/unoprnms.hxx>
 #include <sal/log.hxx>
 #include <utility>
@@ -20,17 +20,17 @@
 #include <comphelper/string.hxx>
 #include <comphelper/sequence.hxx>
 #include <xmloff/odffields.hxx>
-#include <com/sun/star/text/XTextField.hpp>
+//#include <com/sun/star/text/XTextField.hpp>
 #include "DomainMapper_Impl.hxx"
 #include "StyleSheetTable.hxx"
 #include <officecfg/Office/Writer.hxx>
-#include <com/sun/star/util/XRefreshable.hpp>
-#include <com/sun/star/text/XTextFieldsSupplier.hpp>
-#include <com/sun/star/document/XOOXMLDocumentPropertiesImporter.hpp>
+//#include <com/sun/star/util/XRefreshable.hpp>
+//#include <com/sun/star/text/XTextFieldsSupplier.hpp>
+//#include <com/sun/star/document/XOOXMLDocumentPropertiesImporter.hpp>
 #include <ooxml/OOXMLDocument.hxx>
-#include <com/sun/star/xml/xpath/XPathAPI.hpp>
-#include <com/sun/star/xml/xpath/XPathException.hpp>
-#include <com/sun/star/xml/dom/DocumentBuilder.hpp>
+//#include <com/sun/star/xml/xpath/XPathAPI.hpp>
+//#include <com/sun/star/xml/xpath/XPathException.hpp>
+//#include <com/sun/star/xml/dom/DocumentBuilder.hpp>
 #include <unotxdoc.hxx>
 #include <unobookmark.hxx>
 #include <unocontentcontrol.hxx>

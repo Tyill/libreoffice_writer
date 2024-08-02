@@ -20,9 +20,9 @@
 
 #include <ooo/vba/word/XView.hpp>
 #include <vbahelper/vbahelperinterface.hxx>
-#include <com/sun/star/text/XTextViewCursor.hpp>
-#include <com/sun/star/text/XTextRange.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/text/XTextViewCursor.hpp>
+//#include <com/sun/star/text/XTextRange.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
 
 typedef InheritedHelperInterfaceWeakImpl< ooo::vba::word::XView > SwVbaView_BASE;
 

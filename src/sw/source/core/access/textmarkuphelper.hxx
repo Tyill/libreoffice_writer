@@ -20,7 +20,7 @@
 #define INCLUDED_SW_SOURCE_CORE_ACCESS_TEXTMARKUPHELPER_HXX
 
 #include <sal/types.h>
-#include <com/sun/star/uno/Sequence.h>
+//#include <com/sun/star/uno/Sequence.h>
 
 namespace com::sun::star::accessibility {
     struct TextSegment;

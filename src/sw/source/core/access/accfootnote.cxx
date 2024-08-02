@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/accessibility/AccessibleRole.hpp>
+////#include <com/sun/star/accessibility/AccessibleRole.hpp>
 #include <cppuhelper/supportsservice.hxx>
 #include <vcl/svapp.hxx>
 #include <ftnfrm.hxx>

@@ -21,9 +21,9 @@
 #include <unosection.hxx>
 #include <unotext.hxx>
 
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
-#include <com/sun/star/text/SectionFileLink.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/lang/WrappedTargetRuntimeException.hpp>
+//#include <com/sun/star/text/SectionFileLink.hpp>
 
 #include <comphelper/interfacecontainer4.hxx>
 #include <cppuhelper/exc_hlp.hxx>

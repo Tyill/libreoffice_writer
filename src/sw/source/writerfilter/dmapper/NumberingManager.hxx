@@ -27,8 +27,8 @@
 
 #include <editeng/numitem.hxx>
 
-#include <com/sun/star/container/XIndexReplace.hpp>
-#include <com/sun/star/awt/XBitmap.hpp>
+//#include <com/sun/star/container/XIndexReplace.hpp>
+//#include <com/sun/star/awt/XBitmap.hpp>
 
 namespace writerfilter::dmapper {
 

@@ -22,10 +22,10 @@
 
 #include <vector>
 
-#include <com/sun/star/text/TextMarkupType.hpp>
-#include <com/sun/star/accessibility/TextSegment.hpp>
-#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
-#include <com/sun/star/lang/IllegalArgumentException.hpp>
+//#include <com/sun/star/text/TextMarkupType.hpp>
+//#include <com/sun/star/accessibility/TextSegment.hpp>
+//#include <com/sun/star/lang/IndexOutOfBoundsException.hpp>
+//#include <com/sun/star/lang/IllegalArgumentException.hpp>
 
 #include <comphelper/sequence.hxx>
 #include <osl/diagnose.h>

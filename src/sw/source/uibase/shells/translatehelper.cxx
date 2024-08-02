@@ -37,9 +37,9 @@
 #include <vcl/transfer.hxx>
 #include <swdtflvr.hxx>
 #include <linguistic/translate.hxx>
-#include <com/sun/star/task/XStatusIndicator.hpp>
+//#include <com/sun/star/task/XStatusIndicator.hpp>
 #include <sfx2/viewfrm.hxx>
-#include <com/sun/star/task/XStatusIndicatorFactory.hpp>
+//#include <com/sun/star/task/XStatusIndicatorFactory.hpp>
 #include <strings.hrc>
 
 namespace SwTranslateHelper

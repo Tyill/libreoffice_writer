@@ -19,14 +19,14 @@
 #include "ModelEventListener.hxx"
 #include "PropertyIds.hxx"
 #include <rtl/ustring.hxx>
-#include <com/sun/star/document/XEventBroadcaster.hpp>
-#include <com/sun/star/text/XTextFieldsSupplier.hpp>
-#include <com/sun/star/util/XRefreshable.hpp>
-#include <com/sun/star/beans/XPropertySet.hpp>
-#include <com/sun/star/text/ReferenceFieldPart.hpp>
-#include <com/sun/star/text/ReferenceFieldSource.hpp>
-#include <com/sun/star/frame/XModel.hpp>
-#include <com/sun/star/view/XFormLayerAccess.hpp>
+//#include <com/sun/star/document/XEventBroadcaster.hpp>
+//#include <com/sun/star/text/XTextFieldsSupplier.hpp>
+//#include <com/sun/star/util/XRefreshable.hpp>
+//#include <com/sun/star/beans/XPropertySet.hpp>
+//#include <com/sun/star/text/ReferenceFieldPart.hpp>
+//#include <com/sun/star/text/ReferenceFieldSource.hpp>
+//#include <com/sun/star/frame/XModel.hpp>
+//#include <com/sun/star/view/XFormLayerAccess.hpp>
 #include <comphelper/diagnose_ex.hxx>
 
 namespace writerfilter::dmapper {

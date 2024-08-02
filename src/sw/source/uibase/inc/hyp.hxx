@@ -21,7 +21,7 @@
 #define INCLUDED_SW_SOURCE_UIBASE_INC_HYP_HXX
 
 #include <editeng/splwrap.hxx>
-#include <com/sun/star/linguistic2/XHyphenator.hpp>
+//#include <com/sun/star/linguistic2/XHyphenator.hpp>
 #include <swdllapi.h>
 
 class SwView;

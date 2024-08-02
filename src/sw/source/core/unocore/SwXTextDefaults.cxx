@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
 
 #include <vcl/svapp.hxx>
 #include <osl/diagnose.h>

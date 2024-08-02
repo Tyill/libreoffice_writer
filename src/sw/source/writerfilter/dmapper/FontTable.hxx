@@ -22,8 +22,8 @@
 #include <memory>
 #include <vector>
 #include "LoggedResources.hxx"
-#include <com/sun/star/io/XInputStream.hpp>
-#include <com/sun/star/awt/FontFamily.hpp>
+//#include <com/sun/star/io/XInputStream.hpp>
+//#include <com/sun/star/awt/FontFamily.hpp>
 
 namespace writerfilter::dmapper
 {

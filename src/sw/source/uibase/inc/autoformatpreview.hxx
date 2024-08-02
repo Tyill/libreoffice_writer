@@ -19,7 +19,7 @@
 #ifndef INCLUDED_SW_SOURCE_UIBASE_INC_AUTOFORMATPREVIEW_HXX
 #define INCLUDED_SW_SOURCE_UIBASE_INC_AUTOFORMATPREVIEW_HXX
 
-#include <com/sun/star/i18n/XBreakIterator.hpp>
+//#include <com/sun/star/i18n/XBreakIterator.hpp>
 #include <sal/types.h>
 #include <svx/framelinkarray.hxx>
 #include <svl/numformat.hxx>

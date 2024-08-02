@@ -21,7 +21,7 @@
 #define INCLUDED_SW_SOURCE_UIBASE_INC_SHAREDCONNECTION_HXX
 
 #include <unotools/sharedunocomponent.hxx>
-#include <com/sun/star/sdbc/XConnection.hpp>
+//#include <com/sun/star/sdbc/XConnection.hpp>
 
 typedef ::utl::SharedUNOComponent<css::sdbc::XConnection> SharedConnection;
 

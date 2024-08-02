@@ -18,7 +18,7 @@
  */
 
 #include <memory>
-#include <com/sun/star/text/HoriOrientation.hpp>
+//#include <com/sun/star/text/HoriOrientation.hpp>
 #include <officecfg/Office/Writer.hxx>
 #include <osl/diagnose.h>
 #include <svl/numformat.hxx>

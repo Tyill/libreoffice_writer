@@ -33,8 +33,8 @@
 #include <svl/intitem.hxx>
 #include <editeng/adjustitem.hxx>
 #include <editeng/autokernitem.hxx>
-#include <com/sun/star/document/UpdateDocMode.hpp>
-#include <com/sun/star/i18n/ScriptType.hpp>
+//#include <com/sun/star/document/UpdateDocMode.hpp>
+//#include <com/sun/star/i18n/ScriptType.hpp>
 #include <svx/compatflags.hxx>
 #include <svx/svxids.hrc>
 #include <editeng/fhgtitem.hxx>

@@ -22,8 +22,8 @@
 #include <vbahelper/vbacollectionimpl.hxx>
 #include <ooo/vba/word/XColumns.hpp>
 #include <ooo/vba/word/XColumn.hpp>
-#include <com/sun/star/table/XTableColumns.hpp>
-#include <com/sun/star/text/XTextTable.hpp>
+//#include <com/sun/star/table/XTableColumns.hpp>
+//#include <com/sun/star/text/XTextTable.hpp>
 
 typedef CollTestImplHelper< ooo::vba::word::XColumns > SwVbaColumns_BASE;
 

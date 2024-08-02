@@ -21,8 +21,8 @@
 
 #include <string_view>
 
-#include <com/sun/star/text/XTextTable.hpp>
-#include <com/sun/star/text/XTextSection.hpp>
+//#include <com/sun/star/text/XTextTable.hpp>
+//#include <com/sun/star/text/XTextSection.hpp>
 
 #include <hintids.hxx>
 #include <rtl/ustrbuf.hxx>

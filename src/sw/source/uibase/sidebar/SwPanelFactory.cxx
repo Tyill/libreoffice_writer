@@ -17,7 +17,7 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/ui/XUIElementFactory.hpp>
+//#include <com/sun/star/ui/XUIElementFactory.hpp>
 
 #include "A11yCheckIssuesPanel.hxx"
 #include "ThemePanel.hxx"
@@ -35,8 +35,8 @@
 
 #include <sfx2/sidebar/SidebarPanelBase.hxx>
 #include <vcl/weldutils.hxx>
-#include <com/sun/star/lang/XServiceInfo.hpp>
-#include <com/sun/star/uno/XComponentContext.hpp>
+//#include <com/sun/star/lang/XServiceInfo.hpp>
+//#include <com/sun/star/uno/XComponentContext.hpp>
 #include <comphelper/namedvaluecollection.hxx>
 #include <comphelper/compbase.hxx>
 #include <cppuhelper/supportsservice.hxx>

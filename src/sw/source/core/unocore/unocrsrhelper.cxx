@@ -23,14 +23,14 @@
 #include <algorithm>
 #include <memory>
 
-#include <com/sun/star/beans/NamedValue.hpp>
-#include <com/sun/star/beans/PropertyAttribute.hpp>
-#include <com/sun/star/beans/PropertyState.hpp>
-#include <com/sun/star/embed/ElementModes.hpp>
-#include <com/sun/star/embed/XStorage.hpp>
-#include <com/sun/star/io/IOException.hpp>
-#include <com/sun/star/text/XTextSection.hpp>
-#include <com/sun/star/lang/XSingleServiceFactory.hpp>
+//#include <com/sun/star/beans/NamedValue.hpp>
+//#include <com/sun/star/beans/PropertyAttribute.hpp>
+//#include <com/sun/star/beans/PropertyState.hpp>
+//#include <com/sun/star/embed/ElementModes.hpp>
+//#include <com/sun/star/embed/XStorage.hpp>
+//#include <com/sun/star/io/IOException.hpp>
+//#include <com/sun/star/text/XTextSection.hpp>
+//#include <com/sun/star/lang/XSingleServiceFactory.hpp>
 
 #include <svx/unoshape.hxx>
 

@@ -25,7 +25,7 @@
 #include <memory>
 #include <optional>
 
-#include <com/sun/star/document/XDocumentProperties.hpp>
+//#include <com/sun/star/document/XDocumentProperties.hpp>
 
 #include <xmloff/xmlictxt.hxx>
 #include <xmloff/xmlimp.hxx>

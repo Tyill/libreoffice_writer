@@ -29,7 +29,7 @@
 #include <sfx2/docfile.hxx>
 #include <dialoghelp.hxx>
 #include <linkenum.hxx>
-#include <com/sun/star/document/UpdateDocMode.hpp>
+//#include <com/sun/star/document/UpdateDocMode.hpp>
 #include <swtypes.hxx>
 #include <docsh.hxx>
 #include <bookmark.hxx>

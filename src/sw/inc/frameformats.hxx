@@ -28,8 +28,8 @@
 #include <boost/multi_index/ordered_index.hpp>
 #include <boost/multi_index/random_access_index.hpp>
 #include <boost/multi_index/tag.hpp>
-#include <libxml/xmlstring.h>
-#include <libxml/xmlwriter.h>
+//#include <libxml/xmlstring.h>
+#include <XmlWriter.hxx>
 
 class SwFrameFormat;
 class SwTableFormat;

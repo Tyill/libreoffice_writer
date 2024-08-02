@@ -21,7 +21,7 @@
 
 #include <string_view>
 
-#include <com/sun/star/text/ChapterFormat.hpp>
+//#include <com/sun/star/text/ChapterFormat.hpp>
 #include <osl/diagnose.h>
 #include <doc.hxx>
 #include <frame.hxx>

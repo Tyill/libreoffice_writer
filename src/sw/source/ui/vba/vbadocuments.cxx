@@ -17,8 +17,8 @@
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  */
 
-#include <com/sun/star/text/XTextDocument.hpp>
-#include <com/sun/star/container/XEnumerationAccess.hpp>
+//#include <com/sun/star/text/XTextDocument.hpp>
+//#include <com/sun/star/container/XEnumerationAccess.hpp>
 
 #include <tools/urlobj.hxx>
 #include <rtl/ref.hxx>

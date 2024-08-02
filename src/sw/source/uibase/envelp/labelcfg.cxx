@@ -31,7 +31,7 @@
 #include <osl/diagnose.h>
 #include <o3tl/string_view.hxx>
 
-#include <com/sun/star/beans/PropertyValue.hpp>
+//#include <com/sun/star/beans/PropertyValue.hpp>
 
 using namespace utl;
 using namespace ::com::sun::star::uno;

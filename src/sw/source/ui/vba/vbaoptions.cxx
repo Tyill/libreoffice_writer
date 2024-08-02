@@ -22,7 +22,7 @@
 #include <ooo/vba/word/WdLineStyle.hpp>
 #include <ooo/vba/word/WdLineWidth.hpp>
 #include <ooo/vba/word/WdColorIndex.hpp>
-#include <com/sun/star/util/thePathSettings.hpp>
+//#include <com/sun/star/util/thePathSettings.hpp>
 #include <comphelper/processfactory.hxx>
 #include <basic/sberrors.hxx>
 #include <osl/file.hxx>
